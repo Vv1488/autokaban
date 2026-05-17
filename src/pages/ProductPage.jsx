@@ -1,4 +1,4 @@
-import { useState, useRef } from "react";
+import { useState, useRef, useEffect } from "react";
 import { useParams, Link, useNavigate } from "react-router-dom";
 import { useCart } from "../components/CartContext";
 import products from "../data/products.json";
@@ -25,27 +25,50 @@ export default function ProductPage() {
   const { addToCart } = useCart();
   const product = products.find((p) => p.id === Number(id));
   const [activeImg, setActiveImg] = useState(0);
-  const [fade, setFade] = useState(false);
   const [hover, setHover] = useState(false);
   const [lightbox, setLightbox] = useState(false);
   const [zoom, setZoom] = useState(1);
   const [pos, setPos] = useState({ x: 0, y: 0 });
   const [dragging, setDragging] = useState(false);
   const [dragStart, setDragStart] = useState({ x: 0, y: 0 });
-  const timerRef = useRef(null);
+  const scrollRef = useRef(null);
+  const touchStartX = useRef(0);
+  const touchStartY = useRef(0);
+  const isScrolling = useRef(false);
 
-  const switchTo = (index) => {
-    if (index === activeImg) return;
-    setFade(true);
-    clearTimeout(timerRef.current);
-    timerRef.current = setTimeout(() => {
-      setActiveImg(index);
-      setFade(false);
-    }, 250);
+  useEffect(() => {
+    const el = scrollRef.current;
+    if (!el) return;
+    const block = (e) => e.preventDefault();
+    el.addEventListener("touchmove", block, { passive: false });
+    return () => el.removeEventListener("touchmove", block);
+  }, []);
+
+  const goTo = (index) => {
+    const el = scrollRef.current;
+    if (!el || isScrolling.current) return;
+    const clamped = Math.max(0, Math.min(index, product.images.length - 1));
+    isScrolling.current = true;
+    setActiveImg(clamped);
+    el.scrollTo({ left: clamped * el.offsetWidth, behavior: "smooth" });
+    setTimeout(() => { isScrolling.current = false; }, 400);
   };
 
-  const prev = () => switchTo(activeImg > 0 ? activeImg - 1 : product.images.length - 1);
-  const next = () => switchTo(activeImg < product.images.length - 1 ? activeImg + 1 : 0);
+  const prev = () => goTo(activeImg > 0 ? activeImg - 1 : product.images.length - 1);
+  const next = () => goTo(activeImg < product.images.length - 1 ? activeImg + 1 : 0);
+
+  const handleTouchStart = (e) => {
+    touchStartX.current = e.touches[0].clientX;
+    touchStartY.current = e.touches[0].clientY;
+  };
+
+  const handleTouchEnd = (e) => {
+    const dx = e.changedTouches[0].clientX - touchStartX.current;
+    const dy = e.changedTouches[0].clientY - touchStartY.current;
+    if (Math.abs(dx) < 30 || Math.abs(dy) > Math.abs(dx)) return;
+    if (dx > 0) prev();
+    else next();
+  };
 
   const openLightbox = () => {
     setZoom(1);
@@ -109,18 +132,24 @@ export default function ProductPage() {
               onMouseEnter={() => setHover(true)}
               onMouseLeave={() => setHover(false)}
             >
-              <img
-                src={product.images[activeImg]}
-                alt={product.name}
-                className="product-main-img"
-                style={{
-                  ...styles.mainImage,
-                  opacity: fade ? 0 : 1,
-                  transition: "opacity 0.25s ease",
-                  cursor: "pointer",
-                }}
-                onClick={openLightbox}
-              />
+              <div
+                ref={scrollRef}
+                onTouchStart={handleTouchStart}
+                onTouchEnd={handleTouchEnd}
+                style={styles.carousel}
+              >
+                {product.images.map((img, i) => (
+                  <img
+                    key={i}
+                    src={img}
+                    alt={`${product.name} ${i + 1}`}
+                    className="product-main-img"
+                    style={styles.carouselSlide}
+                    onClick={openLightbox}
+                    draggable={false}
+                  />
+                ))}
+              </div>
 
               <button
                 onClick={openLightbox}
@@ -160,6 +189,21 @@ export default function ProductPage() {
               <div style={styles.counter}>
                 {activeImg + 1} / {product.images.length}
               </div>
+
+              {product.images.length > 1 && (
+                <div style={styles.dots}>
+                  {product.images.map((_, i) => (
+                    <span
+                      key={i}
+                      style={{
+                        ...styles.dot,
+                        background: i === activeImg ? "var(--orange)" : "rgba(255,255,255,0.3)",
+                      }}
+                      onClick={() => goTo(i)}
+                    />
+                  ))}
+                </div>
+              )}
             </div>
 
             {product.images.length > 1 && (
@@ -174,7 +218,7 @@ export default function ProductPage() {
                       border: i === activeImg ? "2px solid var(--orange)" : "2px solid var(--border)",
                       opacity: i === activeImg ? 1 : 0.5,
                     }}
-                    onClick={() => switchTo(i)}
+                    onClick={() => goTo(i)}
                   />
                 ))}
               </div>
@@ -320,12 +364,22 @@ const styles = {
     borderRadius: "var(--radius)",
     overflow: "hidden",
   },
-  mainImage: {
+  carousel: {
+    display: "flex",
+    overflowX: "auto",
+    scrollSnapType: "x mandatory",
+    scrollbarWidth: "none",
+    msOverflowStyle: "none",
+    WebkitOverflowScrolling: "touch",
+  },
+  carouselSlide: {
+    minWidth: "100%",
     width: "100%",
-    height: "100%",
     minHeight: 320,
     objectFit: "contain",
     display: "block",
+    scrollSnapAlign: "start",
+    cursor: "pointer",
   },
   zoomBtn: {
     position: "absolute",
@@ -373,6 +427,21 @@ const styles = {
     display: "flex",
     gap: 6,
     overflowX: "auto",
+  },
+  dots: {
+    position: "absolute",
+    bottom: 10,
+    left: "50%",
+    transform: "translateX(-50%)",
+    display: "flex",
+    gap: 6,
+  },
+  dot: {
+    width: 8,
+    height: 8,
+    borderRadius: "50%",
+    cursor: "pointer",
+    transition: "background 0.2s",
   },
   thumb: {
     width: 56,
@@ -528,6 +597,9 @@ mobileStyles.textContent = `
     .product-main-img {
       min-height: 260px !important;
     }
+  }
+  [data-product-layout] .carousel::-webkit-scrollbar {
+    display: none;
   }
 `;
 document.head.appendChild(mobileStyles);

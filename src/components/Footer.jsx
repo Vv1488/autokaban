@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 export default function Footer() {
   return (
     <footer style={styles.footer}>
-      <div style={styles.inner}>
+      <div style={styles.inner} data-footer-inner>
         <div style={styles.col}>
           <div style={styles.logo}>
             🚗 Auto<span style={{ color: "var(--orange)" }}>Kaban</span>
@@ -40,6 +40,18 @@ export default function Footer() {
     </footer>
   );
 }
+
+const mobileStyles = document.createElement("style");
+mobileStyles.textContent = `
+  @media (max-width: 768px) {
+    [data-footer-inner] {
+      grid-template-columns: 1fr !important;
+      gap: 20px !important;
+      padding: 24px 12px 16px !important;
+    }
+  }
+`;
+document.head.appendChild(mobileStyles);
 
 const styles = {
   footer: {
