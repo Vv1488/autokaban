@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { useParams, Link } from "react-router-dom";
 import ProductCard from "../components/ProductCard";
 import { categories } from "../data/categories";
@@ -5,10 +6,17 @@ import products from "../data/products.json";
 
 export default function CatalogPage() {
   const { category } = useParams();
+  const [search, setSearch] = useState("");
 
-  const filtered = category
+  const byCategory = category
     ? products.filter((p) => p.category === category)
     : products;
+
+  const filtered = search.trim()
+    ? byCategory.filter((p) =>
+        p.name.toLowerCase().includes(search.toLowerCase().trim())
+      )
+    : byCategory;
 
   const currentCategory = categories.find((c) => c.id === category);
 
@@ -18,6 +26,17 @@ export default function CatalogPage() {
         <div className="section-title">
           <h2>{currentCategory ? currentCategory.name : "Усі товари"}</h2>
           <p>{filtered.length} товарів</p>
+        </div>
+
+        {/* Search */}
+        <div style={styles.searchWrap}>
+          <input
+            type="text"
+            placeholder="Пошук товарів..."
+            value={search}
+            onChange={(e) => setSearch(e.target.value)}
+            style={styles.searchInput}
+          />
         </div>
 
         {/* Category filter */}
@@ -49,7 +68,7 @@ export default function CatalogPage() {
 
         {filtered.length === 0 ? (
           <div style={styles.empty}>
-            <p>Товарів у цій категорії поки немає</p>
+            <p>Товарів не знайдено</p>
             <Link to="/catalog" className="btn btn-primary">
               Переглянути всі товари
             </Link>
@@ -67,6 +86,20 @@ export default function CatalogPage() {
 }
 
 const styles = {
+  searchWrap: {
+    maxWidth: 400,
+    margin: "0 auto 20px",
+  },
+  searchInput: {
+    width: "100%",
+    padding: "10px 16px",
+    borderRadius: 20,
+    border: "1px solid var(--border)",
+    background: "var(--bg-card)",
+    color: "#fff",
+    fontSize: "0.95rem",
+    outline: "none",
+  },
   filters: {
     display: "flex",
     flexWrap: "wrap",

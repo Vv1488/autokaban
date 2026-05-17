@@ -1,6 +1,7 @@
 import { useState, useRef, useEffect } from "react";
 import { useParams, Link, useNavigate } from "react-router-dom";
 import { useCart } from "../components/CartContext";
+import ProductCard from "../components/ProductCard";
 import products from "../data/products.json";
 
 const SvgChevronLeft = () => (
@@ -275,6 +276,26 @@ export default function ProductPage() {
             </div>
           </div>
         </div>
+
+        {/* Similar products */}
+        {(() => {
+          const similar = products
+            .filter((p) => p.category === product.category && p.id !== product.id)
+            .slice(0, 4);
+          if (similar.length === 0) return null;
+          return (
+            <div style={{ marginTop: 40 }}>
+              <div className="section-title">
+                <h2>Схожі товари</h2>
+              </div>
+              <div style={styles.grid}>
+                {similar.map((p) => (
+                  <ProductCard key={p.id} product={p} />
+                ))}
+              </div>
+            </div>
+          );
+        })()}
       </div>
 
       {/* Lightbox */}
@@ -513,6 +534,11 @@ const styles = {
     display: "flex",
     flexDirection: "column",
     gap: 4,
+  },
+  grid: {
+    display: "grid",
+    gridTemplateColumns: "repeat(auto-fill, minmax(160px, 1fr))",
+    gap: 10,
   },
 
   // Lightbox
