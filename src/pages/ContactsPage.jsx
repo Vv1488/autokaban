@@ -18,7 +18,7 @@ export default function ContactsPage() {
           <p>Зв'яжіться з нами зручним для вас способом</p>
         </div>
 
-        <div style={styles.layout}>
+        <div style={styles.layout} data-contacts-layout>
           <div style={styles.info}>
             <div style={styles.infoBlock}>
               <h3>📍 Адреса</h3>
@@ -152,3 +152,14 @@ const styles = {
     padding: 20,
   },
 };
+
+const mobileStyles = document.createElement("style");
+mobileStyles.textContent = `
+  @media (max-width: 768px) {
+    [data-contacts-layout] {
+      grid-template-columns: 1fr !important;
+      gap: 20px !important;
+    }
+  }
+`;
+document.head.appendChild(mobileStyles);

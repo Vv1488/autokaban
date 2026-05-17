@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Link, NavLink, useLocation } from "react-router-dom";
+import { Link, NavLink, useLocation, useNavigate } from "react-router-dom";
 import { useEffect } from "react";
 import { useCart } from "./CartContext";
 
@@ -154,9 +154,13 @@ mobileStyles.textContent = `
       right: 0;
       background: rgba(13, 13, 13, 0.98);
       flex-direction: column;
-      padding: 20px;
-      gap: 16px;
+      padding: 16px;
+      gap: 12px;
       border-bottom: 1px solid var(--border);
+    }
+    header nav[style*="display: flex"],
+    header nav[style*="display:flex"] {
+      display: flex !important;
     }
     header button[aria-label="Меню"] {
       display: flex !important;

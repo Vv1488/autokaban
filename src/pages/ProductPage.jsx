@@ -102,7 +102,7 @@ export default function ProductPage() {
           ← Назад в каталог
         </button>
 
-        <div style={styles.layout}>
+        <div style={styles.layout} data-product-layout>
           <div style={styles.imageSection}>
             <div
               style={styles.gallery}
@@ -112,6 +112,7 @@ export default function ProductPage() {
               <img
                 src={product.images[activeImg]}
                 alt={product.name}
+                className="product-main-img"
                 style={{
                   ...styles.mainImage,
                   opacity: fade ? 0 : 1,
@@ -311,7 +312,7 @@ const styles = {
   imageSection: {
     display: "flex",
     flexDirection: "column",
-    gap: 12,
+    gap: 10,
   },
   gallery: {
     position: "relative",
@@ -322,7 +323,7 @@ const styles = {
   mainImage: {
     width: "100%",
     height: "100%",
-    minHeight: 480,
+    minHeight: 320,
     objectFit: "contain",
     display: "block",
   },
@@ -370,17 +371,19 @@ const styles = {
   },
   thumbnails: {
     display: "flex",
-    gap: 8,
+    gap: 6,
+    overflowX: "auto",
   },
   thumb: {
-    width: 68,
-    height: 68,
+    width: 56,
+    height: 56,
+    minWidth: 56,
     objectFit: "contain",
-    borderRadius: 8,
+    borderRadius: 6,
     cursor: "pointer",
     transition: "all 0.2s",
     background: "var(--bg-card)",
-    padding: 4,
+    padding: 3,
     boxSizing: "border-box",
   },
   infoSection: {
@@ -389,7 +392,7 @@ const styles = {
     gap: 16,
   },
   title: {
-    fontSize: "1.6rem",
+    fontSize: "clamp(1.2rem, 3vw, 1.6rem)",
     lineHeight: 1.3,
   },
   prices: {
@@ -398,7 +401,7 @@ const styles = {
     gap: 12,
   },
   price: {
-    fontSize: "2rem",
+    fontSize: "clamp(1.5rem, 4vw, 2rem)",
     fontWeight: 800,
     color: "var(--orange)",
   },
@@ -429,8 +432,8 @@ const styles = {
   },
   buyBtn: {
     width: "100%",
-    padding: "16px",
-    fontSize: "1.1rem",
+    padding: "14px",
+    fontSize: "1rem",
   },
   deliveryInfo: {
     background: "var(--bg-card)",
@@ -514,3 +517,17 @@ const styles = {
     transition: "background 0.2s",
   },
 };
+
+const mobileStyles = document.createElement("style");
+mobileStyles.textContent = `
+  @media (max-width: 768px) {
+    [data-product-layout] {
+      grid-template-columns: 1fr !important;
+      gap: 20px !important;
+    }
+    .product-main-img {
+      min-height: 260px !important;
+    }
+  }
+`;
+document.head.appendChild(mobileStyles);
