@@ -1,7 +1,13 @@
+import { Helmet } from "react-helmet-async";
+
 export default function AboutPage() {
   return (
     <div className="section">
       <div className="container">
+        <Helmet>
+          <title>Про нас — AutoKaban</title>
+          <meta name="description" content="Про інтернет-магазин автоаксесуарів AutoKaban. Наші переваги, доставка та оплата." />
+        </Helmet>
         <div className="section-title">
           <h2>Про нас</h2>
           <p>AutoKaban — ваш надійний помічник у світі автоаксесуарів</p>

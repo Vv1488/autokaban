@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { useParams, Link } from "react-router-dom";
+import { Helmet } from "react-helmet-async";
 import ProductCard from "../components/ProductCard";
 import { categories } from "../data/categories";
 import products from "../data/products.json";
@@ -23,6 +24,10 @@ export default function CatalogPage() {
   return (
     <div className="section">
       <div className="container">
+        <Helmet>
+          <title>{currentCategory ? `${currentCategory.name} — AutoKaban` : "Каталог — AutoKaban"}</title>
+          <meta name="description" content={currentCategory ? `${currentCategory.name} за найкращими цінами. Доставка по всій Україні.` : "Каталог автоаксесуарів та гаджетів. Магнітоли, компресори, пилососи та інше."} />
+        </Helmet>
         <div className="section-title">
           <h2>{currentCategory ? currentCategory.name : "Усі товари"}</h2>
           <p>{filtered.length} товарів</p>

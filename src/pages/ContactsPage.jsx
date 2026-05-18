@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Helmet } from "react-helmet-async";
 
 export default function ContactsPage() {
   const [form, setForm] = useState({ name: "", phone: "", message: "" });
@@ -13,6 +14,11 @@ export default function ContactsPage() {
   return (
     <div className="section">
       <div className="container">
+        <Helmet>
+          <title>Контакти — AutoKaban</title>
+          <meta name="description" content="Зв'яжіться з AutoKaban. Телефон, Telegram, адреса. Залиште заявку — ми передзвонимо." />
+        </Helmet>
+
         <div className="section-title">
           <h2>Контакти</h2>
           <p>Зв'яжіться з нами зручним для вас способом</p>

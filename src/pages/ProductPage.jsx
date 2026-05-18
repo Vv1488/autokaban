@@ -1,5 +1,6 @@
 import { useState, useRef, useEffect } from "react";
 import { useParams, Link, useNavigate } from "react-router-dom";
+import { Helmet } from "react-helmet-async";
 import { useCart } from "../components/CartContext";
 import ProductCard from "../components/ProductCard";
 import products from "../data/products.json";
@@ -121,6 +122,10 @@ export default function ProductPage() {
 
   return (
     <div className="section">
+      <Helmet>
+        <title>{product.name} — AutoKaban</title>
+        <meta name="description" content={product.description?.slice(0, 160) || `Купити ${product.name} за ${product.price} грн. Доставка по всій Україні.`} />
+      </Helmet>
       <div className="container">
         <button onClick={() => navigate(-1)} style={{ ...styles.back, cursor: "pointer", border: "none", background: "none", font: "inherit" }}>
           ← Назад в каталог

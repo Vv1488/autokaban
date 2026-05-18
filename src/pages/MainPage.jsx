@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { Helmet } from "react-helmet-async";
 import ProductCard from "../components/ProductCard";
 import { categories } from "../data/categories";
 import products from "../data/products.json";
@@ -8,6 +9,11 @@ export default function MainPage() {
   const newProducts = products.filter((p) => p.isNew);
 
   return (
+    <>
+      <Helmet>
+        <title>AutoKaban — Автоаксесуари та гаджети</title>
+        <meta name="description" content="Інтернет-магазин автоаксесуарів AutoKaban. Магнітоли, компресори, пилососи, автохімія та багато іншого. Доставка по всій Україні." />
+      </Helmet>
     <div>
       {/* Hero */}
       <section style={styles.hero}>
@@ -115,6 +121,7 @@ export default function MainPage() {
         </section>
       )}
     </div>
+    </>
   );
 }
 
