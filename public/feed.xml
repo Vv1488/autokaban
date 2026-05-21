@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+<channel>
+<title>AutoKaban — Автотовари</title>
+<link>https://autokaban.vercel.app</link>
+<description>Інтернет-магазин автотоварів. Доставка по всій Україні.</description>
+  <item>
+    <g:id>1</g:id>
+    <g:title>Автомобільний компресор 12V з манометром</g:title>
+    <g:description>Потрібен надійний компресор, який не підведе в дорозі? Ця компактна модель з потужністю 100W та максимальним тиском 10 бар швидко накачає будь-яке колесо. Працює від прикурювача 12V — не потрібні акумулятори. Вбудований манометр дозволяє контролювати тиск, а 3 додаткові насадки підійдуть для м'ячів, матраців та надувних іграшок. Компактний — займає мінімум місця в багажнику.</g:description>
+    <g:link>https://autokaban.vercel.app/product/1</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/compressor/1.jpg</g:image_link>
+    <g:price>350 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-1</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>2</g:id>
+    <g:title>Автомагнітола MP3-1096 BT ISO з Bluetooth 1DIN</g:title>
+    <g:description>Хочеш слухати улюблену музику в авто без дротів? Автомагнітола MP3-1096 BT з Bluetooth — це все, що тобі потрібно. Знімна панель захистить від крадіжки, а потужний звук 4х50W забезпечить якісне звучання. Підключай телефон через Bluetooth для музики та гучного зв'язку, або слухай з USB-флешки, SD-карти або через AUX. Пульт ДУ в комплекті — зручно керувати з заднього сидіння. Стандарт 1DIN — підійде більшості автомобілів.</g:description>
+    <g:link>https://autokaban.vercel.app/product/2</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/radio/1.jpg</g:image_link>
+    <g:price>820 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-2</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>3</g:id>
+    <g:title>Автомобільний пилосос Car Vacuum Cleaner 12V</g:title>
+    <g:description>Салон авто потребує регулярного прибирання, але мити хімочисткою дорого і довго. Цей компактний пилосос — швидке рішення для сухого та вологого прибирання. Потужність 130W, працює від прикурювача 12V. Довгий кабель дістає навіть до багажника. Пилозбірник на 200мл легко очищається. У комплекті — щілинна насадка для важкодоступних місць та щітка для сидінь. Займає мінімум місця — завжди під рукою.</g:description>
+    <g:link>https://autokaban.vercel.app/product/3</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/vacuum/1.jpg</g:image_link>
+    <g:price>390 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-3</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>4</g:id>
+    <g:title>FM-модулятор CM 7010 з Bluetooth та зарядкою для телефону</g:title>
+    <g:description>Твоя автомагнітола не підтримує Bluetooth та флешку? FM-модулятор CM 7010 — найпростіше рішення. Вставляєш в прикурювач, підключаєш телефон через Bluetooth — і музика грає через колонки авто. Плюс телефон заряджається одночасно. LCD-дисплей показує назву треку та частоту. Можна слухати музику з USB-флешки або SD-карти. Є пульт ДУ для пасажирів. Гучний зв'язок для розмов без рук — безпечно під час водіння. Працює з будь-якою аудіосистемою, достатньо налаштувати радіочастоту.</g:description>
+    <g:link>https://autokaban.vercel.app/product/4</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/fm-modulator/1.jpg</g:image_link>
+    <g:price>300 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-4</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>5</g:id>
+    <g:title>FM-трансмиттер HZ H9 з Bluetooth та пультом ДУ</g:title>
+    <g:description>Компактний FM-трансмиттер, який перетворює будь-яку автомагнітолу на Bluetooth-систему. Підключаєш в прикурювач, синхронізуєш з телефоном — і грає музика через колонки авто. Має LCD-дисплей для відображення треку та частоти. Слухай музику з телефону через Bluetooth, з USB-флешки або microSD-карти. Є AUX-вихід для провідного підключення. Вбудований мікрофон дозволяє розмовляти по телефону за рулем без рук. USB-порт заряджає телефон під час поїздки. Пульт ДУ на 10 кнопок — пасажирам зручно перемикати треки з заднього сидіння. Підходить до будь-якого авто з FM-радіо.</g:description>
+    <g:link>https://autokaban.vercel.app/product/5</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/fm-h9/1.jpg</g:image_link>
+    <g:price>300 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-5</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>6</g:id>
+    <g:title>FM-трансмиттер V11 BT з Bluetooth-гарнітурою</g:title>
+    <g:description>Потужний FM-трансмиттер з Bluetooth 5.0 — це два пристрої в одному: музичний плеер для авто та Bluetooth-гарнітура для гучного зв'язку. Версія Bluetooth 5.0 + EDR забезпечує стабільне з'єднання без обривів на відстані до 10 метрів. Два USB-порти із загальним струмом 3.1А — можна заряджати два пристрої одночасно, один з них швидкою зарядкою. Музику можна слухати з телефону через Bluetooth, з USB-флешки або SD-карти. Вбудований мікрофон з функцією Hands Free — розмовляй за кермом безпечно, не відволікаючись на телефон. Підходить до будь-якого авто з FM-радіо.</g:description>
+    <g:link>https://autokaban.vercel.app/product/6</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/fm-v11/1.jpg</g:image_link>
+    <g:price>450 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-6</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>7</g:id>
+    <g:title>FM-трансмиттер X7 BT з Bluetooth та LED-дисплеєм</g:title>
+    <g:description>Стильний FM-трансмиттер з Bluetooth у компактному корпусі. Підключається в прикурювач — і твоя автомагнітола одержує Bluetooth, USB-плеер та зарядку одночасно. LED-дисплей зручно показує частоту та статус. Два USB-порти (5В / 2.1А) — заряджай телефон та слухай музику з флешки паралельно. Є слот для microSD-карт до 32 ГБ. Функція гучного зв'язку Hands Free — безпечні розмови за кермом. Підтримує формати MP3 та WMA. Колір чорний із золотими вставками — виглядає дорогенько в салоні авто.</g:description>
+    <g:link>https://autokaban.vercel.app/product/7</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/fm-x7/1.jpg</g:image_link>
+    <g:price>350 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-7</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>8</g:id>
+    <g:title>FM-трансмиттер H15 Bluetooth MP3 з LED-дисплеєм</g:title>
+    <g:description>Просунутий FM-трансмиттер для тих, хто хоче максимум функцій за розумні гроші. Bluetooth для бездротової музики та гучного зв'язку, два USB-порти для зарядки пристроїв. Але головна фішка — підтримка форматів FLAC та WAV, а не лише MP3. Це означає якісніший звук з флешки або microSD-карти до 32 ГБ. LED-дисплей показує назву треку, частоту та напругу акумулятора авто — завжди знаєш стан батареї. Вбудований мікрофон для розмов hands-free за кермом. Колір чорний — стримано і стильно.</g:description>
+    <g:link>https://autokaban.vercel.app/product/8</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/fm-h15/1.jpg</g:image_link>
+    <g:price>450 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-8</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>9</g:id>
+    <g:title>FM-модулятор HZ H13 з Bluetooth, LCD-дисплеєм та AUX</g:title>
+    <g:description>Бюджетний, але функціональний FM-модулятор для авто. Bluetooth 4.0 з радіусом дії до 10 метрів — підключаєш телефон і музика грає через колонки машини. LCD-дисплей показує частоту та назву треку. Музику можна слухати з USB-флешки, microSD-карти або через AUX-кабель — три варіанти на вибір. Є пульт дистанційного керування — пасажирам зручно перемикати треки. Живлення від прикурювача 10–24V, підходить і для легкових, і для вантажних авто. Підтримує формати MP3 та WMA.</g:description>
+    <g:link>https://autokaban.vercel.app/product/9</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/fm-h13/1.jpg</g:image_link>
+    <g:price>300 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-9</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>10</g:id>
+    <g:title>FM-трансмиттер MOD H21 BT з Bluetooth та зарядкою</g:title>
+    <g:description>FM-трансмиттер з регульованим кутом нахилу — зручно підлаштувати під будь-яке розташування прикурювача. Bluetooth для музики та гучного зв'язку, вбудований мікрофон для розмов hands-free. USB-порт заряджає телефон (2.1А) та одночасно грає музику з флешки. Є слот для microSD-карт та AUX-вхід для провідного підключення. LCD-дисплей показує номер FM-хвилі. Компактний пластиковий корпус чорного кольору. Працює в діапазоні 87.5–108 МГц — підходить до будь-якого авто з радіо.</g:description>
+    <g:link>https://autokaban.vercel.app/product/10</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/fm-h21/1.jpg</g:image_link>
+    <g:price>300 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-10</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>11</g:id>
+    <g:title>FM-модулятор H86BT з Bluetooth, LED-дисплеєм та пультом ДУ</g:title>
+    <g:description>Преміальний FM-модулятор з Bluetooth 4.0 для тих, хто хоче перетворити навіть стару магнітолу на сучасну Bluetooth-систему. Перетворить будь-яку аудіосистему автомобіля — достатньо налаштувати частоту на радіо. LED-дисплей яскраво відображає інформацію. Музика з телефону через Bluetooth, з USB-флешки або microSD-карти. Вбудований мікрофон для гучного зв'язку — розмовляй за кермом безпечно. Пульт ДУ в комплекті для зручного керування пасажирами. Живлення від прикурювача 12–24V — підходить і для легкових, і для вантажівок. На Rozetka та Prom.ua продається за 600 грн.</g:description>
+    <g:link>https://autokaban.vercel.app/product/11</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/fm-h86/1.jpg</g:image_link>
+    <g:price>500 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-11</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>12</g:id>
+    <g:title>FM-трансмиттер H7 BT універсальний з Dual USB та пультом ДУ</g:title>
+    <g:description>Універсальний FM-трансмиттер з двома USB-портами — заряджаєш два пристрої одночасно, не вибираючи що важливіше. Bluetooth для бездротової музики та гучного зв'язку з вбудованим мікрофоном. Музика з телефону, USB-флешки або microSD-карти — підтримує MP3 та WMA. LED-дисплей показує частоту та статус. Пульт ДУ в комплекті — пасажирам зручно керувати з заднього сидіння. Працює в діапазоні 87.5–108 МГц, підходить до будь-якого авто з FM-радіо. Живлення від прикурювача 12V.</g:description>
+    <g:link>https://autokaban.vercel.app/product/12</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/fm-h7/1.jpg</g:image_link>
+    <g:price>450 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-12</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>13</g:id>
+    <g:title>Автомагнітола MP3-1096 BT ISO з Bluetooth, знімною панеллю та пультом ДУ</g:title>
+    <g:description>Повноцінна автомагнітола 1DIN з Bluetooth за розумну ціну. Знімна передня панель — зняв і забрав з собою, надійний захист від крадіжки. Bluetooth для бездротової музики та гучного зв'язку з телефоном. Потужність 4х50W забезпечує гучний та чистий звук у салоні. Слухай музику з USB-флешки, SD-карти до 32 ГБ або через AUX-кабель. Пульт ДУ в комплекті — зручно керувати з заднього сидіння. ISO-рамка для швидкого монтажу в більшість автомобілів. Підтримує формати MP3 та WMA.</g:description>
+    <g:link>https://autokaban.vercel.app/product/13</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/radio-1094/1.jpg</g:image_link>
+    <g:price>900 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-13</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>14</g:id>
+    <g:title>Автомагнітола MP3-3887 ISO 1DIN з сенсорним дисплеєм LED/LCD</g:title>
+    <g:description>Стильна автомагнітола 1DIN із сенсорним LED/LCD-дисплеєм — виглядає та працює дорожче, ніж коштує. Сенсорні кнопки замість механічних — сучасний вигляд та плавне управління. Bluetooth для бездротової музики та гучного зв'язку. FM-тюнер з автоскануванням та 18 збереженими станціями. Два USB-порти — один для флешки, інший для зарядки телефону. Слот для microSD-карт та AUX-вхід. Потужність 4х50W з вбудованим еквалайзером — настрой звук під себе. Пульт ДУ та ISO-рамка для швидкого монтажу в комплекті. На Rozetka продається від 1300 грн.</g:description>
+    <g:link>https://autokaban.vercel.app/product/14</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/radio-3887/1.jpg</g:image_link>
+    <g:price>800 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-14</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>15</g:id>
+    <g:title>Акмуляторна автомийка високого тиску BX-3219 (24V, 550W)</g:title>
+    <g:description>Безпровідна автомийка, яка працює від акумулятора 24V — ніяких проводів та розеток. Миєш авто де завгодно: на парковці, в гаражі, на дачі. Потужний мотор 550W з швидкістю насоса 19500 об/хв створює тиск до 90 бар — змиває бруд, пил та сіль з кузова без зусиль. Витрата води 4 л/хв — економно. В комплекті пеногенератор для нанесення активної піни, дві насадки для води та металевий фільтр. Акумулятор 1500 мА·год вбудований, заряджається від мережі. Підходить також для миття велосипедів, вікон, терас та доріжок.</g:description>
+    <g:link>https://autokaban.vercel.app/product/15</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/car-wash/1.jpg</g:image_link>
+    <g:price>1400 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-15</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>16</g:id>
+    <g:title>Відеореєстратор DVR E26 Full HD 1080p з нічним зніманням</g:title>
+    <g:description>Надійний відеореєстратор в металевому корпусі для запису всього, що відбувається на дорозі. Знімає у Full HD 1080p з кутом огляду 170° — охоплює всі смуги руху, а не тільки свою. Процесор Quad core GeneralPlus 6248 забезпечує плавний відеозапис без гальмувань. Нічний режим — камера бачить дорогу навіть у темряві. 3-дюймовий LCD-екран для перегляду записів прямо в авто. Кріплення на присоску — встановлюється за хвилину без інструментів. Запис на microSD-карту до 32 ГБ. Корпус з алюмінію та пластику — не гріється і довго служить.</g:description>
+    <g:link>https://autokaban.vercel.app/product/16</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/dvr-e26/1.jpg</g:image_link>
+    <g:price>1950 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-16</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>17</g:id>
+    <g:title>Портативний автомобільний душ Aqua Fresh YD104</g:title>
+    <g:description>Компактний портативний душ для авто, який живиться від прикурювача 12V. Ідеальний для подорожей, кемпінгу, пікніків та дачі. Опускаєш шланг у будь-яку ємність з водою — відро, каністру, басейн — і отримуєш повноцінний душ. Довжина кабелю живлення 4 метри + шланг 2 метри — дістане скрізь. Регульований напір води, витрата 4 л/хв. Можна помити руки, помити собаку, сполоснути ноги після пляжу або навіть прийняти душ на природі. Сумка для зберігання в комплекті — складаєш і кидаєш в багажник.</g:description>
+    <g:link>https://autokaban.vercel.app/product/17</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/car-shower/1.jpg</g:image_link>
+    <g:price>850 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-17</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>18</g:id>
+    <g:title>Автомобільний компресор 12V з фонариком та манометром</g:title>
+    <g:description>Потужний автомобільний компресор з вбудованим фонариком — два в одному. Максимальний тиск 10 бар (150 psi) швидко накачає будь-яке колесо — від легковика до позашляховика. Потужність 100W, працює від прикурювача 12V. Вбудований манометр показує точний тиск — не потрібен окремий прилад. Фонарик допоможе підкачати колесо вночі або на узбіччі. 3 додаткові насадки в комплекті — для м'ячів, матраців та надувних виробів. Довгий кабель дістає до всіх коліс.</g:description>
+    <g:link>https://autokaban.vercel.app/product/18</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/compressor-2/1.jpg</g:image_link>
+    <g:price>650 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-18</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>19</g:id>
+    <g:title>Портативний компресор Dragon з електронним манометром та LCD-дисплеєм</g:title>
+    <g:description>Компактний автомобільний компресор з електронним LCD-манометром — набрав потрібне значення і він сам вимкнеться. Не потрібно стежити за тиском, компресор зупиняється автоматично when досягає заданого значення. Великий LCD-дисплей показує тиск у PSI, BAR, kPa та кг/см² — обирай зручні одиниці. Вбудований LED-ліхтарик для роботи вночі. Живлення від прикурювача 12V. Набагато точніший за аналоговий манометр — завжди правильний тиск у шинах, що економить паливо та подовжує ресурс шин. Додаткові насадки для м'ячів та матраців в комплекті.</g:description>
+    <g:link>https://autokaban.vercel.app/product/19</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/compressor-dragon/1.jpg</g:image_link>
+    <g:price>450 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-19</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>20</g:id>
+    <g:title>Портативний автокомпресор CZK-4234 з акумулятором та LCD-дисплеєм</g:title>
+    <g:description>Безпровідний компресор з вбудованим акумулятором 2×2000 мА·год — накачує колеса без підключення до прикурювача. Забув зарядити? Можна живити і від 12V. Продуктивність 20 л/хв — швидко накачає легкові колеса. Цифровий LCD-дисплей показує точний тиск, 4 режими роботи: авто, мото, велосипед, м'ячі — обираєш і компресор сам вимикається при досягненні потрібного тиску. Вбудований LED-ліхтарик для нічного використання. Компактний, поміщається в руку — завжди в бардачку чи багажнику.</g:description>
+    <g:link>https://autokaban.vercel.app/product/20</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/compressor-czk/1.jpg</g:image_link>
+    <g:price>870 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-20</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>21</g:id>
+    <g:title>Безпровідний компресор ST-9620B з акумулятором та LED-екраном</g:title>
+    <g:description>Потужний безпровідний компресор з трьома літієвими батареями по 2000 мА·год (всього 6000 мА·год) — працює без підключення до прикурювача. Продуктивність 30 л/хв — один з найшвидших у своєму класі. Максимальний тиск 150 PSI (10 атм) — накачає колеса будь-якого авто, мотоцикла чи велосипеда. LED-екран показує точний тиск, автоматично вимикається при досягненні заданого значення. Компактний (160×80×56 мм) і важить всього 560 г — поміщається в бардачок. Корпус з удароміцного ABS-пластику.</g:description>
+    <g:link>https://autokaban.vercel.app/product/21</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/compressor-st/1.jpg</g:image_link>
+    <g:price>900 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-21</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>22</g:id>
+    <g:title>Автомобільний компресор 12V від прикурювача з фонариком</g:title>
+    <g:description>Надійний автомобільний компресор за розумну ціну. Працює від прикурювача 12V — вставив і накачуєш. Вбудований манометр показує точний тиск у шинах. LED-фонарик вбудований в корпус — зручно підкачувати колеса вночі або на узбіччі. Довгий кабель 3 метри дістає до всіх коліс. Шланг 60 см зручний для підключення до нипеля. Додаткові насадки в комплекті для м'ячів, матраців та надувних іграшок. Компактний — не займає багато місця в багажнику.</g:description>
+    <g:link>https://autokaban.vercel.app/product/22</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/compressor-3/1.jpg</g:image_link>
+    <g:price>520 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-22</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>23</g:id>
+    <g:title>Акумуляторний компресор 12V з LED-екраном та насадками</g:title>
+    <g:description>Безпровідний компресор з вбудованим акумулятором 6000 мА·год та яскравим LED-екраном. Не потрібен прикурювач — зарядив один раз і накачуєш всі чотири колеса. Зарядка через USB Type-C, як у телефоні. Цифровий екран показує точний тиск та дозволяє задати потрібне значення — компресор сам вимкнеться when досягне мети. Продуктивність 30 л/хв, максимальний тиск 150 PSI. Компактний (160×80×56 мм) — поміщається в бардачок або сумку. Набір насадок в комплекті для м'ячів, велосипедів та надувних виробів.</g:description>
+    <g:link>https://autokaban.vercel.app/product/23</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/compressor-led/1.jpg</g:image_link>
+    <g:price>930 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-23</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>24</g:id>
+    <g:title>Двопоршневий автомобільний компресор 628-4x4 (85 л/хв, 150W)</g:title>
+    <g:description>Потужний двопоршневий компресор для тих, кому не достатньо звичайного насоса. Два циліндри забезпечують продуктивність 85 л/хв — в 3 рази швидше за стандартний компресор. Накачує колеса позашляховика, кроссовера та вантажівки без зусиль. Максимальний тиск 200 PSI (10 атм). Металевий корпус — надійний і довговічний, не перегрівається. Вбудований манометр для контролю тиску. Довгий кабель 2.3м та шланг 2.5м — дістає до будь-якого колеса. Живлення від прикурювача 12V або безпосередньо від клем акумулятора. Сумка для зберігання в комплекті.</g:description>
+    <g:link>https://autokaban.vercel.app/product/24</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/compressor-628/1.jpg</g:image_link>
+    <g:price>1380 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-24</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>25</g:id>
+    <g:title>Акумуляторний компресор 12V з екраном для авто та спорту</g:title>
+    <g:description>Універсальний безпровідний компресор з цифровим екраном — для авто, велосипеда, мотоцикла та спортивного інвентарю. Вбудований акумулятор — не потрібен прикурювач, накачуй колеса будь-де. Цифровий екран показує точний тиск та дозволяє задати цільове значення, компресор автоматично вимкнеться. Набір насадок в комплекті для м'ячів, велосипедних шин та надувних виробів. Компактний та легкий — кинув у рюкзак чи багажник і забув. Зручно брати з собою на велосипедну прогулянку або в подорож.</g:description>
+    <g:link>https://autokaban.vercel.app/product/25</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/compressor-sport/1.jpg</g:image_link>
+    <g:price>810 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-25</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>26</g:id>
+    <g:title>Акумуляторний компресор Litheli з фонарем та Power Bank 20000 мА·год</g:title>
+    <g:description>Преміальний безпровідний компресор від бренду Litheli з повербанком 20000 мА·год (45W) в комплекті. Це не просто компресор — це екосистема: одним акумулятором живиш компресор, заряджаєш телефон, планшет чи ноутбук, а вбудований LED-фонарь освітлює дорогу вночі. Безщітковий двигун — тихий, потужний і довговічний. Тиск до 10.3 бар (150 PSI), продуктивність 25 л/хв. Цифровий екран з автостатком — задав тиск і компресор сам вимкнеться. Гарантия 3 роки на компресор та 1 рік на повербанк. Ідеальний для автовласників, які цінують якість та надійність.</g:description>
+    <g:link>https://autokaban.vercel.app/product/26</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/compressor-litheli/1.jpg</g:image_link>
+    <g:price>3900 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-26</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>27</g:id>
+    <g:title>Масажна подушка Car and Home Massage Pillow для шиї</g:title>
+    <g:description>Масажна подушка для шиї та спини — знімає напругу після довгої дороги або робочого дня. Працює від прикурювача 12V в авто та від звичайної розетки 220V вдома — один пристрій для машини та квартири. Масажні валики розминають м'язи шиї, плечей та попереку, знімаючи біль та втому. Регульована інтенсивність — обирай приємний режим. Зручно кріпиться на сидіння авто або офисного крісла. Компактна, легко переносити між авто та домом. Ідеальна для водіїв, офісних працівників та всіх, хто проводить багато часу сидячи.</g:description>
+    <g:link>https://autokaban.vercel.app/product/27</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/massage-pillow/1.jpg</g:image_link>
+    <g:price>620 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-27</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>28</g:id>
+    <g:title>Масажна накидка на крісло Cushion HL-889 з підігрівом та пультом ДУ</g:title>
+    <g:description>Повноцінна масажна накидка, яка перетворює будь-яке крісло на масажер. 5 масажних двигунів працюють у 3 зонах — шия та плечі, спина, поперек. 8 режимів вібромасажу та 5 рівнів інтенсивності — підбираєш під себе. Функція підігріву знімає спазми та розслаблює м'язи після довгого дня. Пульт керування вбудований — перемикаєш режими не встаючи. Працює від прикурювача 12V в авто та від розетки 220V вдома. Матеріал поліестер — приємний на дотик, легко чиститься. Розмір 110×50 см підходить для будь-якого сидіння.</g:description>
+    <g:link>https://autokaban.vercel.app/product/28</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/massage-cushion/1.jpg</g:image_link>
+    <g:price>1250 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-28</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>29</g:id>
+    <g:title>Тепловентилятор автомобільний Car Fan CF-612 (зимма + літо 2в1)</g:title>
+    <g:description>Компактна «дуйка» 2в1 для авто — гріє взимку та охолоджує влітку. Взимку швидко розморожує лобове скло та прогріває салон, поки штатна пічка ще не розігрілась. Влітку працює як вентилятор — провітрює та охолоджує салон. Потужність 200W, живлення від прикурювача 12V. Підставка обертається на 360° — направ потік повітря куди потрібно. Перемикач між гарячим та холодним повітрям одним рухом. Не потрібен монтаж — вставив в прикурювач і працює. Допоможе, якщо штатна пічка слабка або коли потрібно швидко розморозити скло перед поїздкою.</g:description>
+    <g:link>https://autokaban.vercel.app/product/29</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/car-heater/1.jpg</g:image_link>
+    <g:price>350 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-29</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>30</g:id>
+    <g:title>Автомобільна дуйка Car Fan CF-702 з обігрівом та вентиляцією</g:title>
+    <g:description>Компактна автомобільна дуйка 3в1: обігрів, вентиляція та вимкнено. Взимку швидко розморожує скло та гріє салон — потужність 150W. Влітку працює як вентилятор для провітрювання. Живлення від прикурювача 12V, жодного монтажу. Розмір всього 145×150×60 мм — не перекриває огляд водія. Захист від перегріву — безпечно залишати працювати. Легка (350 г) та портативна. Один перемикач між режимами — просто та зручно. На Rozetka продається від 385 грн.</g:description>
+    <g:link>https://autokaban.vercel.app/product/30</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/car-heater-702/1.jpg</g:image_link>
+    <g:price>350 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-30</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>31</g:id>
+    <g:title>Насос для перекачування пального ONEX OX-5052 (12–15 л/хв)</g:title>
+    <g:description>Занурювальний насос для швидкої перекачки бензину та дизельного пального. Продуктивність 12–15 літрів за хвилину — перекачає каністру за пару хвилин. Живлення від автомобільного акумулятора 12V — приєднав крокодильчики і працюєш. Максимальна глибина занурення 3 метри — дістане до дна будь-якої каністри чи бочки. Робоча температура від -10°C до +40°C — працює навіть взимку. Шланг у комплекті. Корпус стійкий до корозії та захищений від перегріву. Необхідна річ для тих, хто возить запасне пальне або працює з технікою.</g:description>
+    <g:link>https://autokaban.vercel.app/product/31</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/fuel-pump/1.jpg</g:image_link>
+    <g:price>450 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-31</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>32</g:id>
+    <g:title>Набір подушок 2шт на підголовник Volkswagen з натуральної шкіри</g:title>
+    <g:description>Набір з двох подушок на підголовник з натуральної шкіри з вишитим логотипом Volkswagen. Матеріал обивки — справжня шкіра, приємна на дотик і довговічна. Наповнювач — холлофайбер, зберігає форму і забезпечує комфортну підтримку голови та шиї в дорозі. Розмір 28×15×8 см — підходить для будь-яких сидінь. Універсальне кріплення з якісним фастексом — надійно тримається на підголовнику. Брелок у подарунок в комплекті. Відмінний подаринок власнику Volkswagen — стильний і корисний аксесуар для салону.</g:description>
+    <g:link>https://autokaban.vercel.app/product/32</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-vw/1.jpg</g:image_link>
+    <g:price>1350 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-32</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>33</g:id>
+    <g:title>Набір подушок 2шт на підголовник Audi з натуральної шкіри</g:title>
+    <g:description>Набір з двох подушок на підголовник з натуральної шкіри з вишитим логотипом Audi. Справжня шкіра — приємна на дотик, не потріскується з часом як штучна. Наповнювач холлофайбер зберігає форму і м'яко підтримує голову та шию в дорозі. Розмір 28×15×8 см підходить для будь-яких сидінь. Універсальне кріплення з якісним фастексом — надійно фіксується на підголовнику. Брелок у подарунок в комплекті. Стильний аксесуар для салону Audi — ідеальний подаринок собі чи знайомому власнику цієї марки.</g:description>
+    <g:link>https://autokaban.vercel.app/product/33</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-audi/1.jpg</g:image_link>
+    <g:price>1350 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-33</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>34</g:id>
+    <g:title>Набір подушок 2шт на підголовник BMW з натуральної шкіри</g:title>
+    <g:description>Набір з двох подушок на підголовник з натуральної шкіри з вишитим логотипом BMW. Справжня шкіра — м'яка, приємна на дотик і довговічна, не вигоряє на сонці. Наповнювач холлофайбер зберігає форму і комфортно підтримує голову та шию під час довгих поїздок. Розмір 28×15×8 см — підходить для будь-яких сидінь. Універсальне кріплення з якісним фастексом — швидко знімається і надійно тримається. Брелок у подарунок в комплекті. Стильний подарунок власнику BMW — краса і користь для салону.</g:description>
+    <g:link>https://autokaban.vercel.app/product/34</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-bmw/1.jpg</g:image_link>
+    <g:price>1350 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-34</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>35</g:id>
+    <g:title>Набір подушок 2шт на підголовник Skoda з натуральної шкіри</g:title>
+    <g:description>Набір з двох подушок на підголовник з натуральної шкіри з вишитим логотипом Skoda. Справжня шкіра — приємна на дотик, довговічна і не втрачає вигляд з часом. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи напругу в дорозі. Розмір 28×15×8 см — універсальний для будь-яких сидінь. Кріплення з якісним фастексом — швидко одягається і надійно тримається. Брелок у подарунок в комплекті. Стильний аксесуар для салону Skoda — корисний подарунок власнику цієї марки.</g:description>
+    <g:link>https://autokaban.vercel.app/product/35</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-skoda/1.jpg</g:image_link>
+    <g:price>970 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-35</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>36</g:id>
+    <g:title>Набір подушок 2шт на підголовник Toyota з натуральної шкіри</g:title>
+    <g:description>Набір з двох подушок на підголовник з натуральної шкіри з вишитим логотипом Toyota. Справжня шкіра — приємна на дотик, довговічна і не вигорає на сонці. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому в дорозі. Розмір 28×15×8 см — підходить для будь-яких сидінь. Універсальне кріплення з якісним фастексом — швидко встановлюється і надійно тримається. Брелок у подарунок в комплекті. Ідеальний подаринок власнику Toyota — стиль і комфорт для салону.</g:description>
+    <g:link>https://autokaban.vercel.app/product/36</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-toyota/1.jpg</g:image_link>
+    <g:price>1350 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-36</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>37</g:id>
+    <g:title>Ортопедична подушка на підголовник Volkswagen зі шкіри</g:title>
+    <g:description>Ортопедична подушка на підголовник з логотипом Volkswagen — 1 штука. На відміну від набірних подушок, ця має спеціальну анатомічну форму, яка правильно підтримує шию та голову водія. Знімає напругу та біль при довгих поїздках. Матеріал обивки — шкіра з вишитим логотипом Volkswagen. Універсальне кріплення підходить для будь-якого сидіння. Доступніша ціна за одну подушку — можна купити тільки для водія або докупити пасажирську окремо.</g:description>
+    <g:link>https://autokaban.vercel.app/product/37</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillow-vw-ortho/1.jpg</g:image_link>
+    <g:price>675 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-37</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>38</g:id>
+    <g:title>Набір подушок 2шт на підголовник Volkswagen коричнева шкіра</g:title>
+    <g:description>Набір з двох подушок на підголовник Volkswagen з натуральної коричневої шкіри. Коричневий колір виглядає елегантно та тепло в салоні — відмінно підходить для світлих та бежевих інтер'єрів авто. Вишитий логотип Volkswagen. Наповнювач холлофайбер — м'який, зберігає форму і комфортно підтримує голову. Розмір 28×15×8 см, універсальне кріплення з фастексом. Брелок у подарунок в комплекті.</g:description>
+    <g:link>https://autokaban.vercel.app/product/38</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-vw-brown/1.jpg</g:image_link>
+    <g:price>735 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-38</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>39</g:id>
+    <g:title>Набір подушок 2шт на підголовник Mercedes-Benz коричнева шкіра</g:title>
+    <g:description>Набір з двох подушок на підголовник Mercedes-Benz з натуральної коричневої шкіри. Коричнева шкіра елегантно доповнює салон Мерседеса — підходить до бежевих та світлих інтер'єрів. Вишитий логотип Mercedes-Benz. Наповнювач холлофайбер — м'яко підтримує голову та шию, знімає втому в дорозі. Розмір 28×15×8 см, універсальне кріплення з фастексом. Брелок у подарунок в комплекті. Престижний подарунок власнику Mercedes-Benz.</g:description>
+    <g:link>https://autokaban.vercel.app/product/39</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-merc-brown/1.jpg</g:image_link>
+    <g:price>735 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-39</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>40</g:id>
+    <g:title>Набір подушок 2шт на підголовник Hyundai з натуральної шкіри</g:title>
+    <g:description>Набір з двох подушок на підголовник Hyundai з натуральної чорної шкіри. Вишитий логотип Hyundai. Наповнювач холлофайбер — м'яко підтримує голову та шию, знімаючи втому під час поїздок. Чорна шкіра універсально підходить до будь-якого салону. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Брелок у подарунок в комплекті. Стильний та корисний подарунок власнику Hyundai.</g:description>
+    <g:link>https://autokaban.vercel.app/product/40</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-hyundai/1.jpg</g:image_link>
+    <g:price>910 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-40</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>41</g:id>
+    <g:title>Набір подушок 2шт на підголовник Skoda чорна натуральна шкіра</g:title>
+    <g:description>Набір з двох подушок на підголовник Skoda з натуральної чорної шкіри. Вишитий логотип Skoda. Наповнювач холлофайбер — м'яко підтримує голову та шию, знімає напругу під час тривалих поїздок. Чорна шкіра підходить до будь-якого салону. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Брелок у подарунок в комплекті. Преміум-якість за розумну ціну — стильний подарунок власнику Skoda.</g:description>
+    <g:link>https://autokaban.vercel.app/product/41</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-skoda-black/1.jpg</g:image_link>
+    <g:price>1020 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-41</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>42</g:id>
+    <g:title>Набір подушок 2шт на підголовник Renault з натуральної шкіри</g:title>
+    <g:description>Набір з двох подушок на підголовник Renault з натуральної шкіри з вишитим логотипом Renault. Справжня шкіра — приємна на дотик, довговічна і не втрачає вигляд. Наповлювач холлофайбер м'яко підтримує голову та шию в дорозі. Чорна шкіра універсально підходить до будь-якого салону. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Брелок у подарунок в комплекті. Стильний подарунок власнику Renault.</g:description>
+    <g:link>https://autokaban.vercel.app/product/42</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-renault/1.jpg</g:image_link>
+    <g:price>1350 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-42</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>43</g:id>
+    <g:title>Набір подушок 2шт на підголовник BMW коричнева натуральна шкіра</g:title>
+    <g:description>Набір з двох подушок на підголовник BMW з натуральної коричневої шкіри. Коричнева шкіра елегантно доповнює салон BMW — особливо добре підходить до бежевих та світлих інтер'єрів. Вишитий логотип BMW. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому в дорозі. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Брелок у подарунок в комплекті.</g:description>
+    <g:link>https://autokaban.vercel.app/product/43</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-bmw-brown/1.jpg</g:image_link>
+    <g:price>735 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-43</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>44</g:id>
+    <g:title>Набір подушок 2шт на підголовник Kia з натуральної шкіри</g:title>
+    <g:description>Набір з двох подушок на підголовник Kia з натуральної чорної шкіри. Вишитий логотип Kia. Наповнювач холлофайбер — м'яко підтримує голову та шию, знімає напругу під час поїздок. Чорна шкіра універсально підходить до будь-якого салону. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Брелок у подарунок в комплекті. Стильний подарунок власнику Kia.</g:description>
+    <g:link>https://autokaban.vercel.app/product/44</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-kia/1.jpg</g:image_link>
+    <g:price>910 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-44</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>45</g:id>
+    <g:title>Набір подушок 2шт на підголовник Audi коричнева натуральна шкіра</g:title>
+    <g:description>Набір з двох подушок на підголовник Audi з натуральної коричневої шкіри. Коричнева шкіра виглядає тепло та елегантно — відмінно підходить для світлих та бежевих салонів Audi. Вишитий логотип Audi. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому в дорозі. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Брелок у подарунок в комплекті.</g:description>
+    <g:link>https://autokaban.vercel.app/product/45</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-audi-brown/1.jpg</g:image_link>
+    <g:price>735 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-45</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>46</g:id>
+    <g:title>Набір подушок 2шт на підголовник Opel з натуральної шкіри</g:title>
+    <g:description>Набір з двох подушок на підголовник Opel з натуральної чорної шкіри. Вишитий логотип Opel. Наповнювач холлофайбер — м'яко підтримує голову та шию, знімає напругу під час тривалих поїздок. Чорна шкіра універсально підходить до будь-якого салону. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Брелок у подарунок в комплекті. Стильний подарунок власнику Opel.</g:description>
+    <g:link>https://autokaban.vercel.app/product/46</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-opel/1.jpg</g:image_link>
+    <g:price>910 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-46</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>47</g:id>
+    <g:title>Набір подушок 2шт на підголовник Toyota коричнева натуральна шкіра</g:title>
+    <g:description>Набір з двох подушок на підголовник Toyota з натуральної коричневої шкіри. Коричнева шкіра виглядає тепло та елегантно — ідеально для світлих та бежевих салонів. Вишитий логотип Toyota. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому в дорозі. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Брелок у подарунок в комплекті. Дешевше за чорний набір — та сама якість.</g:description>
+    <g:link>https://autokaban.vercel.app/product/47</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-toyota-brown/1.jpg</g:image_link>
+    <g:price>735 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-47</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>48</g:id>
+    <g:title>Набір подушок 2шт на підголовник Volvo з натуральної шкіри</g:title>
+    <g:description>Набір з двох подушок на підголовник Volvo з натуральної шкіри з вишитим логотипом Volvo. Справжня шкіра — приємна на дотик, довговічна і не втрачає вигляд з роками. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому під час довгих поїздок. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Брелок у подарунок в комплекті. Преміум-подарунок власнику Volvo — стиль та комфорт для салону.</g:description>
+    <g:link>https://autokaban.vercel.app/product/48</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-volvo/1.jpg</g:image_link>
+    <g:price>1350 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-48</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>49</g:id>
+    <g:title>Набір подушок 2шт на підголовник Peugeot з натуральної шкіри</g:title>
+    <g:description>Набір з двох подушок на підголовник Peugeot з натуральної шкіри з вишитим логотипом Peugeot. Справжня шкіра — приємна на дотик, довговічна і стійка до зношування. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому під час поїздок. Чорна шкіра підходить до будь-якого салону. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Брелок у подарунок в комплекті. Стильний подарунок власнику Peugeot.</g:description>
+    <g:link>https://autokaban.vercel.app/product/49</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-peugeot/1.jpg</g:image_link>
+    <g:price>1350 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-49</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>50</g:id>
+    <g:title>Набір подушок 2шт на підголовник Mazda з натуральної шкіри</g:title>
+    <g:description>Набір з двох подушок на підголовник Mazda з натуральної шкіри з вишитим логотипом Mazda. Справжня шкіра — приємна на дотик, довговічна і не вигорає. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому в дорозі. Чорна шкіра універсально підходить до будь-якого салону. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Шкіряний брелок у подарунок в комплекті. Стильний подарунок власнику Mazda.</g:description>
+    <g:link>https://autokaban.vercel.app/product/50</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-mazda/1.jpg</g:image_link>
+    <g:price>1350 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-50</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>51</g:id>
+    <g:title>Набір подушок 2шт на підголовник Lexus з натуральної шкіри</g:title>
+    <g:description>Набір з двох подушок на підголовник Lexus з натуральної італійської шкіри з вишитим логотипом Lexus. Справжня шкіра — приємна на дотик, довговічна і не вигорає. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому в дорозі. Чорна шкіра з якісною вишивкою підходить до салону будь-якого Lexus. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Шкіряний брелок у подарунок в комплекті. Стильний подарунок власнику Lexus.</g:description>
+    <g:link>https://autokaban.vercel.app/product/51</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-lexus/1.jpg</g:image_link>
+    <g:price>1350 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-51</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>52</g:id>
+    <g:title>Набір подушок 2шт на підголовник Chevrolet з натуральної шкіри</g:title>
+    <g:description>Набір з двох подушок на підголовник Chevrolet з натуральної італійської шкіри з вишитим логотипом Chevrolet. Справжня шкіра — приємна на дотик, довговічна і не вигорає. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому в дорозі. Чорна шкіра з якісною вишивкою підходить до будь-якого салону Chevrolet. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Шкіряний брелок у подарунок в комплекті. Стильний подарунок власнику Chevrolet.</g:description>
+    <g:link>https://autokaban.vercel.app/product/52</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-chevrolet/1.jpg</g:image_link>
+    <g:price>1020 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-52</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>53</g:id>
+    <g:title>Набір подушок 2шт на підголовник Fiat з натуральної шкіри</g:title>
+    <g:description>Набір з двох подушок на підголовник Fiat з натуральної італійської шкіри з вишитим логотипом Fiat. Справжня шкіра — приємна на дотик, довговічна і не вигорає. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому в дорозі. Чорна шкіра з якісною вишивкою підходить до будь-якого салону Fiat. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Шкіряний брелок у подарунок в комплекті. Стильний подарунок власнику Fiat.</g:description>
+    <g:link>https://autokaban.vercel.app/product/53</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-fiat/1.jpg</g:image_link>
+    <g:price>1020 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-53</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>54</g:id>
+    <g:title>Набір подушок 2шт на підголовник Suzuki з натуральної шкіри</g:title>
+    <g:description>Набір з двох подушок на підголовник Suzuki з натуральної італійської шкіри з вишитим логотипом Suzuki. Справжня шкіра — приємна на дотик, довговічна і не вигорає. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому в дорозі. Чорна шкіра з якісною вишивкою підходить до будь-якого салону Suzuki. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Шкіряний брелок у подарунок в комплекті. Стильний подарунок власнику Suzuki.</g:description>
+    <g:link>https://autokaban.vercel.app/product/54</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-suzuki/1.jpg</g:image_link>
+    <g:price>1020 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-54</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>55</g:id>
+    <g:title>Набір подушок 2шт на підголовник Citroen з натуральної шкіри</g:title>
+    <g:description>Набір з двох подушок на підголовник Citroen з натуральної італійської шкіри з вишитим логотипом Citroen. Справжня шкіра — приємна на дотик, довговічна і не вигорає. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому в дорозі. Чорна шкіра з якісною вишивкою підходить до будь-якого салону Citroen. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Шкіряний брелок у подарунок в комплекті. Стильний подарунок власнику Citroen.</g:description>
+    <g:link>https://autokaban.vercel.app/product/55</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/pillows-citroen/1.jpg</g:image_link>
+    <g:price>1020 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-55</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>56</g:id>
+    <g:title>Акумуляторний пилосос для авто Car Vacuum Cleaner</g:title>
+    <g:description>Компактний акумуляторний пилосос для автомобіля Car Vacuum Cleaner. Потужне всмоктування прибирає пил, крихти, шерсть тварин та дрібне сміття з салону. Працює від вбудованого акумулятора — не потрібне підключення до прикурювача. Легкий та зручний, маневний у важкодоступних місцях. Комплектується насадками для різних поверхнів. Ідеальний для підтримки чистоти в авто.</g:description>
+    <g:link>https://autokaban.vercel.app/product/56</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/vacuum-2/1.jpg</g:image_link>
+    <g:price>600 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-56</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>57</g:id>
+    <g:title>Ручний міні пилосос акумуляторний AS-228</g:title>
+    <g:description>Компактний ручний міні пилосос AS-228 для авто та дому. Акумуляторний — працює автономно без підключення. Потужне всмоктування прибирає пил, крихти та дрібне сміття. Комплектується насадками для різних поверхнів: щілина, м'яка меблі, тверді поверхні. Легкий та зручний, поміщається в бардачок або сумку. Ідеальний для швидкого прибирання салону авто.</g:description>
+    <g:link>https://autokaban.vercel.app/product/57</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/vacuum-mini/1.jpg</g:image_link>
+    <g:price>300 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-57</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>58</g:id>
+    <g:title>Пилосос для авто Car Vacuum Cleaner HY05 акумуляторний</g:title>
+    <g:description>Акумуляторний пилосос для автомобіля Car Vacuum Cleaner HY05. Потужне всмоктування швидко прибирає пил, крихти, шерсть та дрібне сміття з салону. Працює від вбудованого акумулятора — не потрібне підключення до прикурювача. Ергономічна ручка та компактний корпус зручні для тривалої роботи. Маневний у важкодоступних місцях між сидіннями та в щілинах. Ідеальний для регулярного прибирання авто.</g:description>
+    <g:link>https://autokaban.vercel.app/product/58</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/vacuum-hy05/1.jpg</g:image_link>
+    <g:price>550 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-58</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>59</g:id>
+    <g:title>Пилосос для авто Crownberg SV-677 150Вт акумуляторний</g:title>
+    <g:description>Потужний акумуляторний пилосос Crownberg SV-677 з мотором 150Вт та акумулятором 2000mAh. Миючий фільтр легко очищується під водою — не потрібна постійна заміна. Вбудована LED підсвітка освітлює темні ділянки під сидіннями. Потужне всмоктування впорається з пилом, крихтами, шерстю та дрібним сміттям. Зручно лежить в руці завдяки ергономічній формі. Один із найпотужніших ручних пилососів для авто.</g:description>
+    <g:link>https://autokaban.vercel.app/product/59</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/vacuum-crownberg/1.jpg</g:image_link>
+    <g:price>1470 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-59</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+  <item>
+    <g:id>60</g:id>
+    <g:title>Бездротовий пилосос для авто BX-3253 6000Па 50Вт</g:title>
+    <g:description>Потужний бездротовий пилосос BX-3253 з вакуумним всмоктуванням 6000Па та мотором 50Вт. Швидко та глибоко прибирає пил, пісок, крихти та шерсть з салону автомобіля. Акумулятор забезпечує тривалу автономну роботу без підключення до прикурювача. Компактний корпус зручно лежить в руці, маневрує в важкодоступних місцях. Комплектується насадками для різних типів поверхонь.</g:description>
+    <g:link>https://autokaban.vercel.app/product/60</g:link>
+    <g:image_link>https://autokaban.vercel.app/images/vacuum-bx3253/1.jpg</g:image_link>
+    <g:price>1050 UAH</g:price>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:brand>AutoKaban</g:brand>
+    <g:mpn>AK-60</g:mpn>
+    <g:shipping>
+      <g:country>UA</g:country>
+      <g:price>80 UAH</g:price>
+    </g:shipping>
+  </item>
+</channel>
+</rss>
