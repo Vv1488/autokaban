@@ -125,6 +125,23 @@ export default function ProductPage() {
       <Helmet>
         <title>{product.name} — AutoKaban</title>
         <meta name="description" content={product.description?.slice(0, 160) || `Купити ${product.name} за ${product.price} грн. Доставка по всій Україні.`} />
+        <script type="application/ld+json">{JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "Product",
+          "name": product.name,
+          "description": product.description,
+          "image": product.images.map((img) => `https://autokaban.vercel.app${img}`),
+          "sku": `AK-${product.id}`,
+          "brand": { "@type": "Brand", "name": "AutoKaban" },
+          "offers": {
+            "@type": "Offer",
+            "url": `https://autokaban.vercel.app/product/${product.id}`,
+            "priceCurrency": "UAH",
+            "price": product.price,
+            "availability": product.inStock ? "https://schema.org/InStock" : "https://schema.org/OutOfStock",
+            "itemCondition": "https://schema.org/NewCondition"
+          }
+        })}</script>
       </Helmet>
       <div className="container">
         <button onClick={() => navigate(-1)} style={{ ...styles.back, cursor: "pointer", border: "none", background: "none", font: "inherit" }}>
