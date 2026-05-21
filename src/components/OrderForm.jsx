@@ -102,11 +102,18 @@ export default function OrderForm({ cart, totalPrice, onSuccess }) {
     e.preventDefault();
     setStatus("sending");
 
+    const itemsText = cart
+      .map(
+        (item) =>
+          `• ${item.name}\n  Артикул: ${item.article || "не вказано"}\n  ${item.quantity} шт × ${item.price} грн = ${item.price * item.quantity} грн\n  🔗 autokaban.vercel.app/product/${item.id}`
+      )
+      .join("\n\n");
+
     const orderText = `
 🛒 Нове замовлення AutoKaban!
 
 📋 Товари:
-${cart.map((item) => `• ${item.name} × ${item.quantity} = ${item.price * item.quantity} грн`).join("\n")}
+${itemsText}
 
 💰 Сума: ${totalPrice} грн
 
