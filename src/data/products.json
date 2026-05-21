@@ -22,8 +22,7 @@
     ],
     "inStock": true,
     "isNew": false,
-    "isHit": true,
-    "article": ""
+    "isHit": true
   },
   {
     "id": 2,
@@ -48,8 +47,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 3,
@@ -74,8 +72,7 @@
     ],
     "inStock": true,
     "isNew": false,
-    "isHit": true,
-    "article": ""
+    "isHit": true
   },
   {
     "id": 4,
@@ -99,8 +96,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 5,
@@ -124,8 +120,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 6,
@@ -149,8 +144,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": true,
-    "article": ""
+    "isHit": true
   },
   {
     "id": 7,
@@ -174,8 +168,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 8,
@@ -199,8 +192,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 9,
@@ -224,8 +216,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 10,
@@ -249,8 +240,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 11,
@@ -274,8 +264,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": true,
-    "article": ""
+    "isHit": true
   },
   {
     "id": 12,
@@ -299,8 +288,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 13,
@@ -324,8 +312,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": true,
-    "article": ""
+    "isHit": true
   },
   {
     "id": 14,
@@ -349,8 +336,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": true,
-    "article": ""
+    "isHit": true
   },
   {
     "id": 15,
@@ -374,8 +360,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": true,
-    "article": ""
+    "isHit": true
   },
   {
     "id": 16,
@@ -399,8 +384,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": true,
-    "article": ""
+    "isHit": true
   },
   {
     "id": 17,
@@ -424,8 +408,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 18,
@@ -449,8 +432,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 19,
@@ -474,8 +456,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 20,
@@ -499,8 +480,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": true,
-    "article": ""
+    "isHit": true
   },
   {
     "id": 21,
@@ -520,8 +500,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": true,
-    "article": ""
+    "isHit": true
   },
   {
     "id": 22,
@@ -541,8 +520,7 @@
     ],
     "inStock": true,
     "isNew": false,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 23,
@@ -562,8 +540,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 24,
@@ -583,8 +560,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": true,
-    "article": ""
+    "isHit": true
   },
   {
     "id": 25,
@@ -604,8 +580,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 26,
@@ -629,8 +604,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": true,
-    "article": ""
+    "isHit": true
   },
   {
     "id": 27,
@@ -654,8 +628,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 28,
@@ -679,8 +652,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": true,
-    "article": ""
+    "isHit": true
   },
   {
     "id": 29,
@@ -704,8 +676,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 30,
@@ -729,8 +700,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 31,
@@ -754,8 +724,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 32,
@@ -779,8 +748,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 33,
@@ -804,8 +772,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 34,
@@ -829,8 +796,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 35,
@@ -854,8 +820,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 36,
@@ -879,8 +844,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 37,
@@ -904,8 +868,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 38,
@@ -929,8 +892,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 39,
@@ -954,8 +916,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 40,
@@ -979,8 +940,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 41,
@@ -1004,8 +964,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 42,
@@ -1029,8 +988,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 43,
@@ -1054,8 +1012,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 44,
@@ -1079,8 +1036,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 45,
@@ -1104,8 +1060,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 46,
@@ -1129,8 +1084,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 47,
@@ -1154,8 +1108,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 48,
@@ -1179,8 +1132,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 49,
@@ -1204,8 +1156,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 50,
@@ -1229,8 +1180,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 51,
@@ -1254,8 +1204,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 52,
@@ -1279,8 +1228,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 53,
@@ -1304,8 +1252,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 54,
@@ -1329,8 +1276,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 55,
@@ -1354,8 +1300,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 56,
@@ -1379,8 +1324,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 57,
@@ -1404,8 +1348,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 58,
@@ -1429,8 +1372,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 59,
@@ -1454,8 +1396,7 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   },
   {
     "id": 60,
@@ -1479,7 +1420,6 @@
     ],
     "inStock": true,
     "isNew": true,
-    "isHit": false,
-    "article": ""
+    "isHit": false
   }
 ]
