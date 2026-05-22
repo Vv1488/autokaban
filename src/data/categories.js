@@ -6,5 +6,5 @@ export const categories = [
   { id: "accessories", name: "Аксесуари", icon: "🔧" },
   { id: "tools", name: "Інструменти", icon: "🛠" },
   { id: "carwash", name: "Автомийки", icon: "💦" },
-  { id: "dvr", name: "Відеореєстратори", icon: "📹" },
+
 ];
