@@ -253,14 +253,6 @@ export default function ProductPage() {
 
             <div style={styles.prices}>
               <span style={styles.price}>{product.price} грн</span>
-              {product.oldPrice && (
-                <span style={styles.oldPrice}>{product.oldPrice} грн</span>
-              )}
-              {product.oldPrice && (
-                <span style={styles.discount}>
-                  -{Math.round(((product.oldPrice - product.price) / product.oldPrice) * 100)}%
-                </span>
-              )}
             </div>
 
             <p style={styles.desc}>{product.description}</p>
@@ -516,19 +508,6 @@ const styles = {
     fontSize: "clamp(1.5rem, 4vw, 2rem)",
     fontWeight: 800,
     color: "var(--orange)",
-  },
-  oldPrice: {
-    fontSize: "1.2rem",
-    color: "var(--text-muted)",
-    textDecoration: "line-through",
-  },
-  discount: {
-    background: "#f44336",
-    color: "#fff",
-    padding: "2px 8px",
-    borderRadius: 4,
-    fontSize: "0.85rem",
-    fontWeight: 600,
   },
   desc: {
     color: "var(--text)",

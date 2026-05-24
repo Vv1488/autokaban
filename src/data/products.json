@@ -4,7 +4,6 @@
     "name": "Автомобільний компресор 12V з манометром",
     "category": "compressors",
     "price": 350,
-    "oldPrice": 450,
     "images": [
       "/images/compressor/1.jpg",
       "/images/compressor/2.jpg",
@@ -29,7 +28,6 @@
     "name": "Автомагнітола MP3-1096 BT ISO з Bluetooth 1DIN",
     "category": "electronics",
     "price": 820,
-    "oldPrice": 1099,
     "images": [
       "/images/radio/1.jpg",
       "/images/radio/2.jpg",
@@ -54,7 +52,6 @@
     "name": "Автомобільний пилосос Car Vacuum Cleaner 12V",
     "category": "vacuum",
     "price": 390,
-    "oldPrice": 490,
     "images": [
       "/images/vacuum/1.jpg",
       "/images/vacuum/2.jpg",
@@ -1427,7 +1424,6 @@
     "name": "Електронний штангенциркуль 150 мм з LCD дисплеєм",
     "category": "tools",
     "price": 250,
-    "oldPrice": 350,
     "images": [
       "/images/caliper/1.jpg",
       "/images/caliper/2.jpg",
@@ -1452,7 +1448,6 @@
     "name": "Електронний штангенциркуль 150 мм з LCD дисплеєм у кейсі (нержавіюча сталь)",
     "category": "tools",
     "price": 320,
-    "oldPrice": 450,
     "images": [
       "/images/caliper-steel/1.jpg",
       "/images/caliper-steel/2.jpg",
@@ -1477,7 +1472,6 @@
     "name": "Універсальний розвідний гайковий ключ Snap'n Grip (2 шт в комплекті)",
     "category": "tools",
     "price": 270,
-    "oldPrice": 380,
     "images": [
       "/images/snapn-grip/1.jpg",
       "/images/snapn-grip/2.jpg",
@@ -1501,7 +1495,6 @@
     "name": "Водонепроникна ізоляційна стрічка Flex Tape 30 см × 150 см",
     "category": "chemistry",
     "price": 330,
-    "oldPrice": 450,
     "images": [
       "/images/flex-tape/1.jpg",
       "/images/flex-tape/2.jpg",
@@ -1526,7 +1519,6 @@
     "name": "Універсальний ключ 48 в 1 Tiger Wrench + набір ключів Snap'n Grip",
     "category": "tools",
     "price": 370,
-    "oldPrice": 520,
     "images": [
       "/images/tiger-wrench/1.jpg",
       "/images/tiger-wrench/2.jpg",
@@ -1551,7 +1543,6 @@
     "name": "Тріщотка з універсальною насадкою Instantly Grips Any Shape 7–19 мм",
     "category": "tools",
     "price": 320,
-    "oldPrice": 450,
     "images": [
       "/images/universal-socket/1.jpg",
       "/images/universal-socket/2.jpg",
@@ -1576,7 +1567,6 @@
     "name": "Гнучкий подовжувач для викрутки та дрилі Snake Bit TOOL (40 см)",
     "category": "tools",
     "price": 310,
-    "oldPrice": 430,
     "images": [
       "/images/snake-bit/1.jpg",
       "/images/snake-bit/2.jpg",
@@ -1601,7 +1591,6 @@
     "name": "Набір прецизійних викруток 48 в 1 у металевому футлярі",
     "category": "tools",
     "price": 540,
-    "oldPrice": 750,
     "images": [
       "/images/precision-screwdriver/1.jpg",
       "/images/precision-screwdriver/2.jpg",
@@ -1626,7 +1615,6 @@
     "name": "Набір 2 в 1: шуруповерт + гайковерт 48В у валізі (2 акумулятори)",
     "category": "tools",
     "price": 3450,
-    "oldPrice": 4800,
     "images": [
       "/images/drill-wrench-set/1.jpg",
       "/images/drill-wrench-set/2.jpg",
@@ -1651,7 +1639,6 @@
     "name": "Професійний набір інструментів Krafftec Tools Set у алюмінієвій валізі (188 предметів)",
     "category": "tools",
     "price": 4200,
-    "oldPrice": 5800,
     "images": [
       "/images/krafftec-tools/1.jpg",
       "/images/krafftec-tools/2.jpg",
@@ -1675,7 +1662,6 @@
     "name": "Професійний набір інструментів Rainberg RB-001 у валізі на коліщатках (399 предметів)",
     "category": "tools",
     "price": 4200,
-    "oldPrice": 5800,
     "images": [
       "/images/rainberg-tools/1.jpg",
       "/images/rainberg-tools/2.jpg",
@@ -1698,7 +1684,6 @@
     "name": "Набір торцевих ключів ONEX OX-250S з тріщотками (108 предметів)",
     "category": "tools",
     "price": 1830,
-    "oldPrice": 2500,
     "images": [
       "/images/onex-socket-set/1.jpg"
     ],
@@ -1719,7 +1704,6 @@
     "name": "Акумуляторний ударний гайковерт Boxer SR-023 24,4В (до 2800 об/хв)",
     "category": "tools",
     "price": 2650,
-    "oldPrice": 3700,
     "images": [
       "/images/boxer-wrench/1.jpg",
       "/images/boxer-wrench/2.jpg",
@@ -1744,7 +1728,6 @@
     "name": "Електричний ударний гайковерт Boxer BX-479 12В від прикурювача (до 3000 об/хв)",
     "category": "tools",
     "price": 1800,
-    "oldPrice": 2500,
     "images": [
       "/images/boxer-bx479/1.jpg",
       "/images/boxer-bx479/2.jpg",
@@ -1769,7 +1752,6 @@
     "name": "Акумуляторний ударний гайковерт Boxer SR-022 20,4В 250 Н·м (2 акумулятори)",
     "category": "tools",
     "price": 2700,
-    "oldPrice": 3800,
     "images": [
       "/images/boxer-sr022/1.jpg",
       "/images/boxer-sr022/2.jpg",
@@ -1794,7 +1776,6 @@
     "name": "Набір гайкових ключів Boxer BX-011S (172 предмети) у кейсі",
     "category": "tools",
     "price": 2850,
-    "oldPrice": 3900,
     "images": [
       "/images/boxer-bx011s/1.jpg",
       "/images/boxer-bx011s/2.jpg",
@@ -1819,7 +1800,6 @@
     "name": "Безщітковий акумуляторний ударний гайковерт Yellow (2 АКБ + кейс)",
     "category": "tools",
     "price": 1900,
-    "oldPrice": 2600,
     "images": [
       "/images/brushless-wrench-yellow/1.jpg"
     ],
@@ -1840,7 +1820,6 @@
     "name": "Акумуляторний шуруповерт 24В з насадками у кейсі (2 АКБ 5,0 А·год)",
     "category": "tools",
     "price": 750,
-    "oldPrice": 1050,
     "images": [
       "/images/cordless-drill-24v/1.jpg",
       "/images/cordless-drill-24v/2.jpg",
@@ -1865,7 +1844,6 @@
     "name": "Акумуляторний шуруповерт Krafftec 24В з насадками у кейсі",
     "category": "tools",
     "price": 1020,
-    "oldPrice": 1400,
     "images": [
       "/images/krafftec-drill-24v/1.jpg",
       "/images/krafftec-drill-24v/2.jpg",
@@ -1890,7 +1868,6 @@
     "name": "Набір 3 в 1 Boxer SR-032: шуруповерт + гайковерт + викрутка (24В, 2 АКБ)",
     "category": "tools",
     "price": 3950,
-    "oldPrice": 5500,
     "images": [
       "/images/boxer-sr032/1.jpg",
       "/images/boxer-sr032/2.jpg",

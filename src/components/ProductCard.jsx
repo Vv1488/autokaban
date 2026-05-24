@@ -22,9 +22,6 @@ export default function ProductCard({ product }) {
 
         <div style={styles.prices}>
           <span style={styles.price}>{product.price} грн</span>
-          {product.oldPrice && (
-            <span style={styles.oldPrice}>{product.oldPrice} грн</span>
-          )}
         </div>
 
         <button
@@ -103,11 +100,6 @@ const styles = {
     fontSize: "1rem",
     fontWeight: 700,
     color: "var(--orange)",
-  },
-  oldPrice: {
-    fontSize: "0.8rem",
-    color: "var(--text-muted)",
-    textDecoration: "line-through",
   },
   btn: {
     width: "100%",
