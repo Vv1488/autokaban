@@ -8,6 +8,10 @@ import CatalogPage from "./pages/CatalogPage";
 import ProductPage from "./pages/ProductPage";
 import AboutPage from "./pages/AboutPage";
 import ContactsPage from "./pages/ContactsPage";
+import PrivacyPolicyPage from "./pages/PrivacyPolicyPage";
+import ReturnPolicyPage from "./pages/ReturnPolicyPage";
+import TermsPage from "./pages/TermsPage";
+import ShippingPage from "./pages/ShippingPage";
 import { CartProvider } from "./components/CartContext";
 import "./App.css";
 
@@ -68,6 +72,10 @@ function App() {
             <Route path="/product/:id" element={<ProductPage />} />
             <Route path="/about" element={<AboutPage />} />
             <Route path="/contacts" element={<ContactsPage />} />
+            <Route path="/privacy" element={<PrivacyPolicyPage />} />
+            <Route path="/returns" element={<ReturnPolicyPage />} />
+            <Route path="/terms" element={<TermsPage />} />
+            <Route path="/shipping" element={<ShippingPage />} />
           </Routes>
         </main>
         <Footer />

@@ -16,4 +16,20 @@
     <loc>https://autokaban.vercel.app/contacts</loc>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>https://autokaban.vercel.app/shipping</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://autokaban.vercel.app/returns</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://autokaban.vercel.app/privacy</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://autokaban.vercel.app/terms</loc>
+    <priority>0.5</priority>
+  </url>
 </urlset>

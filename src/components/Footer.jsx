@@ -32,6 +32,14 @@ export default function Footer() {
           <a href="https://t.me/autokaban" style={styles.footerLink}>Telegram</a>
           <a href="tel:+380980630594" style={styles.footerLink}>+38 (098) 063-05-94</a>
         </div>
+
+        <div style={styles.col}>
+          <h4 style={styles.colTitle}>Інформація</h4>
+          <Link to="/shipping" style={styles.footerLink}>Доставка та оплата</Link>
+          <Link to="/returns" style={styles.footerLink}>Повернення та обмін</Link>
+          <Link to="/privacy" style={styles.footerLink}>Політика конфіденційності</Link>
+          <Link to="/terms" style={styles.footerLink}>Умови використання</Link>
+        </div>
       </div>
 
       <div style={styles.bottom}>
@@ -64,7 +72,7 @@ const styles = {
     margin: "0 auto",
     padding: "40px 20px 20px",
     display: "grid",
-    gridTemplateColumns: "2fr 1fr 1fr 1fr",
+    gridTemplateColumns: "2fr 1fr 1fr 1fr 1fr",
     gap: 30,
   },
   col: {
