@@ -28,7 +28,7 @@ export default function ContactsPage() {
           <div style={styles.info}>
             <div style={styles.infoBlock}>
               <h3>📍 Адреса</h3>
-              <p style={styles.text}>м. Дніпро, Україна</p>
+              <p style={styles.text}>вул. Минина 11, м. Дніпро, 49000, Україна</p>
             </div>
 
             <div style={styles.infoBlock}>
