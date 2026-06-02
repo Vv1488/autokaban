@@ -105,7 +105,7 @@ export default function OrderForm({ cart, totalPrice, onSuccess }) {
     const itemsText = cart
       .map(
         (item) =>
-          `• ${item.name}\n  ${item.quantity} шт × ${item.price} грн = ${item.price * item.quantity} грн\n  🔗 autokaban.vercel.app/product/${item.id}`
+          `• ${item.name}\n  ${item.quantity} шт × ${item.price} грн = ${item.price * item.quantity} грн\n  🔗 autokaban.store/product/${item.id}`
       )
       .join("\n\n");
 

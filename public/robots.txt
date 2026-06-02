@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://autokaban.vercel.app/sitemap.xml
+Sitemap: https://autokaban.store/sitemap.xml

@@ -23,8 +23,8 @@ export default function TermsPage() {
             <p style={styles.text}>
               Інтернет-магазин AutoKaban (далі — «Магазин») розташований за
               адресою{" "}
-              <a href="https://autokaban.vercel.app" style={styles.link}>
-                autokaban.vercel.app
+              <a href="https://autokaban.store" style={styles.link}>
+                autokaban.store
               </a>
               . Користуючись сайтом, ви погоджуєтесь із цими умовами.
             </p>

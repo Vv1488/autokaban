@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://autokaban.vercel.app/</loc>
+    <loc>https://autokaban.store/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://autokaban.vercel.app/catalog</loc>
+    <loc>https://autokaban.store/catalog</loc>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://autokaban.vercel.app/about</loc>
+    <loc>https://autokaban.store/about</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://autokaban.vercel.app/contacts</loc>
+    <loc>https://autokaban.store/contacts</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://autokaban.vercel.app/shipping</loc>
+    <loc>https://autokaban.store/shipping</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://autokaban.vercel.app/returns</loc>
+    <loc>https://autokaban.store/returns</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://autokaban.vercel.app/privacy</loc>
+    <loc>https://autokaban.store/privacy</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://autokaban.vercel.app/terms</loc>
+    <loc>https://autokaban.store/terms</loc>
     <priority>0.5</priority>
   </url>
 </urlset>

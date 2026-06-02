@@ -24,8 +24,8 @@ export default function PrivacyPolicyPage() {
               Ця Політика конфіденційності описує, як інтернет-магазин
               AutoKaban (далі — «Магазин») збирає, використовує та захищає
               персональні дані користувачів сайту{" "}
-              <a href="https://autokaban.vercel.app" style={styles.link}>
-                autokaban.vercel.app
+              <a href="https://autokaban.store" style={styles.link}>
+                autokaban.store
               </a>
               .
             </p>
