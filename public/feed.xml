@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
 <channel>
 <title>AutoKaban — Автотовари</title>
-<link>https://autokaban.store</link>
+<link>https://www.autokaban.store</link>
 <description>Інтернет-магазин автотоварів. Доставка по всій Україні.</description>
   <item>
     <g:id>1</g:id>
     <g:title>Автомобільний компресор 12V з манометром</g:title>
     <g:description>Потрібен надійний компресор, який не підведе в дорозі? Ця компактна модель з потужністю 100W та максимальним тиском 10 бар швидко накачає будь-яке колесо. Працює від прикурювача 12V — не потрібні акумулятори. Вбудований манометр дозволяє контролювати тиск, а 3 додаткові насадки підійдуть для м'ячів, матраців та надувних іграшок. Компактний — займає мінімум місця в багажнику.</g:description>
-    <g:link>https://autokaban.store/product/1</g:link>
-    <g:image_link>https://autokaban.store/images/compressor/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/compressor/2.jpg,https://autokaban.store/images/compressor/3.jpg,https://autokaban.store/images/compressor/4.jpg,https://autokaban.store/images/compressor/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/1</g:link>
+    <g:image_link>https://www.autokaban.store/images/compressor/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/compressor/2.jpg,https://www.autokaban.store/images/compressor/3.jpg,https://www.autokaban.store/images/compressor/4.jpg,https://www.autokaban.store/images/compressor/5.jpg</g:additional_image_link>
     <g:price>350 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -26,9 +26,9 @@
     <g:id>2</g:id>
     <g:title>Автомагнітола MP3-1096 BT ISO з Bluetooth 1DIN</g:title>
     <g:description>Хочеш слухати улюблену музику в авто без дротів? Автомагнітола MP3-1096 BT з Bluetooth — це все, що тобі потрібно. Знімна панель захистить від крадіжки, а потужний звук 4х50W забезпечить якісне звучання. Підключай телефон через Bluetooth для музики та гучного зв'язку, або слухай з USB-флешки, SD-карти або через AUX. Пульт ДУ в комплекті — зручно керувати з заднього сидіння. Стандарт 1DIN — підійде більшості автомобілів.</g:description>
-    <g:link>https://autokaban.store/product/2</g:link>
-    <g:image_link>https://autokaban.store/images/radio/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/radio/2.jpg,https://autokaban.store/images/radio/3.jpg,https://autokaban.store/images/radio/4.jpg,https://autokaban.store/images/radio/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/2</g:link>
+    <g:image_link>https://www.autokaban.store/images/radio/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/radio/2.jpg,https://www.autokaban.store/images/radio/3.jpg,https://www.autokaban.store/images/radio/4.jpg,https://www.autokaban.store/images/radio/5.jpg</g:additional_image_link>
     <g:price>820 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -44,9 +44,9 @@
     <g:id>3</g:id>
     <g:title>Автомобільний пилосос Car Vacuum Cleaner 12V</g:title>
     <g:description>Салон авто потребує регулярного прибирання, але мити хімочисткою дорого і довго. Цей компактний пилосос — швидке рішення для сухого та вологого прибирання. Потужність 130W, працює від прикурювача 12V. Довгий кабель дістає навіть до багажника. Пилозбірник на 200мл легко очищається. У комплекті — щілинна насадка для важкодоступних місць та щітка для сидінь. Займає мінімум місця — завжди під рукою.</g:description>
-    <g:link>https://autokaban.store/product/3</g:link>
-    <g:image_link>https://autokaban.store/images/vacuum/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/vacuum/2.jpg,https://autokaban.store/images/vacuum/3.jpg,https://autokaban.store/images/vacuum/4.jpg,https://autokaban.store/images/vacuum/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/3</g:link>
+    <g:image_link>https://www.autokaban.store/images/vacuum/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/vacuum/2.jpg,https://www.autokaban.store/images/vacuum/3.jpg,https://www.autokaban.store/images/vacuum/4.jpg,https://www.autokaban.store/images/vacuum/5.jpg</g:additional_image_link>
     <g:price>390 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -62,9 +62,9 @@
     <g:id>4</g:id>
     <g:title>FM-модулятор CM 7010 з Bluetooth та зарядкою для телефону</g:title>
     <g:description>Твоя автомагнітола не підтримує Bluetooth та флешку? FM-модулятор CM 7010 — найпростіше рішення. Вставляєш в прикурювач, підключаєш телефон через Bluetooth — і музика грає через колонки авто. Плюс телефон заряджається одночасно. LCD-дисплей показує назву треку та частоту. Можна слухати музику з USB-флешки або SD-карти. Є пульт ДУ для пасажирів. Гучний зв'язок для розмов без рук — безпечно під час водіння. Працює з будь-якою аудіосистемою, достатньо налаштувати радіочастоту.</g:description>
-    <g:link>https://autokaban.store/product/4</g:link>
-    <g:image_link>https://autokaban.store/images/fm-modulator/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/fm-modulator/2.jpg,https://autokaban.store/images/fm-modulator/3.jpg,https://autokaban.store/images/fm-modulator/4.jpg,https://autokaban.store/images/fm-modulator/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/4</g:link>
+    <g:image_link>https://www.autokaban.store/images/fm-modulator/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/fm-modulator/2.jpg,https://www.autokaban.store/images/fm-modulator/3.jpg,https://www.autokaban.store/images/fm-modulator/4.jpg,https://www.autokaban.store/images/fm-modulator/5.jpg</g:additional_image_link>
     <g:price>300 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -80,9 +80,9 @@
     <g:id>5</g:id>
     <g:title>FM-трансмиттер HZ H9 з Bluetooth та пультом ДУ</g:title>
     <g:description>Компактний FM-трансмиттер, який перетворює будь-яку автомагнітолу на Bluetooth-систему. Підключаєш в прикурювач, синхронізуєш з телефоном — і грає музика через колонки авто. Має LCD-дисплей для відображення треку та частоти. Слухай музику з телефону через Bluetooth, з USB-флешки або microSD-карти. Є AUX-вихід для провідного підключення. Вбудований мікрофон дозволяє розмовляти по телефону за рулем без рук. USB-порт заряджає телефон під час поїздки. Пульт ДУ на 10 кнопок — пасажирам зручно перемикати треки з заднього сидіння. Підходить до будь-якого авто з FM-радіо.</g:description>
-    <g:link>https://autokaban.store/product/5</g:link>
-    <g:image_link>https://autokaban.store/images/fm-h9/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/fm-h9/2.jpg,https://autokaban.store/images/fm-h9/3.jpg,https://autokaban.store/images/fm-h9/4.jpg,https://autokaban.store/images/fm-h9/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/5</g:link>
+    <g:image_link>https://www.autokaban.store/images/fm-h9/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/fm-h9/2.jpg,https://www.autokaban.store/images/fm-h9/3.jpg,https://www.autokaban.store/images/fm-h9/4.jpg,https://www.autokaban.store/images/fm-h9/5.jpg</g:additional_image_link>
     <g:price>300 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -98,9 +98,9 @@
     <g:id>6</g:id>
     <g:title>FM-трансмиттер V11 BT з Bluetooth-гарнітурою</g:title>
     <g:description>Потужний FM-трансмиттер з Bluetooth 5.0 — це два пристрої в одному: музичний плеер для авто та Bluetooth-гарнітура для гучного зв'язку. Версія Bluetooth 5.0 + EDR забезпечує стабільне з'єднання без обривів на відстані до 10 метрів. Два USB-порти із загальним струмом 3.1А — можна заряджати два пристрої одночасно, один з них швидкою зарядкою. Музику можна слухати з телефону через Bluetooth, з USB-флешки або SD-карти. Вбудований мікрофон з функцією Hands Free — розмовляй за кермом безпечно, не відволікаючись на телефон. Підходить до будь-якого авто з FM-радіо.</g:description>
-    <g:link>https://autokaban.store/product/6</g:link>
-    <g:image_link>https://autokaban.store/images/fm-v11/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/fm-v11/2.jpg,https://autokaban.store/images/fm-v11/3.jpg,https://autokaban.store/images/fm-v11/4.jpg,https://autokaban.store/images/fm-v11/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/6</g:link>
+    <g:image_link>https://www.autokaban.store/images/fm-v11/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/fm-v11/2.jpg,https://www.autokaban.store/images/fm-v11/3.jpg,https://www.autokaban.store/images/fm-v11/4.jpg,https://www.autokaban.store/images/fm-v11/5.jpg</g:additional_image_link>
     <g:price>450 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -116,9 +116,9 @@
     <g:id>7</g:id>
     <g:title>FM-трансмиттер X7 BT з Bluetooth та LED-дисплеєм</g:title>
     <g:description>Стильний FM-трансмиттер з Bluetooth у компактному корпусі. Підключається в прикурювач — і твоя автомагнітола одержує Bluetooth, USB-плеер та зарядку одночасно. LED-дисплей зручно показує частоту та статус. Два USB-порти (5В / 2.1А) — заряджай телефон та слухай музику з флешки паралельно. Є слот для microSD-карт до 32 ГБ. Функція гучного зв'язку Hands Free — безпечні розмови за кермом. Підтримує формати MP3 та WMA. Колір чорний із золотими вставками — виглядає дорогенько в салоні авто.</g:description>
-    <g:link>https://autokaban.store/product/7</g:link>
-    <g:image_link>https://autokaban.store/images/fm-x7/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/fm-x7/2.jpg,https://autokaban.store/images/fm-x7/3.jpg,https://autokaban.store/images/fm-x7/4.jpg,https://autokaban.store/images/fm-x7/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/7</g:link>
+    <g:image_link>https://www.autokaban.store/images/fm-x7/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/fm-x7/2.jpg,https://www.autokaban.store/images/fm-x7/3.jpg,https://www.autokaban.store/images/fm-x7/4.jpg,https://www.autokaban.store/images/fm-x7/5.jpg</g:additional_image_link>
     <g:price>350 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -134,9 +134,9 @@
     <g:id>8</g:id>
     <g:title>FM-трансмиттер H15 Bluetooth MP3 з LED-дисплеєм</g:title>
     <g:description>Просунутий FM-трансмиттер для тих, хто хоче максимум функцій за розумні гроші. Bluetooth для бездротової музики та гучного зв'язку, два USB-порти для зарядки пристроїв. Але головна фішка — підтримка форматів FLAC та WAV, а не лише MP3. Це означає якісніший звук з флешки або microSD-карти до 32 ГБ. LED-дисплей показує назву треку, частоту та напругу акумулятора авто — завжди знаєш стан батареї. Вбудований мікрофон для розмов hands-free за кермом. Колір чорний — стримано і стильно.</g:description>
-    <g:link>https://autokaban.store/product/8</g:link>
-    <g:image_link>https://autokaban.store/images/fm-h15/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/fm-h15/2.jpg,https://autokaban.store/images/fm-h15/3.jpg,https://autokaban.store/images/fm-h15/4.jpg,https://autokaban.store/images/fm-h15/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/8</g:link>
+    <g:image_link>https://www.autokaban.store/images/fm-h15/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/fm-h15/2.jpg,https://www.autokaban.store/images/fm-h15/3.jpg,https://www.autokaban.store/images/fm-h15/4.jpg,https://www.autokaban.store/images/fm-h15/5.jpg</g:additional_image_link>
     <g:price>450 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -152,9 +152,9 @@
     <g:id>9</g:id>
     <g:title>FM-модулятор HZ H13 з Bluetooth, LCD-дисплеєм та AUX</g:title>
     <g:description>Бюджетний, але функціональний FM-модулятор для авто. Bluetooth 4.0 з радіусом дії до 10 метрів — підключаєш телефон і музика грає через колонки машини. LCD-дисплей показує частоту та назву треку. Музику можна слухати з USB-флешки, microSD-карти або через AUX-кабель — три варіанти на вибір. Є пульт дистанційного керування — пасажирам зручно перемикати треки. Живлення від прикурювача 10–24V, підходить і для легкових, і для вантажних авто. Підтримує формати MP3 та WMA.</g:description>
-    <g:link>https://autokaban.store/product/9</g:link>
-    <g:image_link>https://autokaban.store/images/fm-h13/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/fm-h13/2.jpg,https://autokaban.store/images/fm-h13/3.jpg,https://autokaban.store/images/fm-h13/4.jpg,https://autokaban.store/images/fm-h13/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/9</g:link>
+    <g:image_link>https://www.autokaban.store/images/fm-h13/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/fm-h13/2.jpg,https://www.autokaban.store/images/fm-h13/3.jpg,https://www.autokaban.store/images/fm-h13/4.jpg,https://www.autokaban.store/images/fm-h13/5.jpg</g:additional_image_link>
     <g:price>300 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -170,9 +170,9 @@
     <g:id>10</g:id>
     <g:title>FM-трансмиттер MOD H21 BT з Bluetooth та зарядкою</g:title>
     <g:description>FM-трансмиттер з регульованим кутом нахилу — зручно підлаштувати під будь-яке розташування прикурювача. Bluetooth для музики та гучного зв'язку, вбудований мікрофон для розмов hands-free. USB-порт заряджає телефон (2.1А) та одночасно грає музику з флешки. Є слот для microSD-карт та AUX-вхід для провідного підключення. LCD-дисплей показує номер FM-хвилі. Компактний пластиковий корпус чорного кольору. Працює в діапазоні 87.5–108 МГц — підходить до будь-якого авто з радіо.</g:description>
-    <g:link>https://autokaban.store/product/10</g:link>
-    <g:image_link>https://autokaban.store/images/fm-h21/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/fm-h21/2.jpg,https://autokaban.store/images/fm-h21/3.jpg,https://autokaban.store/images/fm-h21/4.jpg,https://autokaban.store/images/fm-h21/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/10</g:link>
+    <g:image_link>https://www.autokaban.store/images/fm-h21/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/fm-h21/2.jpg,https://www.autokaban.store/images/fm-h21/3.jpg,https://www.autokaban.store/images/fm-h21/4.jpg,https://www.autokaban.store/images/fm-h21/5.jpg</g:additional_image_link>
     <g:price>300 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -188,9 +188,9 @@
     <g:id>11</g:id>
     <g:title>FM-модулятор H86BT з Bluetooth, LED-дисплеєм та пультом ДУ</g:title>
     <g:description>Преміальний FM-модулятор з Bluetooth 4.0 для тих, хто хоче перетворити навіть стару магнітолу на сучасну Bluetooth-систему. Перетворить будь-яку аудіосистему автомобіля — достатньо налаштувати частоту на радіо. LED-дисплей яскраво відображає інформацію. Музика з телефону через Bluetooth, з USB-флешки або microSD-карти. Вбудований мікрофон для гучного зв'язку — розмовляй за кермом безпечно. Пульт ДУ в комплекті для зручного керування пасажирами. Живлення від прикурювача 12–24V — підходить і для легкових, і для вантажівок. На Rozetka та Prom.ua продається за 600 грн.</g:description>
-    <g:link>https://autokaban.store/product/11</g:link>
-    <g:image_link>https://autokaban.store/images/fm-h86/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/fm-h86/2.jpg,https://autokaban.store/images/fm-h86/3.jpg,https://autokaban.store/images/fm-h86/4.jpg,https://autokaban.store/images/fm-h86/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/11</g:link>
+    <g:image_link>https://www.autokaban.store/images/fm-h86/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/fm-h86/2.jpg,https://www.autokaban.store/images/fm-h86/3.jpg,https://www.autokaban.store/images/fm-h86/4.jpg,https://www.autokaban.store/images/fm-h86/5.jpg</g:additional_image_link>
     <g:price>500 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -206,9 +206,9 @@
     <g:id>12</g:id>
     <g:title>FM-трансмиттер H7 BT універсальний з Dual USB та пультом ДУ</g:title>
     <g:description>Універсальний FM-трансмиттер з двома USB-портами — заряджаєш два пристрої одночасно, не вибираючи що важливіше. Bluetooth для бездротової музики та гучного зв'язку з вбудованим мікрофоном. Музика з телефону, USB-флешки або microSD-карти — підтримує MP3 та WMA. LED-дисплей показує частоту та статус. Пульт ДУ в комплекті — пасажирам зручно керувати з заднього сидіння. Працює в діапазоні 87.5–108 МГц, підходить до будь-якого авто з FM-радіо. Живлення від прикурювача 12V.</g:description>
-    <g:link>https://autokaban.store/product/12</g:link>
-    <g:image_link>https://autokaban.store/images/fm-h7/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/fm-h7/2.jpg,https://autokaban.store/images/fm-h7/3.jpg,https://autokaban.store/images/fm-h7/4.jpg,https://autokaban.store/images/fm-h7/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/12</g:link>
+    <g:image_link>https://www.autokaban.store/images/fm-h7/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/fm-h7/2.jpg,https://www.autokaban.store/images/fm-h7/3.jpg,https://www.autokaban.store/images/fm-h7/4.jpg,https://www.autokaban.store/images/fm-h7/5.jpg</g:additional_image_link>
     <g:price>450 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -224,9 +224,9 @@
     <g:id>13</g:id>
     <g:title>Автомагнітола MP3-1096 BT ISO з Bluetooth, знімною панеллю та пультом ДУ</g:title>
     <g:description>Повноцінна автомагнітола 1DIN з Bluetooth за розумну ціну. Знімна передня панель — зняв і забрав з собою, надійний захист від крадіжки. Bluetooth для бездротової музики та гучного зв'язку з телефоном. Потужність 4х50W забезпечує гучний та чистий звук у салоні. Слухай музику з USB-флешки, SD-карти до 32 ГБ або через AUX-кабель. Пульт ДУ в комплекті — зручно керувати з заднього сидіння. ISO-рамка для швидкого монтажу в більшість автомобілів. Підтримує формати MP3 та WMA.</g:description>
-    <g:link>https://autokaban.store/product/13</g:link>
-    <g:image_link>https://autokaban.store/images/radio-1094/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/radio-1094/2.jpg,https://autokaban.store/images/radio-1094/3.jpg,https://autokaban.store/images/radio-1094/4.jpg,https://autokaban.store/images/radio-1094/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/13</g:link>
+    <g:image_link>https://www.autokaban.store/images/radio-1094/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/radio-1094/2.jpg,https://www.autokaban.store/images/radio-1094/3.jpg,https://www.autokaban.store/images/radio-1094/4.jpg,https://www.autokaban.store/images/radio-1094/5.jpg</g:additional_image_link>
     <g:price>900 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -242,9 +242,9 @@
     <g:id>14</g:id>
     <g:title>Автомагнітола MP3-3887 ISO 1DIN з сенсорним дисплеєм LED/LCD</g:title>
     <g:description>Стильна автомагнітола 1DIN із сенсорним LED/LCD-дисплеєм — виглядає та працює дорожче, ніж коштує. Сенсорні кнопки замість механічних — сучасний вигляд та плавне управління. Bluetooth для бездротової музики та гучного зв'язку. FM-тюнер з автоскануванням та 18 збереженими станціями. Два USB-порти — один для флешки, інший для зарядки телефону. Слот для microSD-карт та AUX-вхід. Потужність 4х50W з вбудованим еквалайзером — настрой звук під себе. Пульт ДУ та ISO-рамка для швидкого монтажу в комплекті. На Rozetka продається від 1300 грн.</g:description>
-    <g:link>https://autokaban.store/product/14</g:link>
-    <g:image_link>https://autokaban.store/images/radio-3887/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/radio-3887/2.jpg,https://autokaban.store/images/radio-3887/3.jpg,https://autokaban.store/images/radio-3887/4.jpg,https://autokaban.store/images/radio-3887/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/14</g:link>
+    <g:image_link>https://www.autokaban.store/images/radio-3887/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/radio-3887/2.jpg,https://www.autokaban.store/images/radio-3887/3.jpg,https://www.autokaban.store/images/radio-3887/4.jpg,https://www.autokaban.store/images/radio-3887/5.jpg</g:additional_image_link>
     <g:price>800 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -260,9 +260,9 @@
     <g:id>15</g:id>
     <g:title>Акмуляторна автомийка високого тиску BX-3219 (24V, 550W)</g:title>
     <g:description>Безпровідна автомийка, яка працює від акумулятора 24V — ніяких проводів та розеток. Миєш авто де завгодно: на парковці, в гаражі, на дачі. Потужний мотор 550W з швидкістю насоса 19500 об/хв створює тиск до 90 бар — змиває бруд, пил та сіль з кузова без зусиль. Витрата води 4 л/хв — економно. В комплекті пеногенератор для нанесення активної піни, дві насадки для води та металевий фільтр. Акумулятор 1500 мА·год вбудований, заряджається від мережі. Підходить також для миття велосипедів, вікон, терас та доріжок.</g:description>
-    <g:link>https://autokaban.store/product/15</g:link>
-    <g:image_link>https://autokaban.store/images/car-wash/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/car-wash/2.jpg,https://autokaban.store/images/car-wash/3.jpg,https://autokaban.store/images/car-wash/4.jpg,https://autokaban.store/images/car-wash/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/15</g:link>
+    <g:image_link>https://www.autokaban.store/images/car-wash/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/car-wash/2.jpg,https://www.autokaban.store/images/car-wash/3.jpg,https://www.autokaban.store/images/car-wash/4.jpg,https://www.autokaban.store/images/car-wash/5.jpg</g:additional_image_link>
     <g:price>1400 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -278,9 +278,9 @@
     <g:id>16</g:id>
     <g:title>Відеореєстратор DVR E26 Full HD 1080p з нічним зніманням</g:title>
     <g:description>Надійний відеореєстратор в металевому корпусі для запису всього, що відбувається на дорозі. Знімає у Full HD 1080p з кутом огляду 170° — охоплює всі смуги руху, а не тільки свою. Процесор Quad core GeneralPlus 6248 забезпечує плавний відеозапис без гальмувань. Нічний режим — камера бачить дорогу навіть у темряві. 3-дюймовий LCD-екран для перегляду записів прямо в авто. Кріплення на присоску — встановлюється за хвилину без інструментів. Запис на microSD-карту до 32 ГБ. Корпус з алюмінію та пластику — не гріється і довго служить.</g:description>
-    <g:link>https://autokaban.store/product/16</g:link>
-    <g:image_link>https://autokaban.store/images/dvr-e26/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/dvr-e26/2.jpg,https://autokaban.store/images/dvr-e26/3.jpg,https://autokaban.store/images/dvr-e26/4.jpg,https://autokaban.store/images/dvr-e26/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/16</g:link>
+    <g:image_link>https://www.autokaban.store/images/dvr-e26/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/dvr-e26/2.jpg,https://www.autokaban.store/images/dvr-e26/3.jpg,https://www.autokaban.store/images/dvr-e26/4.jpg,https://www.autokaban.store/images/dvr-e26/5.jpg</g:additional_image_link>
     <g:price>1950 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -296,9 +296,9 @@
     <g:id>17</g:id>
     <g:title>Портативний автомобільний душ Aqua Fresh YD104</g:title>
     <g:description>Компактний портативний душ для авто, який живиться від прикурювача 12V. Ідеальний для подорожей, кемпінгу, пікніків та дачі. Опускаєш шланг у будь-яку ємність з водою — відро, каністру, басейн — і отримуєш повноцінний душ. Довжина кабелю живлення 4 метри + шланг 2 метри — дістане скрізь. Регульований напір води, витрата 4 л/хв. Можна помити руки, помити собаку, сполоснути ноги після пляжу або навіть прийняти душ на природі. Сумка для зберігання в комплекті — складаєш і кидаєш в багажник.</g:description>
-    <g:link>https://autokaban.store/product/17</g:link>
-    <g:image_link>https://autokaban.store/images/car-shower/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/car-shower/2.jpg,https://autokaban.store/images/car-shower/3.jpg,https://autokaban.store/images/car-shower/4.jpg,https://autokaban.store/images/car-shower/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/17</g:link>
+    <g:image_link>https://www.autokaban.store/images/car-shower/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/car-shower/2.jpg,https://www.autokaban.store/images/car-shower/3.jpg,https://www.autokaban.store/images/car-shower/4.jpg,https://www.autokaban.store/images/car-shower/5.jpg</g:additional_image_link>
     <g:price>850 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -314,9 +314,9 @@
     <g:id>18</g:id>
     <g:title>Автомобільний компресор 12V з фонариком та манометром</g:title>
     <g:description>Потужний автомобільний компресор з вбудованим фонариком — два в одному. Максимальний тиск 10 бар (150 psi) швидко накачає будь-яке колесо — від легковика до позашляховика. Потужність 100W, працює від прикурювача 12V. Вбудований манометр показує точний тиск — не потрібен окремий прилад. Фонарик допоможе підкачати колесо вночі або на узбіччі. 3 додаткові насадки в комплекті — для м'ячів, матраців та надувних виробів. Довгий кабель дістає до всіх коліс.</g:description>
-    <g:link>https://autokaban.store/product/18</g:link>
-    <g:image_link>https://autokaban.store/images/compressor-2/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/compressor-2/2.jpg,https://autokaban.store/images/compressor-2/3.jpg,https://autokaban.store/images/compressor-2/4.jpg,https://autokaban.store/images/compressor-2/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/18</g:link>
+    <g:image_link>https://www.autokaban.store/images/compressor-2/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/compressor-2/2.jpg,https://www.autokaban.store/images/compressor-2/3.jpg,https://www.autokaban.store/images/compressor-2/4.jpg,https://www.autokaban.store/images/compressor-2/5.jpg</g:additional_image_link>
     <g:price>650 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -332,9 +332,9 @@
     <g:id>19</g:id>
     <g:title>Портативний компресор Dragon з електронним манометром та LCD-дисплеєм</g:title>
     <g:description>Компактний автомобільний компресор з електронним LCD-манометром — набрав потрібне значення і він сам вимкнеться. Не потрібно стежити за тиском, компресор зупиняється автоматично when досягає заданого значення. Великий LCD-дисплей показує тиск у PSI, BAR, kPa та кг/см² — обирай зручні одиниці. Вбудований LED-ліхтарик для роботи вночі. Живлення від прикурювача 12V. Набагато точніший за аналоговий манометр — завжди правильний тиск у шинах, що економить паливо та подовжує ресурс шин. Додаткові насадки для м'ячів та матраців в комплекті.</g:description>
-    <g:link>https://autokaban.store/product/19</g:link>
-    <g:image_link>https://autokaban.store/images/compressor-dragon/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/compressor-dragon/2.jpg,https://autokaban.store/images/compressor-dragon/3.jpg,https://autokaban.store/images/compressor-dragon/4.jpg,https://autokaban.store/images/compressor-dragon/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/19</g:link>
+    <g:image_link>https://www.autokaban.store/images/compressor-dragon/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/compressor-dragon/2.jpg,https://www.autokaban.store/images/compressor-dragon/3.jpg,https://www.autokaban.store/images/compressor-dragon/4.jpg,https://www.autokaban.store/images/compressor-dragon/5.jpg</g:additional_image_link>
     <g:price>450 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -350,9 +350,9 @@
     <g:id>20</g:id>
     <g:title>Портативний автокомпресор CZK-4234 з акумулятором та LCD-дисплеєм</g:title>
     <g:description>Безпровідний компресор з вбудованим акумулятором 2×2000 мА·год — накачує колеса без підключення до прикурювача. Забув зарядити? Можна живити і від 12V. Продуктивність 20 л/хв — швидко накачає легкові колеса. Цифровий LCD-дисплей показує точний тиск, 4 режими роботи: авто, мото, велосипед, м'ячі — обираєш і компресор сам вимикається при досягненні потрібного тиску. Вбудований LED-ліхтарик для нічного використання. Компактний, поміщається в руку — завжди в бардачку чи багажнику.</g:description>
-    <g:link>https://autokaban.store/product/20</g:link>
-    <g:image_link>https://autokaban.store/images/compressor-czk/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/compressor-czk/2.jpg,https://autokaban.store/images/compressor-czk/3.jpg,https://autokaban.store/images/compressor-czk/4.jpg,https://autokaban.store/images/compressor-czk/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/20</g:link>
+    <g:image_link>https://www.autokaban.store/images/compressor-czk/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/compressor-czk/2.jpg,https://www.autokaban.store/images/compressor-czk/3.jpg,https://www.autokaban.store/images/compressor-czk/4.jpg,https://www.autokaban.store/images/compressor-czk/5.jpg</g:additional_image_link>
     <g:price>870 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -368,8 +368,8 @@
     <g:id>21</g:id>
     <g:title>Безпровідний компресор ST-9620B з акумулятором та LED-екраном</g:title>
     <g:description>Потужний безпровідний компресор з трьома літієвими батареями по 2000 мА·год (всього 6000 мА·год) — працює без підключення до прикурювача. Продуктивність 30 л/хв — один з найшвидших у своєму класі. Максимальний тиск 150 PSI (10 атм) — накачає колеса будь-якого авто, мотоцикла чи велосипеда. LED-екран показує точний тиск, автоматично вимикається при досягненні заданого значення. Компактний (160×80×56 мм) і важить всього 560 г — поміщається в бардачок. Корпус з удароміцного ABS-пластику.</g:description>
-    <g:link>https://autokaban.store/product/21</g:link>
-    <g:image_link>https://autokaban.store/images/compressor-st/1.jpg</g:image_link>
+    <g:link>https://www.autokaban.store/product/21</g:link>
+    <g:image_link>https://www.autokaban.store/images/compressor-st/1.jpg</g:image_link>
     <g:price>900 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -385,8 +385,8 @@
     <g:id>22</g:id>
     <g:title>Автомобільний компресор 12V від прикурювача з фонариком</g:title>
     <g:description>Надійний автомобільний компресор за розумну ціну. Працює від прикурювача 12V — вставив і накачуєш. Вбудований манометр показує точний тиск у шинах. LED-фонарик вбудований в корпус — зручно підкачувати колеса вночі або на узбіччі. Довгий кабель 3 метри дістає до всіх коліс. Шланг 60 см зручний для підключення до нипеля. Додаткові насадки в комплекті для м'ячів, матраців та надувних іграшок. Компактний — не займає багато місця в багажнику.</g:description>
-    <g:link>https://autokaban.store/product/22</g:link>
-    <g:image_link>https://autokaban.store/images/compressor-3/1.jpg</g:image_link>
+    <g:link>https://www.autokaban.store/product/22</g:link>
+    <g:image_link>https://www.autokaban.store/images/compressor-3/1.jpg</g:image_link>
     <g:price>520 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -402,8 +402,8 @@
     <g:id>23</g:id>
     <g:title>Акумуляторний компресор 12V з LED-екраном та насадками</g:title>
     <g:description>Безпровідний компресор з вбудованим акумулятором 6000 мА·год та яскравим LED-екраном. Не потрібен прикурювач — зарядив один раз і накачуєш всі чотири колеса. Зарядка через USB Type-C, як у телефоні. Цифровий екран показує точний тиск та дозволяє задати потрібне значення — компресор сам вимкнеться when досягне мети. Продуктивність 30 л/хв, максимальний тиск 150 PSI. Компактний (160×80×56 мм) — поміщається в бардачок або сумку. Набір насадок в комплекті для м'ячів, велосипедів та надувних виробів.</g:description>
-    <g:link>https://autokaban.store/product/23</g:link>
-    <g:image_link>https://autokaban.store/images/compressor-led/1.jpg</g:image_link>
+    <g:link>https://www.autokaban.store/product/23</g:link>
+    <g:image_link>https://www.autokaban.store/images/compressor-led/1.jpg</g:image_link>
     <g:price>930 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -419,8 +419,8 @@
     <g:id>24</g:id>
     <g:title>Двопоршневий автомобільний компресор 628-4x4 (85 л/хв, 150W)</g:title>
     <g:description>Потужний двопоршневий компресор для тих, кому не достатньо звичайного насоса. Два циліндри забезпечують продуктивність 85 л/хв — в 3 рази швидше за стандартний компресор. Накачує колеса позашляховика, кроссовера та вантажівки без зусиль. Максимальний тиск 200 PSI (10 атм). Металевий корпус — надійний і довговічний, не перегрівається. Вбудований манометр для контролю тиску. Довгий кабель 2.3м та шланг 2.5м — дістає до будь-якого колеса. Живлення від прикурювача 12V або безпосередньо від клем акумулятора. Сумка для зберігання в комплекті.</g:description>
-    <g:link>https://autokaban.store/product/24</g:link>
-    <g:image_link>https://autokaban.store/images/compressor-628/1.jpg</g:image_link>
+    <g:link>https://www.autokaban.store/product/24</g:link>
+    <g:image_link>https://www.autokaban.store/images/compressor-628/1.jpg</g:image_link>
     <g:price>1380 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -436,8 +436,8 @@
     <g:id>25</g:id>
     <g:title>Акумуляторний компресор 12V з екраном для авто та спорту</g:title>
     <g:description>Універсальний безпровідний компресор з цифровим екраном — для авто, велосипеда, мотоцикла та спортивного інвентарю. Вбудований акумулятор — не потрібен прикурювач, накачуй колеса будь-де. Цифровий екран показує точний тиск та дозволяє задати цільове значення, компресор автоматично вимкнеться. Набір насадок в комплекті для м'ячів, велосипедних шин та надувних виробів. Компактний та легкий — кинув у рюкзак чи багажник і забув. Зручно брати з собою на велосипедну прогулянку або в подорож.</g:description>
-    <g:link>https://autokaban.store/product/25</g:link>
-    <g:image_link>https://autokaban.store/images/compressor-sport/1.jpg</g:image_link>
+    <g:link>https://www.autokaban.store/product/25</g:link>
+    <g:image_link>https://www.autokaban.store/images/compressor-sport/1.jpg</g:image_link>
     <g:price>810 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -453,9 +453,9 @@
     <g:id>26</g:id>
     <g:title>Акумуляторний компресор Litheli з фонарем та Power Bank 20000 мА·год</g:title>
     <g:description>Преміальний безпровідний компресор від бренду Litheli з повербанком 20000 мА·год (45W) в комплекті. Це не просто компресор — це екосистема: одним акумулятором живиш компресор, заряджаєш телефон, планшет чи ноутбук, а вбудований LED-фонарь освітлює дорогу вночі. Безщітковий двигун — тихий, потужний і довговічний. Тиск до 10.3 бар (150 PSI), продуктивність 25 л/хв. Цифровий екран з автостатком — задав тиск і компресор сам вимкнеться. Гарантия 3 роки на компресор та 1 рік на повербанк. Ідеальний для автовласників, які цінують якість та надійність.</g:description>
-    <g:link>https://autokaban.store/product/26</g:link>
-    <g:image_link>https://autokaban.store/images/compressor-litheli/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/compressor-litheli/2.jpg,https://autokaban.store/images/compressor-litheli/3.jpg,https://autokaban.store/images/compressor-litheli/4.jpg,https://autokaban.store/images/compressor-litheli/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/26</g:link>
+    <g:image_link>https://www.autokaban.store/images/compressor-litheli/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/compressor-litheli/2.jpg,https://www.autokaban.store/images/compressor-litheli/3.jpg,https://www.autokaban.store/images/compressor-litheli/4.jpg,https://www.autokaban.store/images/compressor-litheli/5.jpg</g:additional_image_link>
     <g:price>3900 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -471,9 +471,9 @@
     <g:id>27</g:id>
     <g:title>Масажна подушка Car and Home Massage Pillow для шиї</g:title>
     <g:description>Масажна подушка для шиї та спини — знімає напругу після довгої дороги або робочого дня. Працює від прикурювача 12V в авто та від звичайної розетки 220V вдома — один пристрій для машини та квартири. Масажні валики розминають м'язи шиї, плечей та попереку, знімаючи біль та втому. Регульована інтенсивність — обирай приємний режим. Зручно кріпиться на сидіння авто або офисного крісла. Компактна, легко переносити між авто та домом. Ідеальна для водіїв, офісних працівників та всіх, хто проводить багато часу сидячи.</g:description>
-    <g:link>https://autokaban.store/product/27</g:link>
-    <g:image_link>https://autokaban.store/images/massage-pillow/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/massage-pillow/2.jpg,https://autokaban.store/images/massage-pillow/3.jpg,https://autokaban.store/images/massage-pillow/4.jpg,https://autokaban.store/images/massage-pillow/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/27</g:link>
+    <g:image_link>https://www.autokaban.store/images/massage-pillow/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/massage-pillow/2.jpg,https://www.autokaban.store/images/massage-pillow/3.jpg,https://www.autokaban.store/images/massage-pillow/4.jpg,https://www.autokaban.store/images/massage-pillow/5.jpg</g:additional_image_link>
     <g:price>620 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -489,9 +489,9 @@
     <g:id>28</g:id>
     <g:title>Масажна накидка на крісло Cushion HL-889 з підігрівом та пультом ДУ</g:title>
     <g:description>Повноцінна масажна накидка, яка перетворює будь-яке крісло на масажер. 5 масажних двигунів працюють у 3 зонах — шия та плечі, спина, поперек. 8 режимів вібромасажу та 5 рівнів інтенсивності — підбираєш під себе. Функція підігріву знімає спазми та розслаблює м'язи після довгого дня. Пульт керування вбудований — перемикаєш режими не встаючи. Працює від прикурювача 12V в авто та від розетки 220V вдома. Матеріал поліестер — приємний на дотик, легко чиститься. Розмір 110×50 см підходить для будь-якого сидіння.</g:description>
-    <g:link>https://autokaban.store/product/28</g:link>
-    <g:image_link>https://autokaban.store/images/massage-cushion/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/massage-cushion/2.jpg,https://autokaban.store/images/massage-cushion/3.jpg,https://autokaban.store/images/massage-cushion/4.jpg,https://autokaban.store/images/massage-cushion/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/28</g:link>
+    <g:image_link>https://www.autokaban.store/images/massage-cushion/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/massage-cushion/2.jpg,https://www.autokaban.store/images/massage-cushion/3.jpg,https://www.autokaban.store/images/massage-cushion/4.jpg,https://www.autokaban.store/images/massage-cushion/5.jpg</g:additional_image_link>
     <g:price>1250 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -507,9 +507,9 @@
     <g:id>29</g:id>
     <g:title>Тепловентилятор автомобільний Car Fan CF-612 (зимма + літо 2в1)</g:title>
     <g:description>Компактна «дуйка» 2в1 для авто — гріє взимку та охолоджує влітку. Взимку швидко розморожує лобове скло та прогріває салон, поки штатна пічка ще не розігрілась. Влітку працює як вентилятор — провітрює та охолоджує салон. Потужність 200W, живлення від прикурювача 12V. Підставка обертається на 360° — направ потік повітря куди потрібно. Перемикач між гарячим та холодним повітрям одним рухом. Не потрібен монтаж — вставив в прикурювач і працює. Допоможе, якщо штатна пічка слабка або коли потрібно швидко розморозити скло перед поїздкою.</g:description>
-    <g:link>https://autokaban.store/product/29</g:link>
-    <g:image_link>https://autokaban.store/images/car-heater/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/car-heater/2.jpg,https://autokaban.store/images/car-heater/3.jpg,https://autokaban.store/images/car-heater/4.jpg,https://autokaban.store/images/car-heater/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/29</g:link>
+    <g:image_link>https://www.autokaban.store/images/car-heater/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/car-heater/2.jpg,https://www.autokaban.store/images/car-heater/3.jpg,https://www.autokaban.store/images/car-heater/4.jpg,https://www.autokaban.store/images/car-heater/5.jpg</g:additional_image_link>
     <g:price>350 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -525,9 +525,9 @@
     <g:id>30</g:id>
     <g:title>Автомобільна дуйка Car Fan CF-702 з обігрівом та вентиляцією</g:title>
     <g:description>Компактна автомобільна дуйка 3в1: обігрів, вентиляція та вимкнено. Взимку швидко розморожує скло та гріє салон — потужність 150W. Влітку працює як вентилятор для провітрювання. Живлення від прикурювача 12V, жодного монтажу. Розмір всього 145×150×60 мм — не перекриває огляд водія. Захист від перегріву — безпечно залишати працювати. Легка (350 г) та портативна. Один перемикач між режимами — просто та зручно. На Rozetka продається від 385 грн.</g:description>
-    <g:link>https://autokaban.store/product/30</g:link>
-    <g:image_link>https://autokaban.store/images/car-heater-702/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/car-heater-702/2.jpg,https://autokaban.store/images/car-heater-702/3.jpg,https://autokaban.store/images/car-heater-702/4.jpg,https://autokaban.store/images/car-heater-702/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/30</g:link>
+    <g:image_link>https://www.autokaban.store/images/car-heater-702/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/car-heater-702/2.jpg,https://www.autokaban.store/images/car-heater-702/3.jpg,https://www.autokaban.store/images/car-heater-702/4.jpg,https://www.autokaban.store/images/car-heater-702/5.jpg</g:additional_image_link>
     <g:price>350 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -543,9 +543,9 @@
     <g:id>31</g:id>
     <g:title>Насос для перекачування пального ONEX OX-5052 (12–15 л/хв)</g:title>
     <g:description>Занурювальний насос для швидкої перекачки бензину та дизельного пального. Продуктивність 12–15 літрів за хвилину — перекачає каністру за пару хвилин. Живлення від автомобільного акумулятора 12V — приєднав крокодильчики і працюєш. Максимальна глибина занурення 3 метри — дістане до дна будь-якої каністри чи бочки. Робоча температура від -10°C до +40°C — працює навіть взимку. Шланг у комплекті. Корпус стійкий до корозії та захищений від перегріву. Необхідна річ для тих, хто возить запасне пальне або працює з технікою.</g:description>
-    <g:link>https://autokaban.store/product/31</g:link>
-    <g:image_link>https://autokaban.store/images/fuel-pump/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/fuel-pump/2.jpg,https://autokaban.store/images/fuel-pump/3.jpg,https://autokaban.store/images/fuel-pump/4.jpg,https://autokaban.store/images/fuel-pump/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/31</g:link>
+    <g:image_link>https://www.autokaban.store/images/fuel-pump/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/fuel-pump/2.jpg,https://www.autokaban.store/images/fuel-pump/3.jpg,https://www.autokaban.store/images/fuel-pump/4.jpg,https://www.autokaban.store/images/fuel-pump/5.jpg</g:additional_image_link>
     <g:price>450 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -561,9 +561,9 @@
     <g:id>32</g:id>
     <g:title>Набір подушок 2шт на підголовник Volkswagen з натуральної шкіри</g:title>
     <g:description>Набір з двох подушок на підголовник з натуральної шкіри з вишитим логотипом Volkswagen. Матеріал обивки — справжня шкіра, приємна на дотик і довговічна. Наповнювач — холлофайбер, зберігає форму і забезпечує комфортну підтримку голови та шиї в дорозі. Розмір 28×15×8 см — підходить для будь-яких сидінь. Універсальне кріплення з якісним фастексом — надійно тримається на підголовнику. Брелок у подарунок в комплекті. Відмінний подаринок власнику Volkswagen — стильний і корисний аксесуар для салону.</g:description>
-    <g:link>https://autokaban.store/product/32</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-vw/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-vw/2.jpg,https://autokaban.store/images/pillows-vw/3.jpg,https://autokaban.store/images/pillows-vw/4.jpg,https://autokaban.store/images/pillows-vw/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/32</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-vw/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-vw/2.jpg,https://www.autokaban.store/images/pillows-vw/3.jpg,https://www.autokaban.store/images/pillows-vw/4.jpg,https://www.autokaban.store/images/pillows-vw/5.jpg</g:additional_image_link>
     <g:price>1350 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -579,9 +579,9 @@
     <g:id>33</g:id>
     <g:title>Набір подушок 2шт на підголовник Audi з натуральної шкіри</g:title>
     <g:description>Набір з двох подушок на підголовник з натуральної шкіри з вишитим логотипом Audi. Справжня шкіра — приємна на дотик, не потріскується з часом як штучна. Наповнювач холлофайбер зберігає форму і м'яко підтримує голову та шию в дорозі. Розмір 28×15×8 см підходить для будь-яких сидінь. Універсальне кріплення з якісним фастексом — надійно фіксується на підголовнику. Брелок у подарунок в комплекті. Стильний аксесуар для салону Audi — ідеальний подаринок собі чи знайомому власнику цієї марки.</g:description>
-    <g:link>https://autokaban.store/product/33</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-audi/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-audi/2.jpg,https://autokaban.store/images/pillows-audi/3.jpg,https://autokaban.store/images/pillows-audi/4.jpg,https://autokaban.store/images/pillows-audi/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/33</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-audi/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-audi/2.jpg,https://www.autokaban.store/images/pillows-audi/3.jpg,https://www.autokaban.store/images/pillows-audi/4.jpg,https://www.autokaban.store/images/pillows-audi/5.jpg</g:additional_image_link>
     <g:price>1350 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -597,9 +597,9 @@
     <g:id>34</g:id>
     <g:title>Набір подушок 2шт на підголовник BMW з натуральної шкіри</g:title>
     <g:description>Набір з двох подушок на підголовник з натуральної шкіри з вишитим логотипом BMW. Справжня шкіра — м'яка, приємна на дотик і довговічна, не вигоряє на сонці. Наповнювач холлофайбер зберігає форму і комфортно підтримує голову та шию під час довгих поїздок. Розмір 28×15×8 см — підходить для будь-яких сидінь. Універсальне кріплення з якісним фастексом — швидко знімається і надійно тримається. Брелок у подарунок в комплекті. Стильний подарунок власнику BMW — краса і користь для салону.</g:description>
-    <g:link>https://autokaban.store/product/34</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-bmw/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-bmw/2.jpg,https://autokaban.store/images/pillows-bmw/3.jpg,https://autokaban.store/images/pillows-bmw/4.jpg,https://autokaban.store/images/pillows-bmw/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/34</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-bmw/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-bmw/2.jpg,https://www.autokaban.store/images/pillows-bmw/3.jpg,https://www.autokaban.store/images/pillows-bmw/4.jpg,https://www.autokaban.store/images/pillows-bmw/5.jpg</g:additional_image_link>
     <g:price>1350 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -615,9 +615,9 @@
     <g:id>35</g:id>
     <g:title>Набір подушок 2шт на підголовник Skoda з натуральної шкіри</g:title>
     <g:description>Набір з двох подушок на підголовник з натуральної шкіри з вишитим логотипом Skoda. Справжня шкіра — приємна на дотик, довговічна і не втрачає вигляд з часом. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи напругу в дорозі. Розмір 28×15×8 см — універсальний для будь-яких сидінь. Кріплення з якісним фастексом — швидко одягається і надійно тримається. Брелок у подарунок в комплекті. Стильний аксесуар для салону Skoda — корисний подарунок власнику цієї марки.</g:description>
-    <g:link>https://autokaban.store/product/35</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-skoda/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-skoda/2.jpg,https://autokaban.store/images/pillows-skoda/3.jpg,https://autokaban.store/images/pillows-skoda/4.jpg,https://autokaban.store/images/pillows-skoda/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/35</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-skoda/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-skoda/2.jpg,https://www.autokaban.store/images/pillows-skoda/3.jpg,https://www.autokaban.store/images/pillows-skoda/4.jpg,https://www.autokaban.store/images/pillows-skoda/5.jpg</g:additional_image_link>
     <g:price>970 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -633,9 +633,9 @@
     <g:id>36</g:id>
     <g:title>Набір подушок 2шт на підголовник Toyota з натуральної шкіри</g:title>
     <g:description>Набір з двох подушок на підголовник з натуральної шкіри з вишитим логотипом Toyota. Справжня шкіра — приємна на дотик, довговічна і не вигорає на сонці. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому в дорозі. Розмір 28×15×8 см — підходить для будь-яких сидінь. Універсальне кріплення з якісним фастексом — швидко встановлюється і надійно тримається. Брелок у подарунок в комплекті. Ідеальний подаринок власнику Toyota — стиль і комфорт для салону.</g:description>
-    <g:link>https://autokaban.store/product/36</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-toyota/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-toyota/2.jpg,https://autokaban.store/images/pillows-toyota/3.jpg,https://autokaban.store/images/pillows-toyota/4.jpg,https://autokaban.store/images/pillows-toyota/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/36</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-toyota/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-toyota/2.jpg,https://www.autokaban.store/images/pillows-toyota/3.jpg,https://www.autokaban.store/images/pillows-toyota/4.jpg,https://www.autokaban.store/images/pillows-toyota/5.jpg</g:additional_image_link>
     <g:price>1350 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -651,9 +651,9 @@
     <g:id>37</g:id>
     <g:title>Ортопедична подушка на підголовник Volkswagen зі шкіри</g:title>
     <g:description>Ортопедична подушка на підголовник з логотипом Volkswagen — 1 штука. На відміну від набірних подушок, ця має спеціальну анатомічну форму, яка правильно підтримує шию та голову водія. Знімає напругу та біль при довгих поїздках. Матеріал обивки — шкіра з вишитим логотипом Volkswagen. Універсальне кріплення підходить для будь-якого сидіння. Доступніша ціна за одну подушку — можна купити тільки для водія або докупити пасажирську окремо.</g:description>
-    <g:link>https://autokaban.store/product/37</g:link>
-    <g:image_link>https://autokaban.store/images/pillow-vw-ortho/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillow-vw-ortho/2.jpg,https://autokaban.store/images/pillow-vw-ortho/3.jpg,https://autokaban.store/images/pillow-vw-ortho/4.jpg,https://autokaban.store/images/pillow-vw-ortho/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/37</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillow-vw-ortho/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillow-vw-ortho/2.jpg,https://www.autokaban.store/images/pillow-vw-ortho/3.jpg,https://www.autokaban.store/images/pillow-vw-ortho/4.jpg,https://www.autokaban.store/images/pillow-vw-ortho/5.jpg</g:additional_image_link>
     <g:price>675 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -669,9 +669,9 @@
     <g:id>38</g:id>
     <g:title>Набір подушок 2шт на підголовник Volkswagen коричнева шкіра</g:title>
     <g:description>Набір з двох подушок на підголовник Volkswagen з натуральної коричневої шкіри. Коричневий колір виглядає елегантно та тепло в салоні — відмінно підходить для світлих та бежевих інтер'єрів авто. Вишитий логотип Volkswagen. Наповнювач холлофайбер — м'який, зберігає форму і комфортно підтримує голову. Розмір 28×15×8 см, універсальне кріплення з фастексом. Брелок у подарунок в комплекті.</g:description>
-    <g:link>https://autokaban.store/product/38</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-vw-brown/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-vw-brown/2.jpg,https://autokaban.store/images/pillows-vw-brown/3.jpg,https://autokaban.store/images/pillows-vw-brown/4.jpg,https://autokaban.store/images/pillows-vw-brown/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/38</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-vw-brown/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-vw-brown/2.jpg,https://www.autokaban.store/images/pillows-vw-brown/3.jpg,https://www.autokaban.store/images/pillows-vw-brown/4.jpg,https://www.autokaban.store/images/pillows-vw-brown/5.jpg</g:additional_image_link>
     <g:price>735 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -687,9 +687,9 @@
     <g:id>39</g:id>
     <g:title>Набір подушок 2шт на підголовник Mercedes-Benz коричнева шкіра</g:title>
     <g:description>Набір з двох подушок на підголовник Mercedes-Benz з натуральної коричневої шкіри. Коричнева шкіра елегантно доповнює салон Мерседеса — підходить до бежевих та світлих інтер'єрів. Вишитий логотип Mercedes-Benz. Наповнювач холлофайбер — м'яко підтримує голову та шию, знімає втому в дорозі. Розмір 28×15×8 см, універсальне кріплення з фастексом. Брелок у подарунок в комплекті. Престижний подарунок власнику Mercedes-Benz.</g:description>
-    <g:link>https://autokaban.store/product/39</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-merc-brown/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-merc-brown/2.jpg,https://autokaban.store/images/pillows-merc-brown/3.jpg,https://autokaban.store/images/pillows-merc-brown/4.jpg,https://autokaban.store/images/pillows-merc-brown/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/39</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-merc-brown/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-merc-brown/2.jpg,https://www.autokaban.store/images/pillows-merc-brown/3.jpg,https://www.autokaban.store/images/pillows-merc-brown/4.jpg,https://www.autokaban.store/images/pillows-merc-brown/5.jpg</g:additional_image_link>
     <g:price>735 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -705,9 +705,9 @@
     <g:id>40</g:id>
     <g:title>Набір подушок 2шт на підголовник Hyundai з натуральної шкіри</g:title>
     <g:description>Набір з двох подушок на підголовник Hyundai з натуральної чорної шкіри. Вишитий логотип Hyundai. Наповнювач холлофайбер — м'яко підтримує голову та шию, знімаючи втому під час поїздок. Чорна шкіра універсально підходить до будь-якого салону. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Брелок у подарунок в комплекті. Стильний та корисний подарунок власнику Hyundai.</g:description>
-    <g:link>https://autokaban.store/product/40</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-hyundai/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-hyundai/2.jpg,https://autokaban.store/images/pillows-hyundai/3.jpg,https://autokaban.store/images/pillows-hyundai/4.jpg,https://autokaban.store/images/pillows-hyundai/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/40</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-hyundai/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-hyundai/2.jpg,https://www.autokaban.store/images/pillows-hyundai/3.jpg,https://www.autokaban.store/images/pillows-hyundai/4.jpg,https://www.autokaban.store/images/pillows-hyundai/5.jpg</g:additional_image_link>
     <g:price>910 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -723,9 +723,9 @@
     <g:id>41</g:id>
     <g:title>Набір подушок 2шт на підголовник Skoda чорна натуральна шкіра</g:title>
     <g:description>Набір з двох подушок на підголовник Skoda з натуральної чорної шкіри. Вишитий логотип Skoda. Наповнювач холлофайбер — м'яко підтримує голову та шию, знімає напругу під час тривалих поїздок. Чорна шкіра підходить до будь-якого салону. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Брелок у подарунок в комплекті. Преміум-якість за розумну ціну — стильний подарунок власнику Skoda.</g:description>
-    <g:link>https://autokaban.store/product/41</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-skoda-black/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-skoda-black/2.jpg,https://autokaban.store/images/pillows-skoda-black/3.jpg,https://autokaban.store/images/pillows-skoda-black/4.jpg,https://autokaban.store/images/pillows-skoda-black/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/41</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-skoda-black/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-skoda-black/2.jpg,https://www.autokaban.store/images/pillows-skoda-black/3.jpg,https://www.autokaban.store/images/pillows-skoda-black/4.jpg,https://www.autokaban.store/images/pillows-skoda-black/5.jpg</g:additional_image_link>
     <g:price>1020 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -741,9 +741,9 @@
     <g:id>42</g:id>
     <g:title>Набір подушок 2шт на підголовник Renault з натуральної шкіри</g:title>
     <g:description>Набір з двох подушок на підголовник Renault з натуральної шкіри з вишитим логотипом Renault. Справжня шкіра — приємна на дотик, довговічна і не втрачає вигляд. Наповлювач холлофайбер м'яко підтримує голову та шию в дорозі. Чорна шкіра універсально підходить до будь-якого салону. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Брелок у подарунок в комплекті. Стильний подарунок власнику Renault.</g:description>
-    <g:link>https://autokaban.store/product/42</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-renault/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-renault/2.jpg,https://autokaban.store/images/pillows-renault/3.jpg,https://autokaban.store/images/pillows-renault/4.jpg,https://autokaban.store/images/pillows-renault/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/42</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-renault/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-renault/2.jpg,https://www.autokaban.store/images/pillows-renault/3.jpg,https://www.autokaban.store/images/pillows-renault/4.jpg,https://www.autokaban.store/images/pillows-renault/5.jpg</g:additional_image_link>
     <g:price>1350 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -759,9 +759,9 @@
     <g:id>43</g:id>
     <g:title>Набір подушок 2шт на підголовник BMW коричнева натуральна шкіра</g:title>
     <g:description>Набір з двох подушок на підголовник BMW з натуральної коричневої шкіри. Коричнева шкіра елегантно доповнює салон BMW — особливо добре підходить до бежевих та світлих інтер'єрів. Вишитий логотип BMW. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому в дорозі. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Брелок у подарунок в комплекті.</g:description>
-    <g:link>https://autokaban.store/product/43</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-bmw-brown/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-bmw-brown/2.jpg,https://autokaban.store/images/pillows-bmw-brown/3.jpg,https://autokaban.store/images/pillows-bmw-brown/4.jpg,https://autokaban.store/images/pillows-bmw-brown/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/43</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-bmw-brown/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-bmw-brown/2.jpg,https://www.autokaban.store/images/pillows-bmw-brown/3.jpg,https://www.autokaban.store/images/pillows-bmw-brown/4.jpg,https://www.autokaban.store/images/pillows-bmw-brown/5.jpg</g:additional_image_link>
     <g:price>735 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -777,9 +777,9 @@
     <g:id>44</g:id>
     <g:title>Набір подушок 2шт на підголовник Kia з натуральної шкіри</g:title>
     <g:description>Набір з двох подушок на підголовник Kia з натуральної чорної шкіри. Вишитий логотип Kia. Наповнювач холлофайбер — м'яко підтримує голову та шию, знімає напругу під час поїздок. Чорна шкіра універсально підходить до будь-якого салону. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Брелок у подарунок в комплекті. Стильний подарунок власнику Kia.</g:description>
-    <g:link>https://autokaban.store/product/44</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-kia/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-kia/2.jpg,https://autokaban.store/images/pillows-kia/3.jpg,https://autokaban.store/images/pillows-kia/4.jpg,https://autokaban.store/images/pillows-kia/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/44</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-kia/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-kia/2.jpg,https://www.autokaban.store/images/pillows-kia/3.jpg,https://www.autokaban.store/images/pillows-kia/4.jpg,https://www.autokaban.store/images/pillows-kia/5.jpg</g:additional_image_link>
     <g:price>910 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -795,9 +795,9 @@
     <g:id>45</g:id>
     <g:title>Набір подушок 2шт на підголовник Audi коричнева натуральна шкіра</g:title>
     <g:description>Набір з двох подушок на підголовник Audi з натуральної коричневої шкіри. Коричнева шкіра виглядає тепло та елегантно — відмінно підходить для світлих та бежевих салонів Audi. Вишитий логотип Audi. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому в дорозі. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Брелок у подарунок в комплекті.</g:description>
-    <g:link>https://autokaban.store/product/45</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-audi-brown/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-audi-brown/2.jpg,https://autokaban.store/images/pillows-audi-brown/3.jpg,https://autokaban.store/images/pillows-audi-brown/4.jpg,https://autokaban.store/images/pillows-audi-brown/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/45</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-audi-brown/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-audi-brown/2.jpg,https://www.autokaban.store/images/pillows-audi-brown/3.jpg,https://www.autokaban.store/images/pillows-audi-brown/4.jpg,https://www.autokaban.store/images/pillows-audi-brown/5.jpg</g:additional_image_link>
     <g:price>735 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -813,9 +813,9 @@
     <g:id>46</g:id>
     <g:title>Набір подушок 2шт на підголовник Opel з натуральної шкіри</g:title>
     <g:description>Набір з двох подушок на підголовник Opel з натуральної чорної шкіри. Вишитий логотип Opel. Наповнювач холлофайбер — м'яко підтримує голову та шию, знімає напругу під час тривалих поїздок. Чорна шкіра універсально підходить до будь-якого салону. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Брелок у подарунок в комплекті. Стильний подарунок власнику Opel.</g:description>
-    <g:link>https://autokaban.store/product/46</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-opel/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-opel/2.jpg,https://autokaban.store/images/pillows-opel/3.jpg,https://autokaban.store/images/pillows-opel/4.jpg,https://autokaban.store/images/pillows-opel/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/46</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-opel/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-opel/2.jpg,https://www.autokaban.store/images/pillows-opel/3.jpg,https://www.autokaban.store/images/pillows-opel/4.jpg,https://www.autokaban.store/images/pillows-opel/5.jpg</g:additional_image_link>
     <g:price>910 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -831,9 +831,9 @@
     <g:id>47</g:id>
     <g:title>Набір подушок 2шт на підголовник Toyota коричнева натуральна шкіра</g:title>
     <g:description>Набір з двох подушок на підголовник Toyota з натуральної коричневої шкіри. Коричнева шкіра виглядає тепло та елегантно — ідеально для світлих та бежевих салонів. Вишитий логотип Toyota. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому в дорозі. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Брелок у подарунок в комплекті. Дешевше за чорний набір — та сама якість.</g:description>
-    <g:link>https://autokaban.store/product/47</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-toyota-brown/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-toyota-brown/2.jpg,https://autokaban.store/images/pillows-toyota-brown/3.jpg,https://autokaban.store/images/pillows-toyota-brown/4.jpg,https://autokaban.store/images/pillows-toyota-brown/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/47</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-toyota-brown/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-toyota-brown/2.jpg,https://www.autokaban.store/images/pillows-toyota-brown/3.jpg,https://www.autokaban.store/images/pillows-toyota-brown/4.jpg,https://www.autokaban.store/images/pillows-toyota-brown/5.jpg</g:additional_image_link>
     <g:price>735 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -849,9 +849,9 @@
     <g:id>48</g:id>
     <g:title>Набір подушок 2шт на підголовник Volvo з натуральної шкіри</g:title>
     <g:description>Набір з двох подушок на підголовник Volvo з натуральної шкіри з вишитим логотипом Volvo. Справжня шкіра — приємна на дотик, довговічна і не втрачає вигляд з роками. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому під час довгих поїздок. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Брелок у подарунок в комплекті. Преміум-подарунок власнику Volvo — стиль та комфорт для салону.</g:description>
-    <g:link>https://autokaban.store/product/48</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-volvo/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-volvo/2.jpg,https://autokaban.store/images/pillows-volvo/3.jpg,https://autokaban.store/images/pillows-volvo/4.jpg,https://autokaban.store/images/pillows-volvo/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/48</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-volvo/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-volvo/2.jpg,https://www.autokaban.store/images/pillows-volvo/3.jpg,https://www.autokaban.store/images/pillows-volvo/4.jpg,https://www.autokaban.store/images/pillows-volvo/5.jpg</g:additional_image_link>
     <g:price>1350 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -867,9 +867,9 @@
     <g:id>49</g:id>
     <g:title>Набір подушок 2шт на підголовник Peugeot з натуральної шкіри</g:title>
     <g:description>Набір з двох подушок на підголовник Peugeot з натуральної шкіри з вишитим логотипом Peugeot. Справжня шкіра — приємна на дотик, довговічна і стійка до зношування. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому під час поїздок. Чорна шкіра підходить до будь-якого салону. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Брелок у подарунок в комплекті. Стильний подарунок власнику Peugeot.</g:description>
-    <g:link>https://autokaban.store/product/49</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-peugeot/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-peugeot/2.jpg,https://autokaban.store/images/pillows-peugeot/3.jpg,https://autokaban.store/images/pillows-peugeot/4.jpg,https://autokaban.store/images/pillows-peugeot/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/49</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-peugeot/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-peugeot/2.jpg,https://www.autokaban.store/images/pillows-peugeot/3.jpg,https://www.autokaban.store/images/pillows-peugeot/4.jpg,https://www.autokaban.store/images/pillows-peugeot/5.jpg</g:additional_image_link>
     <g:price>1350 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -885,9 +885,9 @@
     <g:id>50</g:id>
     <g:title>Набір подушок 2шт на підголовник Mazda з натуральної шкіри</g:title>
     <g:description>Набір з двох подушок на підголовник Mazda з натуральної шкіри з вишитим логотипом Mazda. Справжня шкіра — приємна на дотик, довговічна і не вигорає. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому в дорозі. Чорна шкіра універсально підходить до будь-якого салону. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Шкіряний брелок у подарунок в комплекті. Стильний подарунок власнику Mazda.</g:description>
-    <g:link>https://autokaban.store/product/50</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-mazda/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-mazda/2.jpg,https://autokaban.store/images/pillows-mazda/3.jpg,https://autokaban.store/images/pillows-mazda/4.jpg,https://autokaban.store/images/pillows-mazda/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/50</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-mazda/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-mazda/2.jpg,https://www.autokaban.store/images/pillows-mazda/3.jpg,https://www.autokaban.store/images/pillows-mazda/4.jpg,https://www.autokaban.store/images/pillows-mazda/5.jpg</g:additional_image_link>
     <g:price>1350 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -903,9 +903,9 @@
     <g:id>51</g:id>
     <g:title>Набір подушок 2шт на підголовник Lexus з натуральної шкіри</g:title>
     <g:description>Набір з двох подушок на підголовник Lexus з натуральної італійської шкіри з вишитим логотипом Lexus. Справжня шкіра — приємна на дотик, довговічна і не вигорає. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому в дорозі. Чорна шкіра з якісною вишивкою підходить до салону будь-якого Lexus. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Шкіряний брелок у подарунок в комплекті. Стильний подарунок власнику Lexus.</g:description>
-    <g:link>https://autokaban.store/product/51</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-lexus/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-lexus/2.jpg,https://autokaban.store/images/pillows-lexus/3.jpg,https://autokaban.store/images/pillows-lexus/4.jpg,https://autokaban.store/images/pillows-lexus/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/51</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-lexus/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-lexus/2.jpg,https://www.autokaban.store/images/pillows-lexus/3.jpg,https://www.autokaban.store/images/pillows-lexus/4.jpg,https://www.autokaban.store/images/pillows-lexus/5.jpg</g:additional_image_link>
     <g:price>1350 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -921,9 +921,9 @@
     <g:id>52</g:id>
     <g:title>Набір подушок 2шт на підголовник Chevrolet з натуральної шкіри</g:title>
     <g:description>Набір з двох подушок на підголовник Chevrolet з натуральної італійської шкіри з вишитим логотипом Chevrolet. Справжня шкіра — приємна на дотик, довговічна і не вигорає. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому в дорозі. Чорна шкіра з якісною вишивкою підходить до будь-якого салону Chevrolet. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Шкіряний брелок у подарунок в комплекті. Стильний подарунок власнику Chevrolet.</g:description>
-    <g:link>https://autokaban.store/product/52</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-chevrolet/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-chevrolet/2.jpg,https://autokaban.store/images/pillows-chevrolet/3.jpg,https://autokaban.store/images/pillows-chevrolet/4.jpg,https://autokaban.store/images/pillows-chevrolet/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/52</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-chevrolet/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-chevrolet/2.jpg,https://www.autokaban.store/images/pillows-chevrolet/3.jpg,https://www.autokaban.store/images/pillows-chevrolet/4.jpg,https://www.autokaban.store/images/pillows-chevrolet/5.jpg</g:additional_image_link>
     <g:price>1020 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -939,9 +939,9 @@
     <g:id>53</g:id>
     <g:title>Набір подушок 2шт на підголовник Fiat з натуральної шкіри</g:title>
     <g:description>Набір з двох подушок на підголовник Fiat з натуральної італійської шкіри з вишитим логотипом Fiat. Справжня шкіра — приємна на дотик, довговічна і не вигорає. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому в дорозі. Чорна шкіра з якісною вишивкою підходить до будь-якого салону Fiat. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Шкіряний брелок у подарунок в комплекті. Стильний подарунок власнику Fiat.</g:description>
-    <g:link>https://autokaban.store/product/53</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-fiat/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-fiat/2.jpg,https://autokaban.store/images/pillows-fiat/3.jpg,https://autokaban.store/images/pillows-fiat/4.jpg,https://autokaban.store/images/pillows-fiat/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/53</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-fiat/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-fiat/2.jpg,https://www.autokaban.store/images/pillows-fiat/3.jpg,https://www.autokaban.store/images/pillows-fiat/4.jpg,https://www.autokaban.store/images/pillows-fiat/5.jpg</g:additional_image_link>
     <g:price>1020 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -957,9 +957,9 @@
     <g:id>54</g:id>
     <g:title>Набір подушок 2шт на підголовник Suzuki з натуральної шкіри</g:title>
     <g:description>Набір з двох подушок на підголовник Suzuki з натуральної італійської шкіри з вишитим логотипом Suzuki. Справжня шкіра — приємна на дотик, довговічна і не вигорає. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому в дорозі. Чорна шкіра з якісною вишивкою підходить до будь-якого салону Suzuki. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Шкіряний брелок у подарунок в комплекті. Стильний подарунок власнику Suzuki.</g:description>
-    <g:link>https://autokaban.store/product/54</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-suzuki/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-suzuki/2.jpg,https://autokaban.store/images/pillows-suzuki/3.jpg,https://autokaban.store/images/pillows-suzuki/4.jpg,https://autokaban.store/images/pillows-suzuki/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/54</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-suzuki/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-suzuki/2.jpg,https://www.autokaban.store/images/pillows-suzuki/3.jpg,https://www.autokaban.store/images/pillows-suzuki/4.jpg,https://www.autokaban.store/images/pillows-suzuki/5.jpg</g:additional_image_link>
     <g:price>1020 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -975,9 +975,9 @@
     <g:id>55</g:id>
     <g:title>Набір подушок 2шт на підголовник Citroen з натуральної шкіри</g:title>
     <g:description>Набір з двох подушок на підголовник Citroen з натуральної італійської шкіри з вишитим логотипом Citroen. Справжня шкіра — приємна на дотик, довговічна і не вигорає. Наповнювач холлофайбер м'яко підтримує голову та шию, знімаючи втому в дорозі. Чорна шкіра з якісною вишивкою підходить до будь-якого салону Citroen. Розмір 28×15×8 см, універсальне кріплення з якісним фастексом. Шкіряний брелок у подарунок в комплекті. Стильний подарунок власнику Citroen.</g:description>
-    <g:link>https://autokaban.store/product/55</g:link>
-    <g:image_link>https://autokaban.store/images/pillows-citroen/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/pillows-citroen/2.jpg,https://autokaban.store/images/pillows-citroen/3.jpg,https://autokaban.store/images/pillows-citroen/4.jpg,https://autokaban.store/images/pillows-citroen/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/55</g:link>
+    <g:image_link>https://www.autokaban.store/images/pillows-citroen/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/pillows-citroen/2.jpg,https://www.autokaban.store/images/pillows-citroen/3.jpg,https://www.autokaban.store/images/pillows-citroen/4.jpg,https://www.autokaban.store/images/pillows-citroen/5.jpg</g:additional_image_link>
     <g:price>1020 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -993,9 +993,9 @@
     <g:id>56</g:id>
     <g:title>Акумуляторний пилосос для авто Car Vacuum Cleaner</g:title>
     <g:description>Компактний акумуляторний пилосос для автомобіля Car Vacuum Cleaner. Потужне всмоктування прибирає пил, крихти, шерсть тварин та дрібне сміття з салону. Працює від вбудованого акумулятора — не потрібне підключення до прикурювача. Легкий та зручний, маневний у важкодоступних місцях. Комплектується насадками для різних поверхнів. Ідеальний для підтримки чистоти в авто.</g:description>
-    <g:link>https://autokaban.store/product/56</g:link>
-    <g:image_link>https://autokaban.store/images/vacuum-2/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/vacuum-2/2.jpg,https://autokaban.store/images/vacuum-2/3.jpg,https://autokaban.store/images/vacuum-2/4.jpg,https://autokaban.store/images/vacuum-2/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/56</g:link>
+    <g:image_link>https://www.autokaban.store/images/vacuum-2/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/vacuum-2/2.jpg,https://www.autokaban.store/images/vacuum-2/3.jpg,https://www.autokaban.store/images/vacuum-2/4.jpg,https://www.autokaban.store/images/vacuum-2/5.jpg</g:additional_image_link>
     <g:price>600 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1011,9 +1011,9 @@
     <g:id>57</g:id>
     <g:title>Ручний міні пилосос акумуляторний AS-228</g:title>
     <g:description>Компактний ручний міні пилосос AS-228 для авто та дому. Акумуляторний — працює автономно без підключення. Потужне всмоктування прибирає пил, крихти та дрібне сміття. Комплектується насадками для різних поверхнів: щілина, м'яка меблі, тверді поверхні. Легкий та зручний, поміщається в бардачок або сумку. Ідеальний для швидкого прибирання салону авто.</g:description>
-    <g:link>https://autokaban.store/product/57</g:link>
-    <g:image_link>https://autokaban.store/images/vacuum-mini/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/vacuum-mini/2.jpg,https://autokaban.store/images/vacuum-mini/3.jpg,https://autokaban.store/images/vacuum-mini/4.jpg,https://autokaban.store/images/vacuum-mini/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/57</g:link>
+    <g:image_link>https://www.autokaban.store/images/vacuum-mini/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/vacuum-mini/2.jpg,https://www.autokaban.store/images/vacuum-mini/3.jpg,https://www.autokaban.store/images/vacuum-mini/4.jpg,https://www.autokaban.store/images/vacuum-mini/5.jpg</g:additional_image_link>
     <g:price>300 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1029,9 +1029,9 @@
     <g:id>58</g:id>
     <g:title>Пилосос для авто Car Vacuum Cleaner HY05 акумуляторний</g:title>
     <g:description>Акумуляторний пилосос для автомобіля Car Vacuum Cleaner HY05. Потужне всмоктування швидко прибирає пил, крихти, шерсть та дрібне сміття з салону. Працює від вбудованого акумулятора — не потрібне підключення до прикурювача. Ергономічна ручка та компактний корпус зручні для тривалої роботи. Маневний у важкодоступних місцях між сидіннями та в щілинах. Ідеальний для регулярного прибирання авто.</g:description>
-    <g:link>https://autokaban.store/product/58</g:link>
-    <g:image_link>https://autokaban.store/images/vacuum-hy05/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/vacuum-hy05/2.jpg,https://autokaban.store/images/vacuum-hy05/3.jpg,https://autokaban.store/images/vacuum-hy05/4.jpg,https://autokaban.store/images/vacuum-hy05/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/58</g:link>
+    <g:image_link>https://www.autokaban.store/images/vacuum-hy05/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/vacuum-hy05/2.jpg,https://www.autokaban.store/images/vacuum-hy05/3.jpg,https://www.autokaban.store/images/vacuum-hy05/4.jpg,https://www.autokaban.store/images/vacuum-hy05/5.jpg</g:additional_image_link>
     <g:price>550 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1047,9 +1047,9 @@
     <g:id>59</g:id>
     <g:title>Пилосос для авто Crownberg SV-677 150Вт акумуляторний</g:title>
     <g:description>Потужний акумуляторний пилосос Crownberg SV-677 з мотором 150Вт та акумулятором 2000mAh. Миючий фільтр легко очищується під водою — не потрібна постійна заміна. Вбудована LED підсвітка освітлює темні ділянки під сидіннями. Потужне всмоктування впорається з пилом, крихтами, шерстю та дрібним сміттям. Зручно лежить в руці завдяки ергономічній формі. Один із найпотужніших ручних пилососів для авто.</g:description>
-    <g:link>https://autokaban.store/product/59</g:link>
-    <g:image_link>https://autokaban.store/images/vacuum-crownberg/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/vacuum-crownberg/2.jpg,https://autokaban.store/images/vacuum-crownberg/3.jpg,https://autokaban.store/images/vacuum-crownberg/4.jpg,https://autokaban.store/images/vacuum-crownberg/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/59</g:link>
+    <g:image_link>https://www.autokaban.store/images/vacuum-crownberg/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/vacuum-crownberg/2.jpg,https://www.autokaban.store/images/vacuum-crownberg/3.jpg,https://www.autokaban.store/images/vacuum-crownberg/4.jpg,https://www.autokaban.store/images/vacuum-crownberg/5.jpg</g:additional_image_link>
     <g:price>1470 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1065,9 +1065,9 @@
     <g:id>60</g:id>
     <g:title>Бездротовий пилосос для авто BX-3253 6000Па 50Вт</g:title>
     <g:description>Потужний бездротовий пилосос BX-3253 з вакуумним всмоктуванням 6000Па та мотором 50Вт. Швидко та глибоко прибирає пил, пісок, крихти та шерсть з салону автомобіля. Акумулятор забезпечує тривалу автономну роботу без підключення до прикурювача. Компактний корпус зручно лежить в руці, маневрує в важкодоступних місцях. Комплектується насадками для різних типів поверхонь.</g:description>
-    <g:link>https://autokaban.store/product/60</g:link>
-    <g:image_link>https://autokaban.store/images/vacuum-bx3253/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/vacuum-bx3253/2.jpg,https://autokaban.store/images/vacuum-bx3253/3.jpg,https://autokaban.store/images/vacuum-bx3253/4.jpg,https://autokaban.store/images/vacuum-bx3253/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/60</g:link>
+    <g:image_link>https://www.autokaban.store/images/vacuum-bx3253/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/vacuum-bx3253/2.jpg,https://www.autokaban.store/images/vacuum-bx3253/3.jpg,https://www.autokaban.store/images/vacuum-bx3253/4.jpg,https://www.autokaban.store/images/vacuum-bx3253/5.jpg</g:additional_image_link>
     <g:price>1050 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1083,9 +1083,9 @@
     <g:id>61</g:id>
     <g:title>Електронний штангенциркуль 150 мм з LCD дисплеєм</g:title>
     <g:description>Шукаєте точний та зручний вимірювальний інструмент? Цей електронний штангенциркуль з рідкокристалічним дисплеєм забезпечує точність до 0,01 мм — ідеальний вибір для ремонту автомобіля, слюсарних робіт та діагностики деталей. Завдяки цифровому LCD-екрану ви миттєво зчитуєте результати без напруження очей, а функція обнулення дозволяє починати вимірювання з будь-якої точки. Легкий пластиковий корпус зручно лежить в руці навіть при тривалій роботі. Діапазон вимірювань від 0 до 150 мм охоплює більшість побутових та професійних задач — від товщини гальмівних дисків до діаметра болтів та свердловин.</g:description>
-    <g:link>https://autokaban.store/product/61</g:link>
-    <g:image_link>https://autokaban.store/images/caliper/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/caliper/2.jpg,https://autokaban.store/images/caliper/3.jpg,https://autokaban.store/images/caliper/4.jpg,https://autokaban.store/images/caliper/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/61</g:link>
+    <g:image_link>https://www.autokaban.store/images/caliper/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/caliper/2.jpg,https://www.autokaban.store/images/caliper/3.jpg,https://www.autokaban.store/images/caliper/4.jpg,https://www.autokaban.store/images/caliper/5.jpg</g:additional_image_link>
     <g:price>250 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1101,9 +1101,9 @@
     <g:id>62</g:id>
     <g:title>Електронний штангенциркуль 150 мм з LCD дисплеєм у кейсі (нержавіюча сталь)</g:title>
     <g:description>Професійний електронний штангенциркуль з нержавіючої сталі — надійний вимірювальний інструмент для автосервісу, слюсарної майстерні та домашнього використання. Точність вимірювань до 0,01 мм з похибкою всього 0,02 мм гарантує коректні результати при перевірці зносу гальмівних дисків, вимірюванні товщини прокладок або підборі запчастин. Рідкокристалічний LCD-дисплей забезпечує чітке зчитування показників, а функція обнулення дозволяє проводити відносні вимірювання в будь-якій точці. Постачається в зручному пластиковому кейсі, який захищає інструмент від пошкоджень під час зберігання та транспортування. Живиться від двох батарейок SR44, яких вистачає на тривалу роботу.</g:description>
-    <g:link>https://autokaban.store/product/62</g:link>
-    <g:image_link>https://autokaban.store/images/caliper-steel/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/caliper-steel/2.jpg,https://autokaban.store/images/caliper-steel/3.jpg,https://autokaban.store/images/caliper-steel/4.jpg,https://autokaban.store/images/caliper-steel/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/62</g:link>
+    <g:image_link>https://www.autokaban.store/images/caliper-steel/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/caliper-steel/2.jpg,https://www.autokaban.store/images/caliper-steel/3.jpg,https://www.autokaban.store/images/caliper-steel/4.jpg,https://www.autokaban.store/images/caliper-steel/5.jpg</g:additional_image_link>
     <g:price>320 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1119,9 +1119,9 @@
     <g:id>63</g:id>
     <g:title>Універсальний розвідний гайковий ключ Snap'n Grip (2 шт в комплекті)</g:title>
     <g:description>Універсальний диво-ключ Snap'n Grip — це інструмент, який повністю замінює великий набір гайкових ключів. Комплект складається з двох ключів: малого (довжина 215 мм, захоплення 9–24 мм) та великого (довжина 280 мм, захоплення 16–36 мм). Завдяки потужним зубцям ключ надійно фіксує гайки та болти будь-якої форми — круглі, квадратні, багатогранні — без прослизання. Незамінний для ремонту автомобіля, водопровідних робіт, слюсарних та господарських завдань. Значно легший і дешевший за повний набір ключів, при цьому зручніший за звичайний розвідний або газовий ключ. Ідеальний подарунок для кожного чоловіка.</g:description>
-    <g:link>https://autokaban.store/product/63</g:link>
-    <g:image_link>https://autokaban.store/images/snapn-grip/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/snapn-grip/2.jpg,https://autokaban.store/images/snapn-grip/3.jpg,https://autokaban.store/images/snapn-grip/4.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/63</g:link>
+    <g:image_link>https://www.autokaban.store/images/snapn-grip/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/snapn-grip/2.jpg,https://www.autokaban.store/images/snapn-grip/3.jpg,https://www.autokaban.store/images/snapn-grip/4.jpg</g:additional_image_link>
     <g:price>270 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1137,9 +1137,9 @@
     <g:id>64</g:id>
     <g:title>Водонепроникна ізоляційна стрічка Flex Tape 30 см × 150 см</g:title>
     <g:description>Міцна гумова водонепроникна стрічка Flex Tape миттєво приклеюється до будь-якої поверхні завдяки потрійному шару клею, який практично зварюється з основою. Стрічка надійно працює навіть під водою — ідеальна для екстреного ремонту даху, водостоків, басейнів, труб ПВХ, надувних човнів та кемпінгового обладнання. Витримує навантаження до 50 кг, стійка до температур від −45 до +85 °C. Придатна для ПВХ, металу, скла, кераміки, гуми, цементу та багатьох інших матеріалів. Також забезпечує звуко- та віброізоляцію.</g:description>
-    <g:link>https://autokaban.store/product/64</g:link>
-    <g:image_link>https://autokaban.store/images/flex-tape/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/flex-tape/2.jpg,https://autokaban.store/images/flex-tape/3.jpg,https://autokaban.store/images/flex-tape/4.jpg,https://autokaban.store/images/flex-tape/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/64</g:link>
+    <g:image_link>https://www.autokaban.store/images/flex-tape/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/flex-tape/2.jpg,https://www.autokaban.store/images/flex-tape/3.jpg,https://www.autokaban.store/images/flex-tape/4.jpg,https://www.autokaban.store/images/flex-tape/5.jpg</g:additional_image_link>
     <g:price>330 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1155,9 +1155,9 @@
     <g:id>65</g:id>
     <g:title>Універсальний ключ 48 в 1 Tiger Wrench + набір ключів Snap'n Grip</g:title>
     <g:description>Комбінований набір із двох незамінних інструментів: універсальний ключ Tiger Wrench 48-в-1 та два розвідні ключі Snap'n Grip. Tiger Wrench поєднує 48 інструментів в одному — обертається на 360° головка на обох кінцях дозволяє миттєво підібрати розмір для гайок і болтів будь-якої форми. Регулюється під кутом 45° для роботи в важкодоступних місцях. Надміцна сталева конструкція з потрійним хромовим покриттям — стійка до корозії і розрахована на багато років використання. Snap'n Grip доповнює набір: малий ключ (9–24 мм) та великий (16–36 мм) замінюють цілий набор гайкових ключів. Ідеальний комплект для ремонту авто, збирання меблів, господарських та сантехнічних робіт.</g:description>
-    <g:link>https://autokaban.store/product/65</g:link>
-    <g:image_link>https://autokaban.store/images/tiger-wrench/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/tiger-wrench/2.jpg,https://autokaban.store/images/tiger-wrench/3.jpg,https://autokaban.store/images/tiger-wrench/4.jpg,https://autokaban.store/images/tiger-wrench/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/65</g:link>
+    <g:image_link>https://www.autokaban.store/images/tiger-wrench/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/tiger-wrench/2.jpg,https://www.autokaban.store/images/tiger-wrench/3.jpg,https://www.autokaban.store/images/tiger-wrench/4.jpg,https://www.autokaban.store/images/tiger-wrench/5.jpg</g:additional_image_link>
     <g:price>370 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1173,9 +1173,9 @@
     <g:id>66</g:id>
     <g:title>Тріщотка з універсальною насадкою Instantly Grips Any Shape 7–19 мм</g:title>
     <g:description>Універсальна насадка з тріщоткою — один інструмент для гайок і болтів будь-якої форми діаметром від 7 до 19 мм. В головці насадки 54 сталеві штифти, які під тиском адаптуються під шестикутник, квадрат, рим-болт, гайку-баранчик та інші нестандартні кріплення. Квадрат 3/8″ для приєднання до тріщотки, а перехідник у комплекті дозволяє використовувати насадку з дрилем або шуруповертом. Корпус із нержавіючої сталі, фіксація за допомогою кулькового замку. Довжина тріщотки 175 мм, довжина головки 53 мм. Незамінний помічник для автосервісу, слюсарних та господарських робіт.</g:description>
-    <g:link>https://autokaban.store/product/66</g:link>
-    <g:image_link>https://autokaban.store/images/universal-socket/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/universal-socket/2.jpg,https://autokaban.store/images/universal-socket/3.jpg,https://autokaban.store/images/universal-socket/4.jpg,https://autokaban.store/images/universal-socket/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/66</g:link>
+    <g:image_link>https://www.autokaban.store/images/universal-socket/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/universal-socket/2.jpg,https://www.autokaban.store/images/universal-socket/3.jpg,https://www.autokaban.store/images/universal-socket/4.jpg,https://www.autokaban.store/images/universal-socket/5.jpg</g:additional_image_link>
     <g:price>320 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1191,9 +1191,9 @@
     <g:id>67</g:id>
     <g:title>Гнучкий подовжувач для викрутки та дрилі Snake Bit TOOL (40 см)</g:title>
     <g:description>Гнучкий подовжувач Snake Bit TOOL — незамінний інструмент для роботи з гвинтами та болтами у важкодоступних місцях, де звичайна викрутка або дриль не справляються. Завдяки діелектричному пластиковому корпусу безпечний при роботі з електричними мережами. Внутрішній стрижень із нержавіючої сталі витримує високі навантаження та зберігає жорсткість при згинанні. Довжина 29 см дозволяє обходити перешкоди та діставати до вузьких просторів. У комплекті: подовжувач, рукоятка для ручної викрутки та набір із 6 біт для різних типів кріплень. Ідеальний для ремонту автомобіля, побутової техніки, складання меблів та електромонтажних робіт.</g:description>
-    <g:link>https://autokaban.store/product/67</g:link>
-    <g:image_link>https://autokaban.store/images/snake-bit/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/snake-bit/2.jpg,https://autokaban.store/images/snake-bit/3.jpg,https://autokaban.store/images/snake-bit/4.jpg,https://autokaban.store/images/snake-bit/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/67</g:link>
+    <g:image_link>https://www.autokaban.store/images/snake-bit/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/snake-bit/2.jpg,https://www.autokaban.store/images/snake-bit/3.jpg,https://www.autokaban.store/images/snake-bit/4.jpg,https://www.autokaban.store/images/snake-bit/5.jpg</g:additional_image_link>
     <g:price>310 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1209,9 +1209,9 @@
     <g:id>68</g:id>
     <g:title>Набір прецизійних викруток 48 в 1 у металевому футлярі</g:title>
     <g:description>Професійний набір із 48 змінних біт та прецизійної викрутки для ремонту смартфонів, планшетів, ноутбуків та іншої електроніки. Біти виготовлені з інструментальної сталі — довговічні та стійкі до зносу. Зручна ручка з покриттям запобігає прокручуванню в руці. Набір включає прямі, хрестоподібні, Torx, шестигранні, п'ятикутні, квадратні насадки, спаннери, трикутні та трилисники — підходить для iPhone, Samsung, Xiaomi, Sony та інших брендів. Постачається в металевому футлярі для зручного зберігання та транспортування.</g:description>
-    <g:link>https://autokaban.store/product/68</g:link>
-    <g:image_link>https://autokaban.store/images/precision-screwdriver/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/precision-screwdriver/2.jpg,https://autokaban.store/images/precision-screwdriver/3.jpg,https://autokaban.store/images/precision-screwdriver/4.jpg,https://autokaban.store/images/precision-screwdriver/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/68</g:link>
+    <g:image_link>https://www.autokaban.store/images/precision-screwdriver/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/precision-screwdriver/2.jpg,https://www.autokaban.store/images/precision-screwdriver/3.jpg,https://www.autokaban.store/images/precision-screwdriver/4.jpg,https://www.autokaban.store/images/precision-screwdriver/5.jpg</g:additional_image_link>
     <g:price>540 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1227,9 +1227,9 @@
     <g:id>69</g:id>
     <g:title>Набір 2 в 1: шуруповерт + гайковерт 48В у валізі (2 акумулятори)</g:title>
     <g:description>Потужний комбінований набір 2 в 1 — шуруповерт та гайковерт на 48В з двома Li-ion акумуляторами. Шуруповерт оснащений патроном 0,8–10 мм, гайковерт — посадковим діаметром 1/2″. Крутний момент до 200 Н·м та швидкість обертання до 1800 об/хв дозволяють впоратися з будь-якими завданнями: від закручування саморізів до відкручування прикипілих гайок на автомобілі. Регулювання швидкості, підсвічування робочої зони та ергономічний дизайн забезпечують комфортну роботу навіть у важкодоступних місцях. Вага комплекту 3,5 кг. Постачається в зручній пластиковій валізі разом із зарядним пристроєм та набором біт і насадок.</g:description>
-    <g:link>https://autokaban.store/product/69</g:link>
-    <g:image_link>https://autokaban.store/images/drill-wrench-set/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/drill-wrench-set/2.jpg,https://autokaban.store/images/drill-wrench-set/3.jpg,https://autokaban.store/images/drill-wrench-set/4.jpg,https://autokaban.store/images/drill-wrench-set/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/69</g:link>
+    <g:image_link>https://www.autokaban.store/images/drill-wrench-set/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/drill-wrench-set/2.jpg,https://www.autokaban.store/images/drill-wrench-set/3.jpg,https://www.autokaban.store/images/drill-wrench-set/4.jpg,https://www.autokaban.store/images/drill-wrench-set/5.jpg</g:additional_image_link>
     <g:price>3450 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1245,9 +1245,9 @@
     <g:id>70</g:id>
     <g:title>Професійний набір інструментів Krafftec Tools Set у алюмінієвій валізі (188 предметів)</g:title>
     <g:description>Професійний набір із 188 інструментів у міцній алюмінієвій валізі — повне рішення для автосервісу, ремонтної майстерні та домашнього господарства. Усі інструменти виготовлені з хромованадієвої сталі (CrV), яка забезпечує стійкість до корозії, зносу та високу міцність. До комплекту входять: тріщотки 1/2″ та 1/4″, торцеві головки, накидні ключі, викрутки (включно з прецизійними та ізольованими), набір пасатижів та кліщів, молоток, крімпер, рулетка 3 м, спиртовий рівень, ніж, ізолента, магнітний тримач біт, тестер напруги та коробка зі 70 аксесуарами (цвяхи, дюбелі, шурупи). Знімні касети дозволяють швидко знайти потрібний інструмент.</g:description>
-    <g:link>https://autokaban.store/product/70</g:link>
-    <g:image_link>https://autokaban.store/images/krafftec-tools/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/krafftec-tools/2.jpg,https://autokaban.store/images/krafftec-tools/3.jpg,https://autokaban.store/images/krafftec-tools/4.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/70</g:link>
+    <g:image_link>https://www.autokaban.store/images/krafftec-tools/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/krafftec-tools/2.jpg,https://www.autokaban.store/images/krafftec-tools/3.jpg,https://www.autokaban.store/images/krafftec-tools/4.jpg</g:additional_image_link>
     <g:price>4200 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1263,9 +1263,9 @@
     <g:id>71</g:id>
     <g:title>Професійний набір інструментів Rainberg RB-001 у валізі на коліщатках (399 предметів)</g:title>
     <g:description>Професійний набір із 399 інструментів від торгової марки Rainberg у великій валізі на коліщатках з висувною ручкою. Усі предмети виготовлені зі сплаву хром-ванадій (CrV) — стійкого до корозії та зносу. Інструменти розміщені у чотирьох відділеннях для зручного зберігання. До комплекту входять: тріщотки та торцеві головки, накидні ключі (8–19 мм), викрутки (включно з діелектричними), пасатижі, тонкогубці, бокорізи, кліщі переставні, молоток з гвоздодером, крімпер для зняття ізоляції, алюмінієвий рівень 250 мм, рулетка 5 м, висувний ніж, магнітна указка, комплект кріплення (60 предметів) та ізоляційна стрічка. Підходить для професійного та домашнього використання — чудовий подарунок.</g:description>
-    <g:link>https://autokaban.store/product/71</g:link>
-    <g:image_link>https://autokaban.store/images/rainberg-tools/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/rainberg-tools/2.jpg,https://autokaban.store/images/rainberg-tools/3.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/71</g:link>
+    <g:image_link>https://www.autokaban.store/images/rainberg-tools/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/rainberg-tools/2.jpg,https://www.autokaban.store/images/rainberg-tools/3.jpg</g:additional_image_link>
     <g:price>4200 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1281,8 +1281,8 @@
     <g:id>72</g:id>
     <g:title>Набір торцевих ключів ONEX OX-250S з тріщотками (108 предметів)</g:title>
     <g:description>Професійний набір торцевих ключів ONEX OX-250S — 108 предметів у міцному пластиковому кейсі. Два розміри приводів: 1/2″ та 1/4″ для роботи з будь-якими кріпленнями. Торцеві головки 1/2″ (10–32 мм), головки 1/4″ (4–14 мм), подовжені розетки, свічкові ключі (16, 21 мм). Дві тріщотки з 72 зубцями забезпечують плавну роботу у вузьких місцях. У комплекті: подовжувачі, карданні шарніри, біти TORX, шестигранні та хрестові насадки, Т-подібна ручка, викрутка для біт. Усі інструменти виготовлені з хромованадієвої сталі (CrV) — стійкої до корозії та зносу. Ідеальний для автосервісу та ремонтних робіт.</g:description>
-    <g:link>https://autokaban.store/product/72</g:link>
-    <g:image_link>https://autokaban.store/images/onex-socket-set/1.jpg</g:image_link>
+    <g:link>https://www.autokaban.store/product/72</g:link>
+    <g:image_link>https://www.autokaban.store/images/onex-socket-set/1.jpg</g:image_link>
     <g:price>1830 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1298,9 +1298,9 @@
     <g:id>73</g:id>
     <g:title>Акумуляторний ударний гайковерт Boxer SR-023 24,4В (до 2800 об/хв)</g:title>
     <g:description>Професійний акумуляторний ударний гайковерт Boxer SR-023 — потужний інструмент для автосервісу, будівництва та монтажних робіт. Крутний момент до 400 Н·м дозволяє легко відкручувати навіть закислі та прикипілі гайки. Два Li-ion акумулятори 24,4В забезпечують тривалу автономну роботу без підключення до мережі. Швидкість обертання до 2800 об/хв, посадковий розмір 1/2&quot; підходить для більшості стандартних болтів і гайок. Ергономічна рукоятка з прогумованими вставками для комфортної роботи. У комплекті: гайковерт, 2 акумулятори, зарядний пристрій, набір головок та валіза для зберігання.</g:description>
-    <g:link>https://autokaban.store/product/73</g:link>
-    <g:image_link>https://autokaban.store/images/boxer-wrench/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/boxer-wrench/2.jpg,https://autokaban.store/images/boxer-wrench/3.jpg,https://autokaban.store/images/boxer-wrench/4.jpg,https://autokaban.store/images/boxer-wrench/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/73</g:link>
+    <g:image_link>https://www.autokaban.store/images/boxer-wrench/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/boxer-wrench/2.jpg,https://www.autokaban.store/images/boxer-wrench/3.jpg,https://www.autokaban.store/images/boxer-wrench/4.jpg,https://www.autokaban.store/images/boxer-wrench/5.jpg</g:additional_image_link>
     <g:price>2650 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1316,9 +1316,9 @@
     <g:id>74</g:id>
     <g:title>Електричний ударний гайковерт Boxer BX-479 12В від прикурювача (до 3000 об/хв)</g:title>
     <g:description>Електричний ударний гайковерт Boxer BX-479 — компактний потужний інструмент для заміни коліс прямо в дорозі. Працює від автомобільного прикурювача 12В — не потребує додаткового живлення. Крутний момент 380 Н·м та швидкість до 3000 об/хв дозволяють швидко впоратися з навіть сильно затягнутими колісними болтами. У комплекті два змінні гнізда: 17/19 мм та 21/23 мм — підходять для більшості легкових автомобілів, позашляховиків та мікроавтобусів. Зберігається в компактній валізі, яка завжди може бути в багажнику. Незамінний помічник для автолюбителів та професійних механіків.</g:description>
-    <g:link>https://autokaban.store/product/74</g:link>
-    <g:image_link>https://autokaban.store/images/boxer-bx479/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/boxer-bx479/2.jpg,https://autokaban.store/images/boxer-bx479/3.jpg,https://autokaban.store/images/boxer-bx479/4.jpg,https://autokaban.store/images/boxer-bx479/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/74</g:link>
+    <g:image_link>https://www.autokaban.store/images/boxer-bx479/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/boxer-bx479/2.jpg,https://www.autokaban.store/images/boxer-bx479/3.jpg,https://www.autokaban.store/images/boxer-bx479/4.jpg,https://www.autokaban.store/images/boxer-bx479/5.jpg</g:additional_image_link>
     <g:price>1800 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1334,9 +1334,9 @@
     <g:id>75</g:id>
     <g:title>Акумуляторний ударний гайковерт Boxer SR-022 20,4В 250 Н·м (2 акумулятори)</g:title>
     <g:description>Акумуляторний ударний гайковерт Boxer SR-022 — надійний інструмент для гаража та автосервісу. Два Li-ion акумулятори 20,4В (2600 мА·год) забезпечують тривалу автономну роботу без прив'язки до мережі. Крутний момент 250 Н·м та швидкість до 2400 об/хв дозволяють швидко відкручувати навіть найупертіші гайки. Посадковий квадрат 1/2&quot; з посиленою ручкою, LED-підсвічування для роботи в темних умовах, обертання ліворуч/праворуч. Зарядка акумулятора за 1 годину. У комплекті: гайковерт, 2 акумулятори, зарядний пристрій, 4 головки (17, 19, 21, 22 мм) та кейс для зберігання.</g:description>
-    <g:link>https://autokaban.store/product/75</g:link>
-    <g:image_link>https://autokaban.store/images/boxer-sr022/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/boxer-sr022/2.jpg,https://autokaban.store/images/boxer-sr022/3.jpg,https://autokaban.store/images/boxer-sr022/4.jpg,https://autokaban.store/images/boxer-sr022/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/75</g:link>
+    <g:image_link>https://www.autokaban.store/images/boxer-sr022/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/boxer-sr022/2.jpg,https://www.autokaban.store/images/boxer-sr022/3.jpg,https://www.autokaban.store/images/boxer-sr022/4.jpg,https://www.autokaban.store/images/boxer-sr022/5.jpg</g:additional_image_link>
     <g:price>2700 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1352,9 +1352,9 @@
     <g:id>76</g:id>
     <g:title>Набір гайкових ключів Boxer BX-011S (172 предмети) у кейсі</g:title>
     <g:description>Професійний набір із 172 інструментів Boxer BX-011S у пластиковому кейсі. Три розміри приводів: 1/4&quot;, 3/8&quot; та 1/2&quot; з тріщотками на 45 зубів кожна. Торцеві головки від 4 до 32 мм, свічкові ключі (16, 18, 21 мм), головки TORX (E4–E24), подовжувачі, карданні шарніри та адаптери. Великий набір біт: хрестові (PH), шлицеві (SL), шестигранні, TORX, TORX з отвором. Шестигранні ключі від 1,27 до 5 мм. Усі компоненти виготовлені з хромованадієвої сталі CrV — стійкої до корозії та зносу. Універсальний набір для професійного та домашнього використання.</g:description>
-    <g:link>https://autokaban.store/product/76</g:link>
-    <g:image_link>https://autokaban.store/images/boxer-bx011s/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/boxer-bx011s/2.jpg,https://autokaban.store/images/boxer-bx011s/3.jpg,https://autokaban.store/images/boxer-bx011s/4.jpg,https://autokaban.store/images/boxer-bx011s/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/76</g:link>
+    <g:image_link>https://www.autokaban.store/images/boxer-bx011s/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/boxer-bx011s/2.jpg,https://www.autokaban.store/images/boxer-bx011s/3.jpg,https://www.autokaban.store/images/boxer-bx011s/4.jpg,https://www.autokaban.store/images/boxer-bx011s/5.jpg</g:additional_image_link>
     <g:price>2850 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1370,8 +1370,8 @@
     <g:id>77</g:id>
     <g:title>Безщітковий акумуляторний ударний гайковерт Yellow (2 АКБ + кейс)</g:title>
     <g:description>Сучасний безщітковий ударний гайковерт Yellow — потужний та надійний інструмент для професійного та побутового використання. Безщітковий двигун забезпечує менший знос, економію енергії та тиху роботу порівняно зі звичайними моделями. Ударний механізм значно підвищує крутний момент для роботи із складними кріпленнями. Ергономічна рукоятка з протиковзким покриттям та міцний металевий корпус редуктора. У комплекті: гайковерт, 2 акумулятори, зарядний пристрій з індикацією, набір біт та свердел — все у надійному пластиковому кейсі з фіксуючими замками. Підходить для ремонту авто, монтажних та будівельних робіт.</g:description>
-    <g:link>https://autokaban.store/product/77</g:link>
-    <g:image_link>https://autokaban.store/images/brushless-wrench-yellow/1.jpg</g:image_link>
+    <g:link>https://www.autokaban.store/product/77</g:link>
+    <g:image_link>https://www.autokaban.store/images/brushless-wrench-yellow/1.jpg</g:image_link>
     <g:price>1900 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1387,9 +1387,9 @@
     <g:id>78</g:id>
     <g:title>Акумуляторний шуруповерт 24В з насадками у кейсі (2 АКБ 5,0 А·год)</g:title>
     <g:description>Акумуляторний шуруповерт 24В з технологією Clever Discharge — розумна розрядка збільшує час роботи на 25% порівняно з аналогами. Потужний двигун забезпечує крутний момент 24 Н·м та швидкість до 3500 об/хв. 18 режимів обертання плюс реверс для точного контролю. Свердлильний патрон 0,8–10 мм, діаметр свердління: дерево до 20 мм, сталь до 10 мм. LED-підсвічування для роботи в умовах слабкого освітлення. Два Li-ion акумулятори 24В/5,0 А·год заряджаються за 1–2 години. Вага лише 1,125 кг — легкий та зручний. У комплекті: шуруповерт, 2 акумулятори, зарядний пристрій, свердел та біти, пластиковий кейс.</g:description>
-    <g:link>https://autokaban.store/product/78</g:link>
-    <g:image_link>https://autokaban.store/images/cordless-drill-24v/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/cordless-drill-24v/2.jpg,https://autokaban.store/images/cordless-drill-24v/3.jpg,https://autokaban.store/images/cordless-drill-24v/4.jpg,https://autokaban.store/images/cordless-drill-24v/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/78</g:link>
+    <g:image_link>https://www.autokaban.store/images/cordless-drill-24v/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/cordless-drill-24v/2.jpg,https://www.autokaban.store/images/cordless-drill-24v/3.jpg,https://www.autokaban.store/images/cordless-drill-24v/4.jpg,https://www.autokaban.store/images/cordless-drill-24v/5.jpg</g:additional_image_link>
     <g:price>750 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1405,9 +1405,9 @@
     <g:id>79</g:id>
     <g:title>Акумуляторний шуруповерт Krafftec 24В з насадками у кейсі</g:title>
     <g:description>Акумуляторний шуруповерт Krafftec 24В — надійний інструмент для домашнього ремонту та професійних завдань. Li-ion акумулятор забезпечує тривалу автономну роботу без прив'язки до мережі. Регулювання швидкості та крутного моменту дозволяє точно підбирати зусилля для різних матеріалів. Ергономічна рукоятка та легка вага не втомлюють руку при тривалій роботі. У комплекті набір біт та свердел для різноманітних завдань. Зарядка акумулятора за 1–2 години. Ідеальний для ремонту, збирання меблів та будівельних робіт.</g:description>
-    <g:link>https://autokaban.store/product/79</g:link>
-    <g:image_link>https://autokaban.store/images/krafftec-drill-24v/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/krafftec-drill-24v/2.jpg,https://autokaban.store/images/krafftec-drill-24v/3.jpg,https://autokaban.store/images/krafftec-drill-24v/4.jpg,https://autokaban.store/images/krafftec-drill-24v/5.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/79</g:link>
+    <g:image_link>https://www.autokaban.store/images/krafftec-drill-24v/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/krafftec-drill-24v/2.jpg,https://www.autokaban.store/images/krafftec-drill-24v/3.jpg,https://www.autokaban.store/images/krafftec-drill-24v/4.jpg,https://www.autokaban.store/images/krafftec-drill-24v/5.jpg</g:additional_image_link>
     <g:price>1020 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1423,9 +1423,9 @@
     <g:id>80</g:id>
     <g:title>Набір 3 в 1 Boxer SR-032: шуруповерт + гайковерт + викрутка (24В, 2 АКБ)</g:title>
     <g:description>Професійний набір Boxer SR-032 — три інструменти в одному комплекті на базі єдиної акумуляторної платформи 24В. Шуруповерт/дриль (крутний момент до 60 Н·м, швидкозатискний патрон 13 мм, 3 режими роботи) для свердління та закручування. Ударний гайковерт (до 220 Н·м, 3200 уд/хв, до 2800 об/хв) для роботи з болтами та гайками. Компактна електрична викрутка з регулюванням крутного моменту для дрібних робіт у важкодоступних місцях. Два Li-ion акумулятори 24В з швидкою зарядкою, LED-підсвічування на кожному інструменті. У комплекті: 3 інструменти, 2 акумулятори, зарядний пристрій, набір біт та головок, валіза.</g:description>
-    <g:link>https://autokaban.store/product/80</g:link>
-    <g:image_link>https://autokaban.store/images/boxer-sr032/1.jpg</g:image_link>
-    <g:additional_image_link>https://autokaban.store/images/boxer-sr032/2.jpg,https://autokaban.store/images/boxer-sr032/3.jpg,https://autokaban.store/images/boxer-sr032/4.jpg</g:additional_image_link>
+    <g:link>https://www.autokaban.store/product/80</g:link>
+    <g:image_link>https://www.autokaban.store/images/boxer-sr032/1.jpg</g:image_link>
+    <g:additional_image_link>https://www.autokaban.store/images/boxer-sr032/2.jpg,https://www.autokaban.store/images/boxer-sr032/3.jpg,https://www.autokaban.store/images/boxer-sr032/4.jpg</g:additional_image_link>
     <g:price>3950 UAH</g:price>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
