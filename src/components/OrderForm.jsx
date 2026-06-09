@@ -5,6 +5,12 @@ const CHAT_ID = "7541394049";
 const NP_API = "https://api.novaposhta.ua/v2.0/json/";
 const NP_KEY = "d23de792fea9e5082f03a7a4fa8ab393";
 
+const isValidName = (v) => /^[А-ЯЄІЇҐа-яєіїґA-Za-z'\s-]{2,}$/.test(v.trim());
+const isValidPhone = (v) => {
+  const d = v.replace(/\D/g, "");
+  return (d.length === 10 && d[0] === "0") || (d.length === 12 && d.startsWith("380"));
+};
+
 export default function OrderForm({ cart, totalPrice, onSuccess }) {
   const [form, setForm] = useState({
     name: "",
@@ -21,10 +27,12 @@ export default function OrderForm({ cart, totalPrice, onSuccess }) {
   const [loadingCities, setLoadingCities] = useState(false);
   const [loadingWH, setLoadingWH] = useState(false);
   const [status, setStatus] = useState("idle");
+  const [errors, setErrors] = useState({});
   const cityTimer = useRef(null);
 
   const handleChange = (e) => {
     setForm({ ...form, [e.target.name]: e.target.value });
+    setErrors((prev) => ({ ...prev, [e.target.name]: "" }));
   };
 
   const searchCities = async (query) => {
@@ -64,6 +72,7 @@ export default function OrderForm({ cart, totalPrice, onSuccess }) {
       warehouseRef: "",
       warehouseName: "",
     }));
+    setErrors((prev) => ({ ...prev, city: "" }));
     setShowCities(false);
     setCities([]);
     setLoadingWH(true);
@@ -100,6 +109,12 @@ export default function OrderForm({ cart, totalPrice, onSuccess }) {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    const errs = {};
+    if (!isValidName(form.name)) errs.name = "Введіть ім'я літерами (мін. 2 символи)";
+    if (!isValidPhone(form.phone)) errs.phone = "Формат: 0XXXXXXXXX або +380XXXXXXXXX";
+    if (!form.cityRef) errs.city = "Оберіть місто зі списку";
+    if (!form.warehouseRef) errs.warehouse = "Оберіть відділення";
+    if (Object.keys(errs).length > 0) { setErrors(errs); return; }
     setStatus("sending");
 
     const itemsText = cart
@@ -166,24 +181,30 @@ ${itemsText}
     <form style={styles.form} onSubmit={handleSubmit}>
       <h4 style={{ color: "#fff", marginBottom: 8 }}>Оформити замовлення</h4>
 
-      <input
-        style={styles.input}
-        type="text"
-        name="name"
-        placeholder="Ім'я та прізвище"
-        value={form.name}
-        onChange={handleChange}
-        required
-      />
-      <input
-        style={styles.input}
-        type="tel"
-        name="phone"
-        placeholder="Номер телефону"
-        value={form.phone}
-        onChange={handleChange}
-        required
-      />
+      <div>
+        <input
+          style={{ ...styles.input, borderColor: errors.name ? "#f44336" : undefined }}
+          type="text"
+          name="name"
+          placeholder="Ім'я та прізвище"
+          value={form.name}
+          onChange={handleChange}
+          required
+        />
+        {errors.name && <p style={{ color: "#f44336", fontSize: "0.8rem", marginTop: 2, marginBottom: 0 }}>{errors.name}</p>}
+      </div>
+      <div>
+        <input
+          style={{ ...styles.input, borderColor: errors.phone ? "#f44336" : undefined }}
+          type="tel"
+          name="phone"
+          placeholder="Номер телефону"
+          value={form.phone}
+          onChange={handleChange}
+          required
+        />
+        {errors.phone && <p style={{ color: "#f44336", fontSize: "0.8rem", marginTop: 2, marginBottom: 0 }}>{errors.phone}</p>}
+      </div>
 
       <div style={styles.deliveryBadge}>
         📦 Доставка Новою Поштою по всій Україні
@@ -236,6 +257,7 @@ ${itemsText}
                 warehouseRef: wh.Ref,
                 warehouseName: wh.Description,
               }));
+              setErrors((prev) => ({ ...prev, warehouse: "" }));
             }}
             required
           >

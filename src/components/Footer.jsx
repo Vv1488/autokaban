@@ -31,6 +31,7 @@ export default function Footer() {
           <h4 style={styles.colTitle}>Контакти</h4>
           <a href="https://t.me/autokaban" style={styles.footerLink}>Telegram</a>
           <a href="tel:+380980630594" style={styles.footerLink}>+38 (098) 063-05-94</a>
+          <a href="mailto:vitalijmisura316@gmail.com" style={styles.footerLink}>vitalijmisura316@gmail.com</a>
         </div>
 
         <div style={styles.col}>
