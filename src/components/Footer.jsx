@@ -46,9 +46,6 @@ export default function Footer() {
 
       <div style={styles.bottom}>
         <p>&copy; {new Date().getFullYear()} AutoKaban. Усі права захищені.</p>
-        <p style={styles.bottomInfo}>
-          Власник: Місюра Виталій Анатолійович · вул. Минина 11, м. Дніпро, 49000, Україна
-        </p>
       </div>
     </footer>
   );
@@ -117,11 +114,5 @@ const styles = {
     textAlign: "center",
     color: "var(--text-muted)",
     fontSize: "0.85rem",
-  },
-  bottomInfo: {
-    marginTop: 4,
-    fontSize: "0.8rem",
-    color: "var(--text-muted)",
-    opacity: 0.8,
   },
 };

@@ -25,21 +25,6 @@ export default function AboutPage() {
           </div>
 
           <div style={styles.block}>
-            <h3>👤 Власник та контактна особа</h3>
-            <p style={styles.text}>
-              <strong>Місюра Виталій Анатолійович</strong> — фізична особа-підприємець.
-            </p>
-            <p style={styles.text}>
-              Місце діяльності: м. Дніпро, Україна.
-            </p>
-            <p style={styles.text}>
-              Телефон: <a href="tel:+380980630594" style={styles.orangeLink}>+38 (098) 063-05-94</a><br />
-              Email: <a href="mailto:vitalijmisura316@gmail.com" style={styles.orangeLink}>vitalijmisura316@gmail.com</a><br />
-              Telegram: <a href="https://t.me/autokaban" target="_blank" rel="noopener noreferrer" style={styles.orangeLink}>@autokaban</a>
-            </p>
-          </div>
-
-          <div style={styles.block}>
             <h3>📦 Як ми працюємо</h3>
             <p style={styles.text}>
               AutoKaban працює за моделлю прямої доставки (дропшипінг). Ми співпрацюємо
@@ -95,17 +80,6 @@ export default function AboutPage() {
             </p>
           </div>
 
-          <div style={{ ...styles.block, background: "var(--bg)" }}>
-            <h3>📋 Дані магазину</h3>
-            <p style={styles.text}>
-              <strong>Назва:</strong> AutoKaban<br />
-              <strong>Власник:</strong> Місюра Виталій Анатолійович<br />
-              <strong>Адреса:</strong> вул. Минина 11, м. Дніпро, 49000, Україна<br />
-              <strong>Телефон:</strong> +38 (098) 063-05-94<br />
-              <strong>Email:</strong> vitalijmisura316@gmail.com<br />
-              <strong>Telegram:</strong> @autokaban
-            </p>
-          </div>
         </div>
       </div>
     </div>
