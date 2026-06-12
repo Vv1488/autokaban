@@ -45,6 +45,9 @@ export default function Header() {
           <NavLink to="/contacts" style={({ isActive }) => ({ ...styles.link, borderBottomColor: isActive ? "var(--orange)" : "transparent" })} onClick={() => setMenuOpen(false)}>
             Контакти
           </NavLink>
+          <NavLink to="/faq" style={({ isActive }) => ({ ...styles.link, borderBottomColor: isActive ? "var(--orange)" : "transparent" })} onClick={() => setMenuOpen(false)}>
+            FAQ
+          </NavLink>
         </nav>
 
         <button style={styles.cartBtn} onClick={() => setIsOpen(true)}>

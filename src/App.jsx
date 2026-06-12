@@ -12,6 +12,7 @@ import PrivacyPolicyPage from "./pages/PrivacyPolicyPage";
 import ReturnPolicyPage from "./pages/ReturnPolicyPage";
 import TermsPage from "./pages/TermsPage";
 import ShippingPage from "./pages/ShippingPage";
+import FaqPage from "./pages/FaqPage";
 import { CartProvider } from "./components/CartContext";
 import "./App.css";
 
@@ -76,6 +77,7 @@ function App() {
             <Route path="/returns" element={<ReturnPolicyPage />} />
             <Route path="/terms" element={<TermsPage />} />
             <Route path="/shipping" element={<ShippingPage />} />
+            <Route path="/faq" element={<FaqPage />} />
           </Routes>
         </main>
         <Footer />
