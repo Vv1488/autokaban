@@ -46,6 +46,9 @@ export default function Footer() {
 
       <div style={styles.bottom}>
         <p>&copy; {new Date().getFullYear()} AutoKaban. Усі права захищені.</p>
+        <p style={styles.bottomInfo}>
+          вул. Минина 11, м. Дніпро, 49000, Україна · +38 (098) 063-05-94 · vitalijmisura316@gmail.com
+        </p>
       </div>
     </footer>
   );
@@ -114,5 +117,10 @@ const styles = {
     textAlign: "center",
     color: "var(--text-muted)",
     fontSize: "0.85rem",
+  },
+  bottomInfo: {
+    marginTop: 4,
+    fontSize: "0.8rem",
+    opacity: 0.8,
   },
 };
