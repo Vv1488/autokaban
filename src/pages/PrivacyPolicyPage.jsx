@@ -124,6 +124,12 @@ export default function PrivacyPolicyPage() {
             </p>
             <ul style={styles.list}>
               <li>
+                Email:{" "}
+                <a href="mailto:autokaban.store@gmail.com" style={styles.link}>
+                  autokaban.store@gmail.com
+                </a>
+              </li>
+              <li>
                 Telegram:{" "}
                 <a href="https://t.me/autokaban" style={styles.link}>
                   @autokaban
@@ -135,7 +141,6 @@ export default function PrivacyPolicyPage() {
                   +38 (098) 063-05-94
                 </a>
               </li>
-              <li>Адреса: м. Дніпро, Україна</li>
             </ul>
           </div>
 

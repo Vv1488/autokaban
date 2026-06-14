@@ -130,7 +130,12 @@ export default function TermsPage() {
                   +38 (098) 063-05-94
                 </a>
               </li>
-              <li>Адреса: м. Дніпро, Україна</li>
+              <li>
+                Email:{" "}
+                <a href="mailto:autokaban.store@gmail.com" style={styles.link}>
+                  autokaban.store@gmail.com
+                </a>
+              </li>
             </ul>
           </div>
 

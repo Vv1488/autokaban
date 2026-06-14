@@ -75,8 +75,8 @@ ${form.message.trim()}
         <div style={styles.layout} data-contacts-layout>
           <div style={styles.info}>
             <div style={styles.infoBlock}>
-              <h3>📍 Адреса</h3>
-              <p style={styles.text}>вул. Минина 11, м. Дніпро, 49000, Україна</p>
+              <h3>📦 Доставка</h3>
+              <p style={styles.text}>Інтернет-магазин. Доставка Новою Поштою по всій Україні — у будь-яке відділення або поштомат.</p>
             </div>
 
             <div style={styles.infoBlock}>
@@ -88,8 +88,8 @@ ${form.message.trim()}
 
             <div style={styles.infoBlock}>
               <h3>📧 Email</h3>
-              <a href="mailto:vitalijmisura316@gmail.com" style={styles.link}>
-                vitalijmisura316@gmail.com
+              <a href="mailto:autokaban.store@gmail.com" style={styles.link}>
+                autokaban.store@gmail.com
               </a>
             </div>
 

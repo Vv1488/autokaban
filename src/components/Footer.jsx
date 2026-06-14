@@ -32,7 +32,7 @@ export default function Footer() {
           <h4 style={styles.colTitle}>Контакти</h4>
           <a href="https://t.me/autokaban" style={styles.footerLink}>Telegram</a>
           <a href="tel:+380980630594" style={styles.footerLink}>+38 (098) 063-05-94</a>
-          <a href="mailto:vitalijmisura316@gmail.com" style={styles.footerLink}>vitalijmisura316@gmail.com</a>
+          <a href="mailto:autokaban.store@gmail.com" style={styles.footerLink}>autokaban.store@gmail.com</a>
         </div>
 
         <div style={styles.col}>
@@ -47,7 +47,7 @@ export default function Footer() {
       <div style={styles.bottom}>
         <p>&copy; {new Date().getFullYear()} AutoKaban. Усі права захищені.</p>
         <p style={styles.bottomInfo}>
-          вул. Минина 11, м. Дніпро, 49000, Україна · +38 (098) 063-05-94 · vitalijmisura316@gmail.com
+          Інтернет-магазин автоаксесуарів · Доставка Новою Поштою по всій Україні · +38 (098) 063-05-94
         </p>
       </div>
     </footer>
