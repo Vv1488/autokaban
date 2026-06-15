@@ -17,6 +17,9 @@ export default function Header() {
       <div style={styles.inner}>
         <Link to="/" style={styles.logo}>
           <img src="/images/logo.png" alt="AutoKaban" style={styles.logoImg} />
+          <span style={styles.logoText}>
+            Auto<span style={styles.logoAccent}>Kaban</span>
+          </span>
         </Link>
 
         <button
@@ -80,14 +83,19 @@ const styles = {
   logo: {
     display: "flex",
     alignItems: "center",
+    gap: 10,
     textDecoration: "none",
     color: "#fff",
+    fontSize: "1.4rem",
+    fontWeight: 800,
   },
   logoImg: {
-    height: 48,
-    width: "auto",
+    height: 40,
+    width: 40,
     display: "block",
   },
+  logoText: { color: "#fff" },
+  logoAccent: { color: "var(--orange)" },
   nav: {
     display: "flex",
     gap: 24,
