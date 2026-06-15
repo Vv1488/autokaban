@@ -6,7 +6,7 @@ export default function Footer() {
       <div style={styles.inner} data-footer-inner>
         <div style={styles.col}>
           <div style={styles.logo}>
-            🚗 Auto<span style={{ color: "var(--orange)" }}>Kaban</span>
+            <img src="/images/logo.png" alt="AutoKaban" style={styles.logoImg} />
           </div>
           <p style={styles.desc}>
             Інтернет-магазин автоаксесуарів та гаджетів. Якісні товари за
@@ -86,10 +86,12 @@ const styles = {
     gap: 8,
   },
   logo: {
-    fontSize: "1.3rem",
-    fontWeight: 800,
-    color: "#fff",
-    marginBottom: 4,
+    marginBottom: 8,
+  },
+  logoImg: {
+    height: 64,
+    width: "auto",
+    display: "block",
   },
   desc: {
     color: "var(--text-muted)",

@@ -16,10 +16,7 @@ export default function Header() {
     <header style={styles.header}>
       <div style={styles.inner}>
         <Link to="/" style={styles.logo}>
-          <span style={styles.logoIcon}>🚗</span>
-          <span style={styles.logoText}>
-            Auto<span style={styles.logoAccent}>Kaban</span>
-          </span>
+          <img src="/images/logo.png" alt="AutoKaban" style={styles.logoImg} />
         </Link>
 
         <button
@@ -83,15 +80,14 @@ const styles = {
   logo: {
     display: "flex",
     alignItems: "center",
-    gap: 8,
     textDecoration: "none",
     color: "#fff",
-    fontSize: "1.4rem",
-    fontWeight: 800,
   },
-  logoIcon: { fontSize: "1.5rem" },
-  logoText: { color: "#fff" },
-  logoAccent: { color: "var(--orange)" },
+  logoImg: {
+    height: 48,
+    width: "auto",
+    display: "block",
+  },
   nav: {
     display: "flex",
     gap: 24,
