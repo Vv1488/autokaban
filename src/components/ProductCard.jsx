@@ -4,14 +4,17 @@ import { useCart } from "./CartContext";
 export default function ProductCard({ product }) {
   const { addToCart } = useCart();
 
+  const outOfStock = product.inStock === false;
+
   return (
-    <div style={styles.card}>
+    <div style={{ ...styles.card, ...(outOfStock ? styles.cardOut : {}) }}>
       {product.isHit && <span style={styles.badge}>Хіт</span>}
       {product.isNew && <span style={{ ...styles.badge, background: "#4caf50" }}>Новинка</span>}
+      {outOfStock && <span style={styles.badgeOut}>Немає в наявності</span>}
 
       <Link to={`/product/${product.id}`}>
         <div style={styles.imageWrap}>
-          <img src={product.images[0]} alt={product.name} style={styles.image} />
+          <img src={product.images[0]} alt={product.name} style={{ ...styles.image, ...(outOfStock ? styles.imageOut : {}) }} />
         </div>
       </Link>
 
@@ -21,16 +24,22 @@ export default function ProductCard({ product }) {
         </Link>
 
         <div style={styles.prices}>
-          <span style={styles.price}>{product.price} грн</span>
+          <span style={{ ...styles.price, ...(outOfStock ? styles.priceOut : {}) }}>{product.price} грн</span>
         </div>
 
-        <button
-          className="btn btn-primary"
-          style={styles.btn}
-          onClick={() => addToCart(product)}
-        >
-          В кошик
-        </button>
+        {outOfStock ? (
+          <button className="btn" style={styles.btnOut} disabled>
+            Немає в наявності
+          </button>
+        ) : (
+          <button
+            className="btn btn-primary"
+            style={styles.btn}
+            onClick={() => addToCart(product)}
+          >
+            В кошик
+          </button>
+        )}
       </div>
     </div>
   );
@@ -57,6 +66,36 @@ const styles = {
     fontSize: "0.7rem",
     fontWeight: 700,
     zIndex: 1,
+  },
+  badgeOut: {
+    position: "absolute",
+    top: 8,
+    right: 8,
+    background: "#f44336",
+    color: "#fff",
+    padding: "2px 8px",
+    borderRadius: 20,
+    fontSize: "0.7rem",
+    fontWeight: 700,
+    zIndex: 1,
+  },
+  cardOut: {
+    opacity: 0.85,
+  },
+  imageOut: {
+    filter: "grayscale(1)",
+  },
+  priceOut: {
+    opacity: 0.6,
+  },
+  btnOut: {
+    width: "100%",
+    padding: "8px",
+    fontSize: "0.8rem",
+    background: "#3a3a3a",
+    color: "#999",
+    border: "1px solid #555",
+    cursor: "not-allowed",
   },
   imageWrap: {
     width: "100%",
