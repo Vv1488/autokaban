@@ -55,7 +55,7 @@ export default function FaqPage() {
       <div className="container">
         <Helmet>
           <title>Часті питання — AutoKaban</title>
-          <meta name="description" content="Часті питання про замовлення, доставку, оплату та повернення в інтернет-магазині автоаксесуарів AutoKaban." />
+          <meta name="description" content="Часті питання про замовлення, доставку, оплату та повернення в інтернет-магазині автотоварів AutoKaban." />
         </Helmet>
         <div className="section-title">
           <h2>Часті питання</h2>

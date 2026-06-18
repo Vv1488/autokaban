@@ -11,8 +11,8 @@ export default function MainPage() {
   return (
     <>
       <Helmet>
-        <title>AutoKaban — Автоаксесуари та гаджети</title>
-        <meta name="description" content="Інтернет-магазин автоаксесуарів AutoKaban. Магнітоли, компресори, пилососи, автохімія та багато іншого. Доставка по всій Україні." />
+        <title>AutoKaban — Автотовари та гаджети</title>
+        <meta name="description" content="Інтернет-магазин автотоварів AutoKaban. Магнітоли, компресори, пилососи, автохімія та багато іншого. Доставка по всій Україні." />
       </Helmet>
     <div>
       {/* Hero */}
@@ -20,7 +20,7 @@ export default function MainPage() {
         <div style={styles.heroOverlay} />
         <div style={styles.heroContent}>
           <h1 style={styles.heroTitle}>
-            Автоаксесуари <br />
+            Автотовари <br />
             <span style={{ color: "var(--orange)" }}>для справжніх водіїв</span>
           </h1>
           <p style={styles.heroSub}>

@@ -9,7 +9,7 @@ export default function Footer() {
             <img src="/images/logo.png" alt="AutoKaban" style={styles.logoImg} />
           </div>
           <p style={styles.desc}>
-            Інтернет-магазин автоаксесуарів та гаджетів. Якісні товари за
+            Інтернет-магазин автотоварів та гаджетів. Якісні товари за
             доступними цінами з доставкою по всій Україні.
           </p>
         </div>
@@ -47,7 +47,7 @@ export default function Footer() {
       <div style={styles.bottom}>
         <p>&copy; {new Date().getFullYear()} AutoKaban. Усі права захищені.</p>
         <p style={styles.bottomInfo}>
-          Інтернет-магазин автоаксесуарів · Доставка Новою Поштою по всій Україні · +38 (098) 063-05-94
+          Інтернет-магазин автотоварів · Доставка Новою Поштою по всій Україні · +38 (098) 063-05-94
         </p>
       </div>
     </footer>

@@ -26,7 +26,7 @@ export default function CatalogPage() {
       <div className="container">
         <Helmet>
           <title>{currentCategory ? `${currentCategory.name} — AutoKaban` : "Каталог — AutoKaban"}</title>
-          <meta name="description" content={currentCategory ? `${currentCategory.name} за найкращими цінами. Доставка по всій Україні.` : "Каталог автоаксесуарів та гаджетів. Магнітоли, компресори, пилососи та інше."} />
+          <meta name="description" content={currentCategory ? `${currentCategory.name} за найкращими цінами. Доставка по всій Україні.` : "Каталог автотоварів та гаджетів. Магнітоли, компресори, пилососи та інше."} />
         </Helmet>
         <div className="section-title">
           <h2>{currentCategory ? currentCategory.name : "Усі товари"}</h2>
